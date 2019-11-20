@@ -1,0 +1,775 @@
+"Name" "Replicate" "Sample" "Time" "Concentration" "Batch" "SampleBatch" "Bact" "microbe"
+"1" "Sum" "nullN23" "nullN2" 65.75 0.0149999999999997 "bold(N[2]*\" - 2 bar\")" "nullN23" "None" "None"
+"2" "Sum" "nullN22" "nullN2" 65.75 0.00499999999999989 "bold(N[2]*\" - 2 bar\")" "nullN23" "None" "None"
+"3" "Sum" "nullN22" "nullN2" 17.75 0 "bold(N[2]*\" - 2 bar\")" "nullN23" "None" "None"
+"4" "Sum" "nullN21" "nullN2" 163 0.0720000000000001 "bold(N[2]*\" - 2 bar\")" "nullN23" "None" "None"
+"5" "Sum" "nullN21" "nullN2" 116.5 0.0659999999999998 "bold(N[2]*\" - 2 bar\")" "nullN23" "None" "None"
+"6" "Sum" "nullN21" "nullN2" 65.75 0.0749999999999997 "bold(N[2]*\" - 2 bar\")" "nullN23" "None" "None"
+"7" "Sum" "nullH23" "nullH2" 116.5 0 "bold(N[2]*\" - 2 bar\")" "nullH23" "None" "None"
+"8" "Sum" "nullH23" "nullH2" 17.75 0.02 "bold(N[2]*\" - 2 bar\")" "nullH23" "None" "None"
+"9" "Sum" "nullH22" "nullH2" 116.5 0 "bold(N[2]*\" - 2 bar\")" "nullH23" "None" "None"
+"10" "Sum" "nullH22" "nullH2" 65.75 0 "bold(N[2]*\" - 2 bar\")" "nullH23" "None" "None"
+"11" "Sum" "nullH22" "nullH2" 17.75 0 "bold(N[2]*\" - 2 bar\")" "nullH23" "None" "None"
+"12" "Sum" "nullH21" "nullH2" 116.5 0 "bold(N[2]*\" - 2 bar\")" "nullH23" "None" "None"
+"13" "Sum" "nullH21" "nullH2" 65.75 0 "bold(N[2]*\" - 2 bar\")" "nullH23" "None" "None"
+"14" "Sum" "nullH21" "nullH2" 17.75 0 "bold(N[2]*\" - 2 bar\")" "nullH23" "None" "None"
+"15" "Sum" "null3" "null" 105.5 0.153333333333333 "bold(H[2]*\" - 2 bar\")" "nullop" "None" "None"
+"16" "Sum" "nullN21" "nullN2" 17.75 0.0600000000000001 "bold(N[2]*\" - 2 bar\")" "nullN23" "None" "None"
+"17" "Sum" "null3" "null" 64.5 0 "bold(N[2]*\" - atm\")" "nullatm" "None" "None"
+"18" "Sum" "null2" "null" 151.5 0.0433333333333333 "bold(H[2]*\" - 2 bar\")" "nullop" "None" "None"
+"19" "Sum" "null2" "null" 105.5 0.0133333333333332 "bold(H[2]*\" - 2 bar\")" "nullop" "None" "None"
+"20" "Sum" "null2" "null" 64.5 0.02 "bold(N[2]*\" - atm\")" "nullatm" "None" "None"
+"21" "Sum" "null2" "null" 56.55 0.233333333333334 "bold(H[2]*\" - 2 bar\")" "nullop" "None" "None"
+"22" "Sum" "null2" "null" 13.75 0 "bold(H[2]*\" - 2 bar\")" "nullop" "None" "None"
+"23" "Sum" "null1" "null" 151.5 0.0499999999999998 "bold(H[2]*\" - 2 bar\")" "nullop" "None" "None"
+"24" "Sum" "null1" "null" 105.5 0.0933333333333334 "bold(H[2]*\" - 2 bar\")" "nullop" "None" "None"
+"25" "Sum" "null1" "null" 64.5 0.02 "bold(N[2]*\" - atm\")" "nullatm" "None" "None"
+"26" "Sum" "null1" "null" 56.55 0 "bold(H[2]*\" - 2 bar\")" "nullop" "None" "None"
+"27" "Sum" "null1" "null" 20.5 1.06666666666667 "bold(N[2]*\" - atm\")" "nullatm" "None" "None"
+"28" "Sum" "MH23" "MH2" 166.5 0.385 "bold(N[2]*\" - atm\")" "MH2atm" "None" "M. smithii"
+"29" "Sum" "MH23" "MH2" 163 0 "bold(N[2]*\" - 2 bar\")" "MH23" "None" "M. smithii"
+"30" "Sum" "MH23" "MH2" 116.5 0.225000000000001 "bold(N[2]*\" - atm\")" "MH2atm" "None" "M. smithii"
+"31" "Sum" "MH23" "MH2" 105.5 0 "bold(H[2]*\" - 2 bar\")" "MH2op" "None" "M. smithii"
+"32" "Sum" "MH23" "MH2" 65.75 0 "bold(N[2]*\" - 2 bar\")" "MH23" "None" "M. smithii"
+"33" "Sum" "nullN23" "nullN2" 17.75 0 "bold(N[2]*\" - 2 bar\")" "nullN23" "None" "None"
+"34" "Sum" "MH23" "MH2" 56.55 0.0166666666666666 "bold(H[2]*\" - 2 bar\")" "MH2op" "None" "M. smithii"
+"35" "Sum" "MH23" "MH2" 17.75 0 "bold(N[2]*\" - 2 bar\")" "MH23" "None" "M. smithii"
+"36" "Sum" "MH23" "MH2" 13.75 0 "bold(H[2]*\" - 2 bar\")" "MH2op" "None" "M. smithii"
+"37" "Sum" "MH22" "MH2" 166.5 0.305 "bold(N[2]*\" - atm\")" "MH2atm" "None" "M. smithii"
+"38" "Sum" "MH22" "MH2" 116.5 0.275 "bold(N[2]*\" - atm\")" "MH2atm" "None" "M. smithii"
+"39" "Sum" "MH22" "MH2" 116.5 0 "bold(N[2]*\" - 2 bar\")" "MH23" "None" "M. smithii"
+"40" "Sum" "MH22" "MH2" 64.5 0.36 "bold(N[2]*\" - atm\")" "MH2atm" "None" "M. smithii"
+"41" "Sum" "MH22" "MH2" 65.75 0 "bold(N[2]*\" - 2 bar\")" "MH23" "None" "M. smithii"
+"42" "Sum" "MH22" "MH2" 56.55 0.246666666666667 "bold(H[2]*\" - 2 bar\")" "MH2op" "None" "M. smithii"
+"43" "Sum" "MH22" "MH2" 20.5 0 "bold(N[2]*\" - atm\")" "MH2atm" "None" "M. smithii"
+"44" "Sum" "MH21" "MH2" 166.5 0.285 "bold(N[2]*\" - atm\")" "MH2atm" "None" "M. smithii"
+"45" "Sum" "MH21" "MH2" 151.5 0 "bold(H[2]*\" - 2 bar\")" "MH2op" "None" "M. smithii"
+"46" "Sum" "MH21" "MH2" 105.5 0 "bold(H[2]*\" - 2 bar\")" "MH2op" "None" "M. smithii"
+"47" "Sum" "MH21" "MH2" 65.75 0 "bold(N[2]*\" - 2 bar\")" "MH23" "None" "M. smithii"
+"48" "Sum" "nullH23" "nullH2" 65.75 0 "bold(N[2]*\" - 2 bar\")" "nullH23" "None" "None"
+"49" "Sum" "MH21" "MH2" 20.5 0 "bold(N[2]*\" - atm\")" "MH2atm" "None" "M. smithii"
+"50" "Sum" "MC3" "MC" 163 21.372 "bold(N[2]*\" - 2 bar\")" "MC3" "C. minuta" "M. smithii /
+C. minuta"
+"51" "Sum" "MC3" "MC" 151.5 19.4933333333333 "bold(H[2]*\" - 2 bar\")" "MCop" "C. minuta" "M. smithii /
+C. minuta"
+"52" "Sum" "MC3" "MC" 116.5 20.996 "bold(N[2]*\" - 2 bar\")" "MC3" "C. minuta" "M. smithii /
+C. minuta"
+"53" "Sum" "MC3" "MC" 65.75 13.695 "bold(N[2]*\" - 2 bar\")" "MC3" "C. minuta" "M. smithii /
+C. minuta"
+"54" "Sum" "MC3" "MC" 56.55 12.2633333333334 "bold(H[2]*\" - 2 bar\")" "MCop" "C. minuta" "M. smithii /
+C. minuta"
+"55" "Sum" "MC3" "MC" 20.5 0 "bold(N[2]*\" - atm\")" "MCatm" "C. minuta" "M. smithii /
+C. minuta"
+"56" "Sum" "MC3" "MC" 13.75 0.826666666666667 "bold(H[2]*\" - 2 bar\")" "MCop" "C. minuta" "M. smithii /
+C. minuta"
+"57" "Sum" "MC2" "MC" 166.5 19.615 "bold(N[2]*\" - atm\")" "MCatm" "C. minuta" "M. smithii /
+C. minuta"
+"58" "Sum" "MC2" "MC" 151.5 19.7833333333333 "bold(H[2]*\" - 2 bar\")" "MCop" "C. minuta" "M. smithii /
+C. minuta"
+"59" "Sum" "MC2" "MC" 116.5 19.165 "bold(N[2]*\" - atm\")" "MCatm" "C. minuta" "M. smithii /
+C. minuta"
+"60" "Sum" "MC2" "MC" 116.5 19.996 "bold(N[2]*\" - 2 bar\")" "MC3" "C. minuta" "M. smithii /
+C. minuta"
+"61" "Sum" "MC2" "MC" 65.75 12.495 "bold(N[2]*\" - 2 bar\")" "MC3" "C. minuta" "M. smithii /
+C. minuta"
+"62" "Sum" "null2" "null" 20.5 0 "bold(N[2]*\" - atm\")" "nullatm" "None" "None"
+"63" "Sum" "MC2" "MC" 20.5 0 "bold(N[2]*\" - atm\")" "MCatm" "C. minuta" "M. smithii /
+C. minuta"
+"64" "Sum" "MC2" "MC" 13.75 1.05666666666667 "bold(H[2]*\" - 2 bar\")" "MCop" "C. minuta" "M. smithii /
+C. minuta"
+"65" "Sum" "MC1" "MC" 163 21.562 "bold(N[2]*\" - 2 bar\")" "MC3" "C. minuta" "M. smithii /
+C. minuta"
+"66" "Sum" "MC1" "MC" 151.5 20.0533333333333 "bold(H[2]*\" - 2 bar\")" "MCop" "C. minuta" "M. smithii /
+C. minuta"
+"67" "Sum" "MC1" "MC" 116.5 19.215 "bold(N[2]*\" - atm\")" "MCatm" "C. minuta" "M. smithii /
+C. minuta"
+"68" "Sum" "null2" "null" 166.5 0.005 "bold(N[2]*\" - atm\")" "nullatm" "None" "None"
+"69" "Sum" "MC1" "MC" 116.5 20.526 "bold(N[2]*\" - 2 bar\")" "MC3" "C. minuta" "M. smithii /
+C. minuta"
+"70" "Sum" "MC1" "MC" 17.75 2.1 "bold(N[2]*\" - 2 bar\")" "MC3" "C. minuta" "M. smithii /
+C. minuta"
+"71" "Sum" "MC1" "MC" 13.75 0.926666666666666 "bold(H[2]*\" - 2 bar\")" "MCop" "C. minuta" "M. smithii /
+C. minuta"
+"72" "Sum" "MB3" "MB" 163 6.222 "bold(N[2]*\" - 2 bar\")" "MB3" "B. thetaiotaomicron" "M. smithii /
+B. thetaiotaomicron"
+"73" "Sum" "MB3" "MB" 116.5 5.826 "bold(N[2]*\" - 2 bar\")" "MB3" "B. thetaiotaomicron" "M. smithii /
+B. thetaiotaomicron"
+"74" "Sum" "MB3" "MB" 17.75 0.51 "bold(N[2]*\" - 2 bar\")" "MB3" "B. thetaiotaomicron" "M. smithii /
+B. thetaiotaomicron"
+"75" "Sum" "MB2" "MB" 163 6.182 "bold(N[2]*\" - 2 bar\")" "MB3" "B. thetaiotaomicron" "M. smithii /
+B. thetaiotaomicron"
+"76" "Sum" "MB2" "MB" 116.5 5.736 "bold(N[2]*\" - 2 bar\")" "MB3" "B. thetaiotaomicron" "M. smithii /
+B. thetaiotaomicron"
+"77" "Sum" "MB2" "MB" 65.75 4.765 "bold(N[2]*\" - 2 bar\")" "MB3" "B. thetaiotaomicron" "M. smithii /
+B. thetaiotaomicron"
+"78" "Sum" "MH21" "MH2" 116.5 0 "bold(N[2]*\" - 2 bar\")" "MH23" "None" "M. smithii"
+"79" "Sum" "MB2" "MB" 17.75 0.49 "bold(N[2]*\" - 2 bar\")" "MB3" "B. thetaiotaomicron" "M. smithii /
+B. thetaiotaomicron"
+"80" "Sum" "MB1" "MB" 163 5.812 "bold(N[2]*\" - 2 bar\")" "MB3" "B. thetaiotaomicron" "M. smithii /
+B. thetaiotaomicron"
+"81" "Sum" "MB1" "MB" 17.75 0.52 "bold(N[2]*\" - 2 bar\")" "MB3" "B. thetaiotaomicron" "M. smithii /
+B. thetaiotaomicron"
+"82" "Sum" "C3" "C" 166.5 18.605 "bold(N[2]*\" - atm\")" "Catm" "C. minuta" "C. minuta"
+"83" "Sum" "C3" "C" 163 21.652 "bold(N[2]*\" - 2 bar\")" "C3" "C. minuta" "C. minuta"
+"84" "Sum" "C3" "C" 116.5 17.305 "bold(N[2]*\" - atm\")" "Catm" "C. minuta" "C. minuta"
+"85" "Sum" "C3" "C" 65.75 11.865 "bold(N[2]*\" - 2 bar\")" "C3" "C. minuta" "C. minuta"
+"86" "Sum" "C3" "C" 64.5 12.24 "bold(N[2]*\" - atm\")" "Catm" "C. minuta" "C. minuta"
+"87" "Sum" "C3" "C" 56.55 14.5733333333334 "bold(H[2]*\" - 2 bar\")" "Cop" "C. minuta" "C. minuta"
+"88" "Sum" "C3" "C" 20.5 1.14666666666667 "bold(N[2]*\" - atm\")" "Catm" "C. minuta" "C. minuta"
+"89" "Sum" "C3" "C" 17.75 2.35 "bold(N[2]*\" - 2 bar\")" "C3" "C. minuta" "C. minuta"
+"90" "Sum" "C2" "C" 166.5 18.795 "bold(N[2]*\" - atm\")" "Catm" "C. minuta" "C. minuta"
+"91" "Sum" "C2" "C" 163 21.252 "bold(N[2]*\" - 2 bar\")" "C3" "C. minuta" "C. minuta"
+"92" "Sum" "C2" "C" 151.5 19.9733333333333 "bold(H[2]*\" - 2 bar\")" "Cop" "C. minuta" "C. minuta"
+"93" "Sum" "MC3" "MC" 17.75 2.12 "bold(N[2]*\" - 2 bar\")" "MC3" "C. minuta" "M. smithii /
+C. minuta"
+"94" "Sum" "C2" "C" 105.5 19.6166666666666 "bold(H[2]*\" - 2 bar\")" "Cop" "C. minuta" "C. minuta"
+"95" "Sum" "C2" "C" 65.75 12.305 "bold(N[2]*\" - 2 bar\")" "C3" "C. minuta" "C. minuta"
+"96" "Sum" "C2" "C" 56.55 12.7633333333334 "bold(H[2]*\" - 2 bar\")" "Cop" "C. minuta" "C. minuta"
+"97" "Sum" "MH21" "MH2" 13.75 0 "bold(H[2]*\" - 2 bar\")" "MH2op" "None" "M. smithii"
+"98" "Sum" "C2" "C" 20.5 0.966666666666667 "bold(N[2]*\" - atm\")" "Catm" "C. minuta" "C. minuta"
+"99" "Sum" "C2" "C" 13.75 0.786666666666667 "bold(H[2]*\" - 2 bar\")" "Cop" "C. minuta" "C. minuta"
+"100" "Sum" "MH22" "MH2" 13.75 0 "bold(H[2]*\" - 2 bar\")" "MH2op" "None" "M. smithii"
+"101" "Sum" "C1" "C" 163 21.302 "bold(N[2]*\" - 2 bar\")" "C3" "C. minuta" "C. minuta"
+"102" "Sum" "C2" "C" 116.5 17.285 "bold(N[2]*\" - atm\")" "Catm" "C. minuta" "C. minuta"
+"103" "Sum" "C1" "C" 151.5 20.4033333333333 "bold(H[2]*\" - 2 bar\")" "Cop" "C. minuta" "C. minuta"
+"104" "Sum" "C1" "C" 116.5 17.115 "bold(N[2]*\" - atm\")" "Catm" "C. minuta" "C. minuta"
+"105" "Sum" "C1" "C" 116.5 20.476 "bold(N[2]*\" - 2 bar\")" "C3" "C. minuta" "C. minuta"
+"106" "Sum" "C1" "C" 105.5 19.9266666666666 "bold(H[2]*\" - 2 bar\")" "Cop" "C. minuta" "C. minuta"
+"107" "Sum" "C1" "C" 64.5 12.01 "bold(N[2]*\" - atm\")" "Catm" "C. minuta" "C. minuta"
+"108" "Sum" "C1" "C" 56.55 12.6833333333334 "bold(H[2]*\" - 2 bar\")" "Cop" "C. minuta" "C. minuta"
+"109" "Sum" "MC3" "MC" 64.5 11.95 "bold(N[2]*\" - atm\")" "MCatm" "C. minuta" "M. smithii /
+C. minuta"
+"110" "Sum" "C1" "C" 20.5 0.976666666666667 "bold(N[2]*\" - atm\")" "Catm" "C. minuta" "C. minuta"
+"111" "Sum" "C1" "C" 17.75 2.25 "bold(N[2]*\" - 2 bar\")" "C3" "C. minuta" "C. minuta"
+"112" "Sum" "C1" "C" 13.75 0.756666666666666 "bold(H[2]*\" - 2 bar\")" "Cop" "C. minuta" "C. minuta"
+"113" "Sum" "B3" "B" 163 5.452 "bold(N[2]*\" - 2 bar\")" "B3" "B. thetaiotaomicron" "B. thetaiotaomicron"
+"114" "Sum" "B3" "B" 116.5 5.446 "bold(N[2]*\" - 2 bar\")" "B3" "B. thetaiotaomicron" "B. thetaiotaomicron"
+"115" "Sum" "B3" "B" 65.75 4.575 "bold(N[2]*\" - 2 bar\")" "B3" "B. thetaiotaomicron" "B. thetaiotaomicron"
+"116" "Sum" "B2" "B" 65.75 4.335 "bold(N[2]*\" - 2 bar\")" "B3" "B. thetaiotaomicron" "B. thetaiotaomicron"
+"117" "Sum" "MC1" "MC" 65.75 13.525 "bold(N[2]*\" - 2 bar\")" "MC3" "C. minuta" "M. smithii /
+C. minuta"
+"118" "Sum" "B1" "B" 116.5 5.056 "bold(N[2]*\" - 2 bar\")" "B3" "B. thetaiotaomicron" "B. thetaiotaomicron"
+"119" "Acetate" "C1" "C" 56.55 10.2966666666667 "bold(H[2]*\" - 2 bar\")" "Cop" "C. minuta" "C. minuta"
+"120" "Acetate" "null3" "null" 56.55 0.0366666666666666 "bold(H[2]*\" - 2 bar\")" "nullop" "None" "None"
+"121" "Butyrate" "C3" "C" 13.75 0.16 "bold(H[2]*\" - 2 bar\")" "Cop" "C. minuta" "C. minuta"
+"122" "Acetate" "null1" "null" 56.55 0 "bold(H[2]*\" - 2 bar\")" "nullop" "None" "None"
+"123" "Acetate" "MH22" "MH2" 56.55 0 "bold(H[2]*\" - 2 bar\")" "MH2op" "None" "M. smithii"
+"124" "Acetate" "MH21" "MH2" 56.55 0 "bold(H[2]*\" - 2 bar\")" "MH2op" "None" "M. smithii"
+"125" "Acetate" "C3" "C" 56.55 11.7366666666667 "bold(H[2]*\" - 2 bar\")" "Cop" "C. minuta" "C. minuta"
+"126" "Acetate" "C2" "C" 56.55 10.2966666666667 "bold(H[2]*\" - 2 bar\")" "Cop" "C. minuta" "C. minuta"
+"127" "Acetate" "null3" "null" 13.75 0.00666666666666682 "bold(H[2]*\" - 2 bar\")" "nullop" "None" "None"
+"128" "Acetate" "null1" "null" 13.75 0.00666666666666682 "bold(H[2]*\" - 2 bar\")" "nullop" "None" "None"
+"129" "Acetate" "MC1" "MC" 13.75 0.656666666666666 "bold(H[2]*\" - 2 bar\")" "MCop" "C. minuta" "M. smithii /
+C. minuta"
+"130" "Acetate" "C2" "C" 13.75 0.536666666666667 "bold(H[2]*\" - 2 bar\")" "Cop" "C. minuta" "C. minuta"
+"131" "Sum" "MC3" "MC" 105.5 19.2666666666666 "bold(H[2]*\" - 2 bar\")" "MCop" "C. minuta" "M. smithii /
+C. minuta"
+"132" "Acetate" "C1" "C" 13.75 0.566666666666666 "bold(H[2]*\" - 2 bar\")" "Cop" "C. minuta" "C. minuta"
+"133" "Butyrate" "null2" "null" 56.55 0.226666666666667 "bold(H[2]*\" - 2 bar\")" "nullop" "None" "None"
+"134" "Butyrate" "null1" "null" 56.55 0 "bold(H[2]*\" - 2 bar\")" "nullop" "None" "None"
+"135" "Acetate" "null2" "null" 56.55 0.00666666666666682 "bold(H[2]*\" - 2 bar\")" "nullop" "None" "None"
+"136" "Butyrate" "MC1" "MC" 56.55 2.17666666666667 "bold(H[2]*\" - 2 bar\")" "MCop" "C. minuta" "M. smithii /
+C. minuta"
+"137" "Acetate" "MC3" "MC" 13.75 0.646666666666667 "bold(H[2]*\" - 2 bar\")" "MCop" "C. minuta" "M. smithii /
+C. minuta"
+"138" "Butyrate" "null2" "null" 13.75 0 "bold(H[2]*\" - 2 bar\")" "nullop" "None" "None"
+"139" "Butyrate" "MC3" "MC" 13.75 0.18 "bold(H[2]*\" - 2 bar\")" "MCop" "C. minuta" "M. smithii /
+C. minuta"
+"140" "Butyrate" "MC1" "MC" 13.75 0.27 "bold(H[2]*\" - 2 bar\")" "MCop" "C. minuta" "M. smithii /
+C. minuta"
+"141" "Sum" "nullH22" "nullH2" 163 0 "bold(N[2]*\" - 2 bar\")" "nullH23" "None" "None"
+"142" "Butyrate" "MH23" "MH2" 13.75 0 "bold(H[2]*\" - 2 bar\")" "MH2op" "None" "M. smithii"
+"143" "Butyrate" "MH22" "MH2" 13.75 0 "bold(H[2]*\" - 2 bar\")" "MH2op" "None" "M. smithii"
+"144" "Acetate" "null1" "null" 151.5 0.0499999999999998 "bold(H[2]*\" - 2 bar\")" "nullop" "None" "None"
+"145" "Acetate" "MH22" "MH2" 105.5 0 "bold(H[2]*\" - 2 bar\")" "MH2op" "None" "M. smithii"
+"146" "Acetate" "C2" "C" 20.5 0.966666666666667 "bold(N[2]*\" - atm\")" "Catm" "C. minuta" "C. minuta"
+"147" "Acetate" "null1" "null" 105.5 0 "bold(H[2]*\" - 2 bar\")" "nullop" "None" "None"
+"148" "Sum" "MC2" "MC" 56.55 12.5933333333334 "bold(H[2]*\" - 2 bar\")" "MCop" "C. minuta" "M. smithii /
+C. minuta"
+"149" "Acetate" "MC3" "MC" 151.5 17.04 "bold(H[2]*\" - 2 bar\")" "MCop" "C. minuta" "M. smithii /
+C. minuta"
+"150" "Sum" "nullN22" "nullN2" 163 0.0219999999999998 "bold(N[2]*\" - 2 bar\")" "nullN23" "None" "None"
+"151" "Acetate" "MC1" "MC" 151.5 17.04 "bold(H[2]*\" - 2 bar\")" "MCop" "C. minuta" "M. smithii /
+C. minuta"
+"152" "Butyrate" "C2" "C" 13.75 0.25 "bold(H[2]*\" - 2 bar\")" "Cop" "C. minuta" "C. minuta"
+"153" "Acetate" "null2" "null" 13.75 0 "bold(H[2]*\" - 2 bar\")" "nullop" "None" "None"
+"154" "Acetate" "MH23" "MH2" 151.5 0 "bold(H[2]*\" - 2 bar\")" "MH2op" "None" "M. smithii"
+"155" "Butyrate" "MH23" "MH2" 166.5 0.155 "bold(N[2]*\" - atm\")" "MH2atm" "None" "M. smithii"
+"156" "Acetate" "MH22" "MH2" 151.5 0 "bold(H[2]*\" - 2 bar\")" "MH2op" "None" "M. smithii"
+"157" "Sum" "B2" "B" 17.75 0.55 "bold(N[2]*\" - 2 bar\")" "B3" "B. thetaiotaomicron" "B. thetaiotaomicron"
+"158" "Acetate" "MH21" "MH2" 151.5 0 "bold(H[2]*\" - 2 bar\")" "MH2op" "None" "M. smithii"
+"159" "Acetate" "C3" "C" 151.5 16.45 "bold(H[2]*\" - 2 bar\")" "Cop" "C. minuta" "C. minuta"
+"160" "Acetate" "null3" "null" 105.5 0 "bold(H[2]*\" - 2 bar\")" "nullop" "None" "None"
+"161" "Sum" "null3" "null" 20.5 0.736666666666667 "bold(N[2]*\" - atm\")" "nullatm" "None" "None"
+"162" "Acetate" "null2" "null" 105.5 0.0133333333333332 "bold(H[2]*\" - 2 bar\")" "nullop" "None" "None"
+"163" "Acetate" "MC2" "MC" 105.5 16.6933333333333 "bold(H[2]*\" - 2 bar\")" "MCop" "C. minuta" "M. smithii /
+C. minuta"
+"164" "Butyrate" "MC3" "MC" 166.5 1.635 "bold(N[2]*\" - atm\")" "MCatm" "C. minuta" "M. smithii /
+C. minuta"
+"165" "Acetate" "C3" "C" 105.5 16.5933333333333 "bold(H[2]*\" - 2 bar\")" "Cop" "C. minuta" "C. minuta"
+"166" "Acetate" "C1" "C" 105.5 16.1833333333333 "bold(H[2]*\" - 2 bar\")" "Cop" "C. minuta" "C. minuta"
+"167" "Sum" "C3" "C" 105.5 20.3666666666666 "bold(H[2]*\" - 2 bar\")" "Cop" "C. minuta" "C. minuta"
+"168" "Butyrate" "MC3" "MC" 151.5 2.45333333333333 "bold(H[2]*\" - 2 bar\")" "MCop" "C. minuta" "M. smithii /
+C. minuta"
+"169" "Butyrate" "MC2" "MC" 151.5 2.54333333333333 "bold(H[2]*\" - 2 bar\")" "MCop" "C. minuta" "M. smithii /
+C. minuta"
+"170" "Butyrate" "MC1" "MC" 151.5 3.01333333333333 "bold(H[2]*\" - 2 bar\")" "MCop" "C. minuta" "M. smithii /
+C. minuta"
+"171" "Sum" "null1" "null" 166.5 0.00999999999999979 "bold(N[2]*\" - atm\")" "nullatm" "None" "None"
+"172" "Butyrate" "MH23" "MH2" 151.5 0.0633333333333334 "bold(H[2]*\" - 2 bar\")" "MH2op" "None" "M. smithii"
+"173" "Butyrate" "MH22" "MH2" 151.5 0.0533333333333333 "bold(H[2]*\" - 2 bar\")" "MH2op" "None" "M. smithii"
+"174" "Butyrate" "MH21" "MH2" 151.5 0 "bold(H[2]*\" - 2 bar\")" "MH2op" "None" "M. smithii"
+"175" "Butyrate" "C3" "C" 151.5 3.79333333333333 "bold(H[2]*\" - 2 bar\")" "Cop" "C. minuta" "C. minuta"
+"176" "Butyrate" "C2" "C" 151.5 3.66333333333333 "bold(H[2]*\" - 2 bar\")" "Cop" "C. minuta" "C. minuta"
+"177" "Sum" "MC1" "MC" 20.5 0 "bold(N[2]*\" - atm\")" "MCatm" "C. minuta" "M. smithii /
+C. minuta"
+"178" "Butyrate" "MH22" "MH2" 20.5 0 "bold(N[2]*\" - atm\")" "MH2atm" "None" "M. smithii"
+"179" "Butyrate" "null3" "null" 105.5 0.153333333333333 "bold(H[2]*\" - 2 bar\")" "nullop" "None" "None"
+"180" "Butyrate" "MC2" "MC" 105.5 2.50333333333333 "bold(H[2]*\" - 2 bar\")" "MCop" "C. minuta" "M. smithii /
+C. minuta"
+"181" "Butyrate" "MC1" "MC" 105.5 2.94333333333333 "bold(H[2]*\" - 2 bar\")" "MCop" "C. minuta" "M. smithii /
+C. minuta"
+"182" "Sum" "MH23" "MH2" 20.5 0 "bold(N[2]*\" - atm\")" "MH2atm" "None" "M. smithii"
+"183" "Butyrate" "C2" "C" 105.5 3.65333333333333 "bold(H[2]*\" - 2 bar\")" "Cop" "C. minuta" "C. minuta"
+"184" "Butyrate" "C1" "C" 105.5 3.74333333333333 "bold(H[2]*\" - 2 bar\")" "Cop" "C. minuta" "C. minuta"
+"185" "Butyrate" "MH22" "MH2" 105.5 0 "bold(H[2]*\" - 2 bar\")" "MH2op" "None" "M. smithii"
+"186" "Sum" "C2" "C" 116.5 20.396 "bold(N[2]*\" - 2 bar\")" "C3" "C. minuta" "C. minuta"
+"187" "Butyrate" "B1" "B" 163 0 "bold(N[2]*\" - 2 bar\")" "B3" "B. thetaiotaomicron" "B. thetaiotaomicron"
+"188" "Butyrate" "B2" "B" 163 0 "bold(N[2]*\" - 2 bar\")" "B3" "B. thetaiotaomicron" "B. thetaiotaomicron"
+"189" "Butyrate" "C1" "C" 13.75 0.19 "bold(H[2]*\" - 2 bar\")" "Cop" "C. minuta" "C. minuta"
+"190" "Sum" "MB1" "MB" 116.5 5.466 "bold(N[2]*\" - 2 bar\")" "MB3" "B. thetaiotaomicron" "M. smithii /
+B. thetaiotaomicron"
+"191" "Butyrate" "B3" "B" 116.5 0 "bold(N[2]*\" - 2 bar\")" "B3" "B. thetaiotaomicron" "B. thetaiotaomicron"
+"192" "Sum" "MH22" "MH2" 163 0 "bold(N[2]*\" - 2 bar\")" "MH23" "None" "M. smithii"
+"193" "Butyrate" "B3" "B" 163 0 "bold(N[2]*\" - 2 bar\")" "B3" "B. thetaiotaomicron" "B. thetaiotaomicron"
+"194" "Butyrate" "null2" "null" 105.5 0 "bold(H[2]*\" - 2 bar\")" "nullop" "None" "None"
+"195" "Butyrate" "C1" "C" 17.75 0 "bold(N[2]*\" - 2 bar\")" "C3" "C. minuta" "C. minuta"
+"196" "Sum" "MH21" "MH2" 64.5 0.32 "bold(N[2]*\" - atm\")" "MH2atm" "None" "M. smithii"
+"197" "Butyrate" "C1" "C" 116.5 3.53 "bold(N[2]*\" - 2 bar\")" "C3" "C. minuta" "C. minuta"
+"198" "Acetate" "MC3" "MC" 116.5 17.395 "bold(N[2]*\" - atm\")" "MCatm" "C. minuta" "M. smithii /
+C. minuta"
+"199" "Acetate" "MC2" "MC" 13.75 0.716666666666667 "bold(H[2]*\" - 2 bar\")" "MCop" "C. minuta" "M. smithii /
+C. minuta"
+"200" "Butyrate" "MH21" "MH2" 105.5 0 "bold(H[2]*\" - 2 bar\")" "MH2op" "None" "M. smithii"
+"201" "Butyrate" "C2" "C" 116.5 3.62 "bold(N[2]*\" - 2 bar\")" "C3" "C. minuta" "C. minuta"
+"202" "Butyrate" "C2" "C" 163 3.91 "bold(N[2]*\" - 2 bar\")" "C3" "C. minuta" "C. minuta"
+"203" "Butyrate" "C3" "C" 163 3.91 "bold(N[2]*\" - 2 bar\")" "C3" "C. minuta" "C. minuta"
+"204" "Sum" "null2" "null" 116.5 0 "bold(N[2]*\" - atm\")" "nullatm" "None" "None"
+"205" "Butyrate" "MH21" "MH2" 116.5 0 "bold(N[2]*\" - 2 bar\")" "MH23" "None" "M. smithii"
+"206" "Sum" "MB1" "MB" 65.75 4.435 "bold(N[2]*\" - 2 bar\")" "MB3" "B. thetaiotaomicron" "M. smithii /
+B. thetaiotaomicron"
+"207" "Butyrate" "MH22" "MH2" 116.5 0 "bold(N[2]*\" - 2 bar\")" "MH23" "None" "M. smithii"
+"208" "Butyrate" "C3" "C" 105.5 3.77333333333333 "bold(H[2]*\" - 2 bar\")" "Cop" "C. minuta" "C. minuta"
+"209" "Butyrate" "MB1" "MB" 163 0 "bold(N[2]*\" - 2 bar\")" "MB3" "B. thetaiotaomicron" "M. smithii /
+B. thetaiotaomicron"
+"210" "Butyrate" "MB2" "MB" 116.5 0 "bold(N[2]*\" - 2 bar\")" "MB3" "B. thetaiotaomicron" "M. smithii /
+B. thetaiotaomicron"
+"211" "Butyrate" "MB2" "MB" 163 0 "bold(N[2]*\" - 2 bar\")" "MB3" "B. thetaiotaomicron" "M. smithii /
+B. thetaiotaomicron"
+"212" "Butyrate" "MB3" "MB" 116.5 0 "bold(N[2]*\" - 2 bar\")" "MB3" "B. thetaiotaomicron" "M. smithii /
+B. thetaiotaomicron"
+"213" "Butyrate" "MC1" "MC" 116.5 2.63 "bold(N[2]*\" - 2 bar\")" "MC3" "C. minuta" "M. smithii /
+C. minuta"
+"214" "Butyrate" "MC2" "MC" 116.5 2.79 "bold(N[2]*\" - 2 bar\")" "MC3" "C. minuta" "M. smithii /
+C. minuta"
+"215" "Acetate" "C1" "C" 116.5 14.695 "bold(N[2]*\" - atm\")" "Catm" "C. minuta" "C. minuta"
+"216" "Butyrate" "MC3" "MC" 116.5 2.69 "bold(N[2]*\" - 2 bar\")" "MC3" "C. minuta" "M. smithii /
+C. minuta"
+"217" "Butyrate" "MC3" "MC" 163 2.81 "bold(N[2]*\" - 2 bar\")" "MC3" "C. minuta" "M. smithii /
+C. minuta"
+"218" "Sum" "MH21" "MH2" 116.5 0.275 "bold(N[2]*\" - atm\")" "MH2atm" "None" "M. smithii"
+"219" "Butyrate" "nullH21" "nullH2" 116.5 0 "bold(N[2]*\" - 2 bar\")" "nullH23" "None" "None"
+"220" "Butyrate" "nullH21" "nullH2" 163 0 "bold(N[2]*\" - 2 bar\")" "nullH23" "None" "None"
+"221" "Butyrate" "nullH22" "nullH2" 116.5 0 "bold(N[2]*\" - 2 bar\")" "nullH23" "None" "None"
+"222" "Butyrate" "nullH22" "nullH2" 163 0 "bold(N[2]*\" - 2 bar\")" "nullH23" "None" "None"
+"223" "Sum" "C3" "C" 116.5 20.476 "bold(N[2]*\" - 2 bar\")" "C3" "C. minuta" "C. minuta"
+"224" "Butyrate" "MC1" "MC" 163 2.82 "bold(N[2]*\" - 2 bar\")" "MC3" "C. minuta" "M. smithii /
+C. minuta"
+"225" "Butyrate" "nullH23" "nullH2" 163 0 "bold(N[2]*\" - 2 bar\")" "nullH23" "None" "None"
+"226" "Acetate" "C2" "C" 151.5 16.31 "bold(H[2]*\" - 2 bar\")" "Cop" "C. minuta" "C. minuta"
+"227" "Butyrate" "nullN22" "nullN2" 116.5 0 "bold(N[2]*\" - 2 bar\")" "nullN23" "None" "None"
+"228" "Acetate" "B1" "B" 163 5.292 "bold(N[2]*\" - 2 bar\")" "B3" "B. thetaiotaomicron" "B. thetaiotaomicron"
+"229" "Acetate" "B2" "B" 116.5 5.116 "bold(N[2]*\" - 2 bar\")" "B3" "B. thetaiotaomicron" "B. thetaiotaomicron"
+"230" "Acetate" "B3" "B" 163 5.452 "bold(N[2]*\" - 2 bar\")" "B3" "B. thetaiotaomicron" "B. thetaiotaomicron"
+"231" "Acetate" "C2" "C" 116.5 16.426 "bold(N[2]*\" - 2 bar\")" "C3" "C. minuta" "C. minuta"
+"232" "Acetate" "C2" "C" 163 17.002 "bold(N[2]*\" - 2 bar\")" "C3" "C. minuta" "C. minuta"
+"233" "Acetate" "C3" "C" 116.5 16.626 "bold(N[2]*\" - 2 bar\")" "C3" "C. minuta" "C. minuta"
+"234" "Acetate" "B2" "B" 163 5.422 "bold(N[2]*\" - 2 bar\")" "B3" "B. thetaiotaomicron" "B. thetaiotaomicron"
+"235" "Acetate" "C3" "C" 163 17.462 "bold(N[2]*\" - 2 bar\")" "C3" "C. minuta" "C. minuta"
+"236" "Acetate" "null1" "null" 20.5 1.06666666666667 "bold(N[2]*\" - atm\")" "nullatm" "None" "None"
+"237" "Acetate" "MH21" "MH2" 116.5 0 "bold(N[2]*\" - 2 bar\")" "MH23" "None" "M. smithii"
+"238" "Acetate" "null3" "null" 151.5 0 "bold(H[2]*\" - 2 bar\")" "nullop" "None" "None"
+"239" "Sum" "MH21" "MH2" 163 0 "bold(N[2]*\" - 2 bar\")" "MH23" "None" "M. smithii"
+"240" "Acetate" "MH21" "MH2" 163 0 "bold(N[2]*\" - 2 bar\")" "MH23" "None" "M. smithii"
+"241" "Acetate" "C1" "C" 163 17.172 "bold(N[2]*\" - 2 bar\")" "C3" "C. minuta" "C. minuta"
+"242" "Acetate" "MH22" "MH2" 116.5 0 "bold(N[2]*\" - 2 bar\")" "MH23" "None" "M. smithii"
+"243" "Acetate" "MB1" "MB" 116.5 5.466 "bold(N[2]*\" - 2 bar\")" "MB3" "B. thetaiotaomicron" "M. smithii /
+B. thetaiotaomicron"
+"244" "Sum" "MH23" "MH2" 64.5 0.27 "bold(N[2]*\" - atm\")" "MH2atm" "None" "M. smithii"
+"245" "Acetate" "MC2" "MC" 56.55 10.9266666666667 "bold(H[2]*\" - 2 bar\")" "MCop" "C. minuta" "M. smithii /
+C. minuta"
+"246" "Acetate" "MB2" "MB" 116.5 5.736 "bold(N[2]*\" - 2 bar\")" "MB3" "B. thetaiotaomicron" "M. smithii /
+B. thetaiotaomicron"
+"247" "Acetate" "MB3" "MB" 116.5 5.826 "bold(N[2]*\" - 2 bar\")" "MB3" "B. thetaiotaomicron" "M. smithii /
+B. thetaiotaomicron"
+"248" "Acetate" "MB3" "MB" 163 6.222 "bold(N[2]*\" - 2 bar\")" "MB3" "B. thetaiotaomicron" "M. smithii /
+B. thetaiotaomicron"
+"249" "Sum" "C3" "C" 13.75 0.656666666666667 "bold(H[2]*\" - 2 bar\")" "Cop" "C. minuta" "C. minuta"
+"250" "Butyrate" "MC1" "MC" 64.5 0.97 "bold(N[2]*\" - atm\")" "MCatm" "C. minuta" "M. smithii /
+C. minuta"
+"251" "Acetate" "MC1" "MC" 163 18.742 "bold(N[2]*\" - 2 bar\")" "MC3" "C. minuta" "M. smithii /
+C. minuta"
+"252" "Butyrate" "null3" "null" 151.5 0.163333333333333 "bold(H[2]*\" - 2 bar\")" "nullop" "None" "None"
+"253" "Acetate" "MC2" "MC" 116.5 17.206 "bold(N[2]*\" - 2 bar\")" "MC3" "C. minuta" "M. smithii /
+C. minuta"
+"254" "Acetate" "MC2" "MC" 163 18.412 "bold(N[2]*\" - 2 bar\")" "MC3" "C. minuta" "M. smithii /
+C. minuta"
+"255" "Sum" "MC3" "MC" 166.5 19.695 "bold(N[2]*\" - atm\")" "MCatm" "C. minuta" "M. smithii /
+C. minuta"
+"256" "Butyrate" "null2" "null" 151.5 0.0433333333333333 "bold(H[2]*\" - 2 bar\")" "nullop" "None" "None"
+"257" "Acetate" "MC3" "MC" 116.5 18.306 "bold(N[2]*\" - 2 bar\")" "MC3" "C. minuta" "M. smithii /
+C. minuta"
+"258" "Acetate" "nullH21" "nullH2" 116.5 0 "bold(N[2]*\" - 2 bar\")" "nullH23" "None" "None"
+"259" "Acetate" "nullH22" "nullH2" 163 0 "bold(N[2]*\" - 2 bar\")" "nullH23" "None" "None"
+"260" "Acetate" "nullH23" "nullH2" 116.5 0 "bold(N[2]*\" - 2 bar\")" "nullH23" "None" "None"
+"261" "Acetate" "nullN21" "nullN2" 116.5 0.0659999999999998 "bold(N[2]*\" - 2 bar\")" "nullN23" "None" "None"
+"262" "Acetate" "nullN22" "nullN2" 116.5 0.016 "bold(N[2]*\" - 2 bar\")" "nullN23" "None" "None"
+"263" "Acetate" "nullN22" "nullN2" 163 0.0219999999999998 "bold(N[2]*\" - 2 bar\")" "nullN23" "None" "None"
+"264" "Formate" "B2" "B" 116.5 0 "bold(N[2]*\" - 2 bar\")" "B3" "B. thetaiotaomicron" "B. thetaiotaomicron"
+"265" "Acetate" "C3" "C" 64.5 10.43 "bold(N[2]*\" - atm\")" "Catm" "C. minuta" "C. minuta"
+"266" "Butyrate" "nullN21" "nullN2" 163 0 "bold(N[2]*\" - 2 bar\")" "nullN23" "None" "None"
+"267" "Formate" "C1" "C" 163 0.3 "bold(N[2]*\" - 2 bar\")" "C3" "C. minuta" "C. minuta"
+"268" "Butyrate" "C2" "C" 116.5 2.55 "bold(N[2]*\" - atm\")" "Catm" "C. minuta" "C. minuta"
+"269" "Acetate" "MH22" "MH2" 13.75 0 "bold(H[2]*\" - 2 bar\")" "MH2op" "None" "M. smithii"
+"270" "Formate" "C2" "C" 116.5 0.35 "bold(N[2]*\" - 2 bar\")" "C3" "C. minuta" "C. minuta"
+"271" "Butyrate" "C1" "C" 20.5 0 "bold(N[2]*\" - atm\")" "Catm" "C. minuta" "C. minuta"
+"272" "Formate" "C2" "C" 163 0.34 "bold(N[2]*\" - 2 bar\")" "C3" "C. minuta" "C. minuta"
+"273" "Butyrate" "MH22" "MH2" 56.55 0.246666666666667 "bold(H[2]*\" - 2 bar\")" "MH2op" "None" "M. smithii"
+"274" "Formate" "C3" "C" 116.5 0.34 "bold(N[2]*\" - 2 bar\")" "C3" "C. minuta" "C. minuta"
+"275" "Formate" "C3" "C" 163 0.28 "bold(N[2]*\" - 2 bar\")" "C3" "C. minuta" "C. minuta"
+"276" "Formate" "MH21" "MH2" 116.5 0 "bold(N[2]*\" - 2 bar\")" "MH23" "None" "M. smithii"
+"277" "Formate" "MH21" "MH2" 163 0 "bold(N[2]*\" - 2 bar\")" "MH23" "None" "M. smithii"
+"278" "Sum" "MH22" "MH2" 17.75 0 "bold(N[2]*\" - 2 bar\")" "MH23" "None" "M. smithii"
+"279" "Butyrate" "MH21" "MH2" 163 0 "bold(N[2]*\" - 2 bar\")" "MH23" "None" "M. smithii"
+"280" "Formate" "B3" "B" 163 0 "bold(N[2]*\" - 2 bar\")" "B3" "B. thetaiotaomicron" "B. thetaiotaomicron"
+"281" "Acetate" "null2" "null" 20.5 0 "bold(N[2]*\" - atm\")" "nullatm" "None" "None"
+"282" "Butyrate" "C1" "C" 151.5 3.89333333333333 "bold(H[2]*\" - 2 bar\")" "Cop" "C. minuta" "C. minuta"
+"283" "Formate" "MH23" "MH2" 163 0 "bold(N[2]*\" - 2 bar\")" "MH23" "None" "M. smithii"
+"284" "Formate" "MB1" "MB" 116.5 0 "bold(N[2]*\" - 2 bar\")" "MB3" "B. thetaiotaomicron" "M. smithii /
+B. thetaiotaomicron"
+"285" "Acetate" "MH22" "MH2" 166.5 0.25 "bold(N[2]*\" - atm\")" "MH2atm" "None" "M. smithii"
+"286" "Formate" "MB2" "MB" 163 0 "bold(N[2]*\" - 2 bar\")" "MB3" "B. thetaiotaomicron" "M. smithii /
+B. thetaiotaomicron"
+"287" "Formate" "MB3" "MB" 116.5 0 "bold(N[2]*\" - 2 bar\")" "MB3" "B. thetaiotaomicron" "M. smithii /
+B. thetaiotaomicron"
+"288" "Acetate" "B3" "B" 116.5 5.206 "bold(N[2]*\" - 2 bar\")" "B3" "B. thetaiotaomicron" "B. thetaiotaomicron"
+"289" "Acetate" "null2" "null" 151.5 0 "bold(H[2]*\" - 2 bar\")" "nullop" "None" "None"
+"290" "Formate" "MC1" "MC" 116.5 0 "bold(N[2]*\" - 2 bar\")" "MC3" "C. minuta" "M. smithii /
+C. minuta"
+"291" "Formate" "MC1" "MC" 163 0 "bold(N[2]*\" - 2 bar\")" "MC3" "C. minuta" "M. smithii /
+C. minuta"
+"292" "Formate" "MC2" "MC" 163 0 "bold(N[2]*\" - 2 bar\")" "MC3" "C. minuta" "M. smithii /
+C. minuta"
+"293" "Formate" "MC3" "MC" 116.5 0 "bold(N[2]*\" - 2 bar\")" "MC3" "C. minuta" "M. smithii /
+C. minuta"
+"294" "Sum" "MH21" "MH2" 17.75 0 "bold(N[2]*\" - 2 bar\")" "MH23" "None" "M. smithii"
+"295" "Acetate" "nullH21" "nullH2" 163 0.012 "bold(N[2]*\" - 2 bar\")" "nullH23" "None" "None"
+"296" "Formate" "MC3" "MC" 163 0 "bold(N[2]*\" - 2 bar\")" "MC3" "C. minuta" "M. smithii /
+C. minuta"
+"297" "Formate" "nullH21" "nullH2" 116.5 0 "bold(N[2]*\" - 2 bar\")" "nullH23" "None" "None"
+"298" "Sum" "C1" "C" 166.5 18.855 "bold(N[2]*\" - atm\")" "Catm" "C. minuta" "C. minuta"
+"299" "Formate" "MC2" "MC" 116.5 0 "bold(N[2]*\" - 2 bar\")" "MC3" "C. minuta" "M. smithii /
+C. minuta"
+"300" "Formate" "nullH21" "nullH2" 163 0 "bold(N[2]*\" - 2 bar\")" "nullH23" "None" "None"
+"301" "Butyrate" "MC1" "MC" 166.5 1.505 "bold(N[2]*\" - atm\")" "MCatm" "C. minuta" "M. smithii /
+C. minuta"
+"302" "Formate" "MB1" "MB" 163 0 "bold(N[2]*\" - 2 bar\")" "MB3" "B. thetaiotaomicron" "M. smithii /
+B. thetaiotaomicron"
+"303" "Formate" "nullH22" "nullH2" 116.5 0 "bold(N[2]*\" - 2 bar\")" "nullH23" "None" "None"
+"304" "Sum" "MC2" "MC" 17.75 1.99 "bold(N[2]*\" - 2 bar\")" "MC3" "C. minuta" "M. smithii /
+C. minuta"
+"305" "Formate" "nullH22" "nullH2" 163 0 "bold(N[2]*\" - 2 bar\")" "nullH23" "None" "None"
+"306" "Acetate" "MC2" "MC" 64.5 11.38 "bold(N[2]*\" - atm\")" "MCatm" "C. minuta" "M. smithii /
+C. minuta"
+"307" "Formate" "nullH23" "nullH2" 163 0 "bold(N[2]*\" - 2 bar\")" "nullH23" "None" "None"
+"308" "Formate" "nullN21" "nullN2" 116.5 0 "bold(N[2]*\" - 2 bar\")" "nullN23" "None" "None"
+"309" "Butyrate" "B1" "B" 116.5 0 "bold(N[2]*\" - 2 bar\")" "B3" "B. thetaiotaomicron" "B. thetaiotaomicron"
+"310" "Formate" "nullN22" "nullN2" 163 0 "bold(N[2]*\" - 2 bar\")" "nullN23" "None" "None"
+"311" "Formate" "MB3" "MB" 163 0 "bold(N[2]*\" - 2 bar\")" "MB3" "B. thetaiotaomicron" "M. smithii /
+B. thetaiotaomicron"
+"312" "Butyrate" "C3" "C" 65.75 1.94 "bold(N[2]*\" - 2 bar\")" "C3" "C. minuta" "C. minuta"
+"313" "Sum" "B2" "B" 163 5.422 "bold(N[2]*\" - 2 bar\")" "B3" "B. thetaiotaomicron" "B. thetaiotaomicron"
+"314" "Acetate" "C3" "C" 65.75 9.925 "bold(N[2]*\" - 2 bar\")" "C3" "C. minuta" "C. minuta"
+"315" "Sum" "null1" "null" 13.75 0.156666666666667 "bold(H[2]*\" - 2 bar\")" "nullop" "None" "None"
+"316" "Formate" "C3" "C" 65.75 0 "bold(N[2]*\" - 2 bar\")" "C3" "C. minuta" "C. minuta"
+"317" "Butyrate" "C2" "C" 17.75 0 "bold(N[2]*\" - 2 bar\")" "C3" "C. minuta" "C. minuta"
+"318" "Butyrate" "C3" "C" 116.5 3.51 "bold(N[2]*\" - 2 bar\")" "C3" "C. minuta" "C. minuta"
+"319" "Butyrate" "C3" "C" 17.75 0 "bold(N[2]*\" - 2 bar\")" "C3" "C. minuta" "C. minuta"
+"320" "Acetate" "MH23" "MH2" 56.55 0.0166666666666666 "bold(H[2]*\" - 2 bar\")" "MH2op" "None" "M. smithii"
+"321" "Acetate" "C2" "C" 17.75 2.04 "bold(N[2]*\" - 2 bar\")" "C3" "C. minuta" "C. minuta"
+"322" "Butyrate" "B1" "B" 17.75 0 "bold(N[2]*\" - 2 bar\")" "B3" "B. thetaiotaomicron" "B. thetaiotaomicron"
+"323" "Butyrate" "B1" "B" 65.75 0 "bold(N[2]*\" - 2 bar\")" "B3" "B. thetaiotaomicron" "B. thetaiotaomicron"
+"324" "Butyrate" "B2" "B" 17.75 0 "bold(N[2]*\" - 2 bar\")" "B3" "B. thetaiotaomicron" "B. thetaiotaomicron"
+"325" "Butyrate" "MC2" "MC" 163 3.28 "bold(N[2]*\" - 2 bar\")" "MC3" "C. minuta" "M. smithii /
+C. minuta"
+"326" "Formate" "MH22" "MH2" 116.5 0 "bold(N[2]*\" - 2 bar\")" "MH23" "None" "M. smithii"
+"327" "Butyrate" "B3" "B" 17.75 0 "bold(N[2]*\" - 2 bar\")" "B3" "B. thetaiotaomicron" "B. thetaiotaomicron"
+"328" "Butyrate" "MB1" "MB" 116.5 0 "bold(N[2]*\" - 2 bar\")" "MB3" "B. thetaiotaomicron" "M. smithii /
+B. thetaiotaomicron"
+"329" "Butyrate" "B3" "B" 65.75 0 "bold(N[2]*\" - 2 bar\")" "B3" "B. thetaiotaomicron" "B. thetaiotaomicron"
+"330" "Butyrate" "C1" "C" 65.75 2 "bold(N[2]*\" - 2 bar\")" "C3" "C. minuta" "C. minuta"
+"331" "Butyrate" "C2" "C" 65.75 2.06 "bold(N[2]*\" - 2 bar\")" "C3" "C. minuta" "C. minuta"
+"332" "Acetate" "MC3" "MC" 20.5 0 "bold(N[2]*\" - atm\")" "MCatm" "C. minuta" "M. smithii /
+C. minuta"
+"333" "Butyrate" "MH21" "MH2" 17.75 0 "bold(N[2]*\" - 2 bar\")" "MH23" "None" "M. smithii"
+"334" "Butyrate" "C2" "C" 166.5 2.635 "bold(N[2]*\" - atm\")" "Catm" "C. minuta" "C. minuta"
+"335" "Butyrate" "MH21" "MH2" 65.75 0 "bold(N[2]*\" - 2 bar\")" "MH23" "None" "M. smithii"
+"336" "Sum" "MH23" "MH2" 151.5 0.0633333333333334 "bold(H[2]*\" - 2 bar\")" "MH2op" "None" "M. smithii"
+"337" "Butyrate" "B2" "B" 116.5 0 "bold(N[2]*\" - 2 bar\")" "B3" "B. thetaiotaomicron" "B. thetaiotaomicron"
+"338" "Butyrate" "MH22" "MH2" 17.75 0 "bold(N[2]*\" - 2 bar\")" "MH23" "None" "M. smithii"
+"339" "Butyrate" "MH22" "MH2" 65.75 0 "bold(N[2]*\" - 2 bar\")" "MH23" "None" "M. smithii"
+"340" "Butyrate" "MH23" "MH2" 65.75 0 "bold(N[2]*\" - 2 bar\")" "MH23" "None" "M. smithii"
+"341" "Sum" "MC1" "MC" 56.55 13.2733333333334 "bold(H[2]*\" - 2 bar\")" "MCop" "C. minuta" "M. smithii /
+C. minuta"
+"342" "Butyrate" "MB1" "MB" 17.75 0 "bold(N[2]*\" - 2 bar\")" "MB3" "B. thetaiotaomicron" "M. smithii /
+B. thetaiotaomicron"
+"343" "Butyrate" "MB1" "MB" 65.75 0 "bold(N[2]*\" - 2 bar\")" "MB3" "B. thetaiotaomicron" "M. smithii /
+B. thetaiotaomicron"
+"344" "Butyrate" "MB2" "MB" 17.75 0 "bold(N[2]*\" - 2 bar\")" "MB3" "B. thetaiotaomicron" "M. smithii /
+B. thetaiotaomicron"
+"345" "Butyrate" "MB2" "MB" 65.75 0 "bold(N[2]*\" - 2 bar\")" "MB3" "B. thetaiotaomicron" "M. smithii /
+B. thetaiotaomicron"
+"346" "Butyrate" "MB3" "MB" 17.75 0 "bold(N[2]*\" - 2 bar\")" "MB3" "B. thetaiotaomicron" "M. smithii /
+B. thetaiotaomicron"
+"347" "Butyrate" "MB3" "MB" 65.75 0 "bold(N[2]*\" - 2 bar\")" "MB3" "B. thetaiotaomicron" "M. smithii /
+B. thetaiotaomicron"
+"348" "Sum" "nullH23" "nullH2" 163 0 "bold(N[2]*\" - 2 bar\")" "nullH23" "None" "None"
+"349" "Butyrate" "MC2" "MC" 17.75 0 "bold(N[2]*\" - 2 bar\")" "MC3" "C. minuta" "M. smithii /
+C. minuta"
+"350" "Butyrate" "MC2" "MC" 65.75 1.57 "bold(N[2]*\" - 2 bar\")" "MC3" "C. minuta" "M. smithii /
+C. minuta"
+"351" "Butyrate" "MC3" "MC" 17.75 0 "bold(N[2]*\" - 2 bar\")" "MC3" "C. minuta" "M. smithii /
+C. minuta"
+"352" "Acetate" "MB2" "MB" 163 6.182 "bold(N[2]*\" - 2 bar\")" "MB3" "B. thetaiotaomicron" "M. smithii /
+B. thetaiotaomicron"
+"353" "Butyrate" "null3" "null" 13.75 0 "bold(H[2]*\" - 2 bar\")" "nullop" "None" "None"
+"354" "Butyrate" "MC3" "MC" 65.75 1.58 "bold(N[2]*\" - 2 bar\")" "MC3" "C. minuta" "M. smithii /
+C. minuta"
+"355" "Sum" "B3" "B" 17.75 0.63 "bold(N[2]*\" - 2 bar\")" "B3" "B. thetaiotaomicron" "B. thetaiotaomicron"
+"356" "Formate" "B1" "B" 116.5 0 "bold(N[2]*\" - 2 bar\")" "B3" "B. thetaiotaomicron" "B. thetaiotaomicron"
+"357" "Butyrate" "nullH21" "nullH2" 17.75 0 "bold(N[2]*\" - 2 bar\")" "nullH23" "None" "None"
+"358" "Acetate" "B1" "B" 116.5 5.056 "bold(N[2]*\" - 2 bar\")" "B3" "B. thetaiotaomicron" "B. thetaiotaomicron"
+"359" "Butyrate" "nullH21" "nullH2" 65.75 0 "bold(N[2]*\" - 2 bar\")" "nullH23" "None" "None"
+"360" "Butyrate" "nullH22" "nullH2" 17.75 0 "bold(N[2]*\" - 2 bar\")" "nullH23" "None" "None"
+"361" "Butyrate" "nullH22" "nullH2" 65.75 0 "bold(N[2]*\" - 2 bar\")" "nullH23" "None" "None"
+"362" "Butyrate" "nullH23" "nullH2" 17.75 0 "bold(N[2]*\" - 2 bar\")" "nullH23" "None" "None"
+"363" "Butyrate" "nullN21" "nullN2" 116.5 0 "bold(N[2]*\" - 2 bar\")" "nullN23" "None" "None"
+"364" "Butyrate" "nullH23" "nullH2" 65.75 0 "bold(N[2]*\" - 2 bar\")" "nullH23" "None" "None"
+"365" "Butyrate" "nullN22" "nullN2" 163 0 "bold(N[2]*\" - 2 bar\")" "nullN23" "None" "None"
+"366" "Butyrate" "nullN21" "nullN2" 17.75 0 "bold(N[2]*\" - 2 bar\")" "nullN23" "None" "None"
+"367" "Butyrate" "nullN21" "nullN2" 65.75 0 "bold(N[2]*\" - 2 bar\")" "nullN23" "None" "None"
+"368" "Formate" "B1" "B" 163 0 "bold(N[2]*\" - 2 bar\")" "B3" "B. thetaiotaomicron" "B. thetaiotaomicron"
+"369" "Butyrate" "nullN22" "nullN2" 17.75 0 "bold(N[2]*\" - 2 bar\")" "nullN23" "None" "None"
+"370" "Butyrate" "nullN22" "nullN2" 65.75 0 "bold(N[2]*\" - 2 bar\")" "nullN23" "None" "None"
+"371" "Butyrate" "nullN23" "nullN2" 65.75 0 "bold(N[2]*\" - 2 bar\")" "nullN23" "None" "None"
+"372" "Sum" "null3" "null" 13.75 0.00666666666666682 "bold(H[2]*\" - 2 bar\")" "nullop" "None" "None"
+"373" "Acetate" "B1" "B" 17.75 0.54 "bold(N[2]*\" - 2 bar\")" "B3" "B. thetaiotaomicron" "B. thetaiotaomicron"
+"374" "Acetate" "B1" "B" 65.75 4.345 "bold(N[2]*\" - 2 bar\")" "B3" "B. thetaiotaomicron" "B. thetaiotaomicron"
+"375" "Acetate" "C1" "C" 65.75 10.215 "bold(N[2]*\" - 2 bar\")" "C3" "C. minuta" "C. minuta"
+"376" "Acetate" "C1" "C" 151.5 16.51 "bold(H[2]*\" - 2 bar\")" "Cop" "C. minuta" "C. minuta"
+"377" "Acetate" "MH21" "MH2" 17.75 0 "bold(N[2]*\" - 2 bar\")" "MH23" "None" "M. smithii"
+"378" "Sum" "B1" "B" 163 5.292 "bold(N[2]*\" - 2 bar\")" "B3" "B. thetaiotaomicron" "B. thetaiotaomicron"
+"379" "Acetate" "MH21" "MH2" 65.75 0 "bold(N[2]*\" - 2 bar\")" "MH23" "None" "M. smithii"
+"380" "Acetate" "MH22" "MH2" 17.75 0 "bold(N[2]*\" - 2 bar\")" "MH23" "None" "M. smithii"
+"381" "Acetate" "MH23" "MH2" 17.75 0 "bold(N[2]*\" - 2 bar\")" "MH23" "None" "M. smithii"
+"382" "Acetate" "MH23" "MH2" 65.75 0 "bold(N[2]*\" - 2 bar\")" "MH23" "None" "M. smithii"
+"383" "Sum" "B1" "B" 17.75 0.54 "bold(N[2]*\" - 2 bar\")" "B3" "B. thetaiotaomicron" "B. thetaiotaomicron"
+"384" "Acetate" "MB1" "MB" 17.75 0.52 "bold(N[2]*\" - 2 bar\")" "MB3" "B. thetaiotaomicron" "M. smithii /
+B. thetaiotaomicron"
+"385" "Acetate" "MB1" "MB" 65.75 4.435 "bold(N[2]*\" - 2 bar\")" "MB3" "B. thetaiotaomicron" "M. smithii /
+B. thetaiotaomicron"
+"386" "Acetate" "MB2" "MB" 17.75 0.49 "bold(N[2]*\" - 2 bar\")" "MB3" "B. thetaiotaomicron" "M. smithii /
+B. thetaiotaomicron"
+"387" "Acetate" "MB2" "MB" 65.75 4.765 "bold(N[2]*\" - 2 bar\")" "MB3" "B. thetaiotaomicron" "M. smithii /
+B. thetaiotaomicron"
+"388" "Acetate" "MB3" "MB" 17.75 0.51 "bold(N[2]*\" - 2 bar\")" "MB3" "B. thetaiotaomicron" "M. smithii /
+B. thetaiotaomicron"
+"389" "Acetate" "MC3" "MC" 56.55 10.7966666666667 "bold(H[2]*\" - 2 bar\")" "MCop" "C. minuta" "M. smithii /
+C. minuta"
+"390" "Butyrate" "nullN23" "nullN2" 17.75 0 "bold(N[2]*\" - 2 bar\")" "nullN23" "None" "None"
+"391" "Acetate" "MB3" "MB" 65.75 5.095 "bold(N[2]*\" - 2 bar\")" "MB3" "B. thetaiotaomicron" "M. smithii /
+B. thetaiotaomicron"
+"392" "Sum" "nullN22" "nullN2" 116.5 0.016 "bold(N[2]*\" - 2 bar\")" "nullN23" "None" "None"
+"393" "Formate" "C3" "C" 17.75 0 "bold(N[2]*\" - 2 bar\")" "C3" "C. minuta" "C. minuta"
+"394" "Acetate" "MC1" "MC" 17.75 2.1 "bold(N[2]*\" - 2 bar\")" "MC3" "C. minuta" "M. smithii /
+C. minuta"
+"395" "Butyrate" "MC2" "MC" 116.5 1.54 "bold(N[2]*\" - atm\")" "MCatm" "C. minuta" "M. smithii /
+C. minuta"
+"396" "Acetate" "MH23" "MH2" 13.75 0 "bold(H[2]*\" - 2 bar\")" "MH2op" "None" "M. smithii"
+"397" "Acetate" "MC1" "MC" 65.75 11.925 "bold(N[2]*\" - 2 bar\")" "MC3" "C. minuta" "M. smithii /
+C. minuta"
+"398" "Acetate" "MC2" "MC" 17.75 1.99 "bold(N[2]*\" - 2 bar\")" "MC3" "C. minuta" "M. smithii /
+C. minuta"
+"399" "Sum" "null3" "null" 56.55 0.0366666666666666 "bold(H[2]*\" - 2 bar\")" "nullop" "None" "None"
+"400" "Butyrate" "MC2" "MC" 20.5 0 "bold(N[2]*\" - atm\")" "MCatm" "C. minuta" "M. smithii /
+C. minuta"
+"401" "Acetate" "MC2" "MC" 65.75 10.925 "bold(N[2]*\" - 2 bar\")" "MC3" "C. minuta" "M. smithii /
+C. minuta"
+"402" "Acetate" "MC3" "MC" 17.75 2.12 "bold(N[2]*\" - 2 bar\")" "MC3" "C. minuta" "M. smithii /
+C. minuta"
+"403" "Acetate" "MC3" "MC" 65.75 12.115 "bold(N[2]*\" - 2 bar\")" "MC3" "C. minuta" "M. smithii /
+C. minuta"
+"404" "Sum" "B1" "B" 65.75 4.345 "bold(N[2]*\" - 2 bar\")" "B3" "B. thetaiotaomicron" "B. thetaiotaomicron"
+"405" "Butyrate" "C3" "C" 56.55 2.83666666666667 "bold(H[2]*\" - 2 bar\")" "Cop" "C. minuta" "C. minuta"
+"406" "Butyrate" "null1" "null" 105.5 0.0933333333333334 "bold(H[2]*\" - 2 bar\")" "nullop" "None" "None"
+"407" "Acetate" "nullH21" "nullH2" 65.75 0 "bold(N[2]*\" - 2 bar\")" "nullH23" "None" "None"
+"408" "Butyrate" "null1" "null" 13.75 0.15 "bold(H[2]*\" - 2 bar\")" "nullop" "None" "None"
+"409" "Acetate" "nullH22" "nullH2" 17.75 0 "bold(N[2]*\" - 2 bar\")" "nullH23" "None" "None"
+"410" "Acetate" "nullH22" "nullH2" 65.75 0 "bold(N[2]*\" - 2 bar\")" "nullH23" "None" "None"
+"411" "Sum" "C3" "C" 151.5 20.2433333333333 "bold(H[2]*\" - 2 bar\")" "Cop" "C. minuta" "C. minuta"
+"412" "Acetate" "MC3" "MC" 163 18.562 "bold(N[2]*\" - 2 bar\")" "MC3" "C. minuta" "M. smithii /
+C. minuta"
+"413" "Acetate" "B3" "B" 65.75 4.575 "bold(N[2]*\" - 2 bar\")" "B3" "B. thetaiotaomicron" "B. thetaiotaomicron"
+"414" "Acetate" "nullH23" "nullH2" 17.75 0.02 "bold(N[2]*\" - 2 bar\")" "nullH23" "None" "None"
+"415" "Acetate" "nullH23" "nullH2" 65.75 0 "bold(N[2]*\" - 2 bar\")" "nullH23" "None" "None"
+"416" "Acetate" "nullN21" "nullN2" 17.75 0.0600000000000001 "bold(N[2]*\" - 2 bar\")" "nullN23" "None" "None"
+"417" "Acetate" "nullN21" "nullN2" 65.75 0.0749999999999997 "bold(N[2]*\" - 2 bar\")" "nullN23" "None" "None"
+"418" "Acetate" "nullN22" "nullN2" 17.75 0 "bold(N[2]*\" - 2 bar\")" "nullN23" "None" "None"
+"419" "Acetate" "nullN22" "nullN2" 65.75 0.00499999999999989 "bold(N[2]*\" - 2 bar\")" "nullN23" "None" "None"
+"420" "Acetate" "nullN23" "nullN2" 17.75 0 "bold(N[2]*\" - 2 bar\")" "nullN23" "None" "None"
+"421" "Butyrate" "MH23" "MH2" 105.5 0 "bold(H[2]*\" - 2 bar\")" "MH2op" "None" "M. smithii"
+"422" "Acetate" "nullN23" "nullN2" 65.75 0.0149999999999997 "bold(N[2]*\" - 2 bar\")" "nullN23" "None" "None"
+"423" "Butyrate" "null1" "null" 151.5 0 "bold(H[2]*\" - 2 bar\")" "nullop" "None" "None"
+"424" "Acetate" "MH22" "MH2" 163 0 "bold(N[2]*\" - 2 bar\")" "MH23" "None" "M. smithii"
+"425" "Formate" "B1" "B" 17.75 0 "bold(N[2]*\" - 2 bar\")" "B3" "B. thetaiotaomicron" "B. thetaiotaomicron"
+"426" "Formate" "B2" "B" 163 0 "bold(N[2]*\" - 2 bar\")" "B3" "B. thetaiotaomicron" "B. thetaiotaomicron"
+"427" "Formate" "B1" "B" 65.75 0 "bold(N[2]*\" - 2 bar\")" "B3" "B. thetaiotaomicron" "B. thetaiotaomicron"
+"428" "Formate" "B2" "B" 17.75 0 "bold(N[2]*\" - 2 bar\")" "B3" "B. thetaiotaomicron" "B. thetaiotaomicron"
+"429" "Butyrate" "C3" "C" 116.5 2.35 "bold(N[2]*\" - atm\")" "Catm" "C. minuta" "C. minuta"
+"430" "Acetate" "MC2" "MC" 151.5 17.24 "bold(H[2]*\" - 2 bar\")" "MCop" "C. minuta" "M. smithii /
+C. minuta"
+"431" "Formate" "B2" "B" 65.75 0 "bold(N[2]*\" - 2 bar\")" "B3" "B. thetaiotaomicron" "B. thetaiotaomicron"
+"432" "Formate" "MH22" "MH2" 163 0 "bold(N[2]*\" - 2 bar\")" "MH23" "None" "M. smithii"
+"433" "Formate" "B3" "B" 17.75 0 "bold(N[2]*\" - 2 bar\")" "B3" "B. thetaiotaomicron" "B. thetaiotaomicron"
+"434" "Formate" "C1" "C" 17.75 0 "bold(N[2]*\" - 2 bar\")" "C3" "C. minuta" "C. minuta"
+"435" "Formate" "B3" "B" 65.75 0 "bold(N[2]*\" - 2 bar\")" "B3" "B. thetaiotaomicron" "B. thetaiotaomicron"
+"436" "Sum" "MC2" "MC" 64.5 12.16 "bold(N[2]*\" - atm\")" "MCatm" "C. minuta" "M. smithii /
+C. minuta"
+"437" "Formate" "C1" "C" 65.75 0 "bold(N[2]*\" - 2 bar\")" "C3" "C. minuta" "C. minuta"
+"438" "Formate" "C2" "C" 65.75 0 "bold(N[2]*\" - 2 bar\")" "C3" "C. minuta" "C. minuta"
+"439" "Acetate" "C3" "C" 13.75 0.496666666666667 "bold(H[2]*\" - 2 bar\")" "Cop" "C. minuta" "C. minuta"
+"440" "Butyrate" "MH22" "MH2" 163 0 "bold(N[2]*\" - 2 bar\")" "MH23" "None" "M. smithii"
+"441" "Butyrate" "MH23" "MH2" 17.75 0 "bold(N[2]*\" - 2 bar\")" "MH23" "None" "M. smithii"
+"442" "Formate" "MH21" "MH2" 17.75 0 "bold(N[2]*\" - 2 bar\")" "MH23" "None" "M. smithii"
+"443" "Formate" "MH21" "MH2" 65.75 0 "bold(N[2]*\" - 2 bar\")" "MH23" "None" "M. smithii"
+"444" "Sum" "MH22" "MH2" 151.5 0.0533333333333333 "bold(H[2]*\" - 2 bar\")" "MH2op" "None" "M. smithii"
+"445" "Formate" "C2" "C" 17.75 0 "bold(N[2]*\" - 2 bar\")" "C3" "C. minuta" "C. minuta"
+"446" "Formate" "MH22" "MH2" 17.75 0 "bold(N[2]*\" - 2 bar\")" "MH23" "None" "M. smithii"
+"447" "Formate" "B3" "B" 116.5 0.24 "bold(N[2]*\" - 2 bar\")" "B3" "B. thetaiotaomicron" "B. thetaiotaomicron"
+"448" "Sum" "MC1" "MC" 64.5 12.64 "bold(N[2]*\" - atm\")" "MCatm" "C. minuta" "M. smithii /
+C. minuta"
+"449" "Formate" "MH22" "MH2" 65.75 0 "bold(N[2]*\" - 2 bar\")" "MH23" "None" "M. smithii"
+"450" "Formate" "MH23" "MH2" 17.75 0 "bold(N[2]*\" - 2 bar\")" "MH23" "None" "M. smithii"
+"451" "Sum" "C2" "C" 17.75 2.04 "bold(N[2]*\" - 2 bar\")" "C3" "C. minuta" "C. minuta"
+"452" "Formate" "MH23" "MH2" 65.75 0 "bold(N[2]*\" - 2 bar\")" "MH23" "None" "M. smithii"
+"453" "Acetate" "nullN21" "nullN2" 163 0.0720000000000001 "bold(N[2]*\" - 2 bar\")" "nullN23" "None" "None"
+"454" "Formate" "MB1" "MB" 17.75 0 "bold(N[2]*\" - 2 bar\")" "MB3" "B. thetaiotaomicron" "M. smithii /
+B. thetaiotaomicron"
+"455" "Formate" "MB1" "MB" 65.75 0 "bold(N[2]*\" - 2 bar\")" "MB3" "B. thetaiotaomicron" "M. smithii /
+B. thetaiotaomicron"
+"456" "Sum" "MC1" "MC" 105.5 19.7066666666666 "bold(H[2]*\" - 2 bar\")" "MCop" "C. minuta" "M. smithii /
+C. minuta"
+"457" "Acetate" "nullH23" "nullH2" 163 0 "bold(N[2]*\" - 2 bar\")" "nullH23" "None" "None"
+"458" "Formate" "MB2" "MB" 17.75 0 "bold(N[2]*\" - 2 bar\")" "MB3" "B. thetaiotaomicron" "M. smithii /
+B. thetaiotaomicron"
+"459" "Acetate" "MC3" "MC" 105.5 16.8133333333333 "bold(H[2]*\" - 2 bar\")" "MCop" "C. minuta" "M. smithii /
+C. minuta"
+"460" "Formate" "MB2" "MB" 65.75 0 "bold(N[2]*\" - 2 bar\")" "MB3" "B. thetaiotaomicron" "M. smithii /
+B. thetaiotaomicron"
+"461" "Formate" "MB3" "MB" 17.75 0 "bold(N[2]*\" - 2 bar\")" "MB3" "B. thetaiotaomicron" "M. smithii /
+B. thetaiotaomicron"
+"462" "Formate" "MB3" "MB" 65.75 0 "bold(N[2]*\" - 2 bar\")" "MB3" "B. thetaiotaomicron" "M. smithii /
+B. thetaiotaomicron"
+"463" "Butyrate" "MC3" "MC" 56.55 1.46666666666667 "bold(H[2]*\" - 2 bar\")" "MCop" "C. minuta" "M. smithii /
+C. minuta"
+"464" "Acetate" "MH23" "MH2" 163 0 "bold(N[2]*\" - 2 bar\")" "MH23" "None" "M. smithii"
+"465" "Formate" "MC1" "MC" 17.75 0 "bold(N[2]*\" - 2 bar\")" "MC3" "C. minuta" "M. smithii /
+C. minuta"
+"466" "Formate" "MC1" "MC" 65.75 0 "bold(N[2]*\" - 2 bar\")" "MC3" "C. minuta" "M. smithii /
+C. minuta"
+"467" "Butyrate" "MH22" "MH2" 116.5 0 "bold(N[2]*\" - atm\")" "MH2atm" "None" "M. smithii"
+"468" "Formate" "MC2" "MC" 17.75 0 "bold(N[2]*\" - 2 bar\")" "MC3" "C. minuta" "M. smithii /
+C. minuta"
+"469" "Butyrate" "MH21" "MH2" 56.55 0.216666666666667 "bold(H[2]*\" - 2 bar\")" "MH2op" "None" "M. smithii"
+"470" "Acetate" "MH21" "MH2" 13.75 0 "bold(H[2]*\" - 2 bar\")" "MH2op" "None" "M. smithii"
+"471" "Butyrate" "MH23" "MH2" 56.55 0 "bold(H[2]*\" - 2 bar\")" "MH2op" "None" "M. smithii"
+"472" "Acetate" "C3" "C" 17.75 2.35 "bold(N[2]*\" - 2 bar\")" "C3" "C. minuta" "C. minuta"
+"473" "Formate" "MC2" "MC" 65.75 0 "bold(N[2]*\" - 2 bar\")" "MC3" "C. minuta" "M. smithii /
+C. minuta"
+"474" "Formate" "MC3" "MC" 17.75 0 "bold(N[2]*\" - 2 bar\")" "MC3" "C. minuta" "M. smithii /
+C. minuta"
+"475" "Butyrate" "MB3" "MB" 163 0 "bold(N[2]*\" - 2 bar\")" "MB3" "B. thetaiotaomicron" "M. smithii /
+B. thetaiotaomicron"
+"476" "Formate" "MC3" "MC" 65.75 0 "bold(N[2]*\" - 2 bar\")" "MC3" "C. minuta" "M. smithii /
+C. minuta"
+"477" "Formate" "nullH21" "nullH2" 17.75 0 "bold(N[2]*\" - 2 bar\")" "nullH23" "None" "None"
+"478" "Formate" "nullN21" "nullN2" 163 0 "bold(N[2]*\" - 2 bar\")" "nullN23" "None" "None"
+"479" "Formate" "nullH21" "nullH2" 65.75 0 "bold(N[2]*\" - 2 bar\")" "nullH23" "None" "None"
+"480" "Formate" "nullH22" "nullH2" 17.75 0 "bold(N[2]*\" - 2 bar\")" "nullH23" "None" "None"
+"481" "Butyrate" "C1" "C" 64.5 1.98 "bold(N[2]*\" - atm\")" "Catm" "C. minuta" "C. minuta"
+"482" "Acetate" "C1" "C" 17.75 2.25 "bold(N[2]*\" - 2 bar\")" "C3" "C. minuta" "C. minuta"
+"483" "Sum" "C2" "C" 64.5 11.94 "bold(N[2]*\" - atm\")" "Catm" "C. minuta" "C. minuta"
+"484" "Formate" "nullH22" "nullH2" 65.75 0 "bold(N[2]*\" - 2 bar\")" "nullH23" "None" "None"
+"485" "Butyrate" "C1" "C" 163 3.83 "bold(N[2]*\" - 2 bar\")" "C3" "C. minuta" "C. minuta"
+"486" "Formate" "nullH23" "nullH2" 17.75 0 "bold(N[2]*\" - 2 bar\")" "nullH23" "None" "None"
+"487" "Acetate" "C1" "C" 116.5 16.596 "bold(N[2]*\" - 2 bar\")" "C3" "C. minuta" "C. minuta"
+"488" "Acetate" "MC3" "MC" 64.5 11.17 "bold(N[2]*\" - atm\")" "MCatm" "C. minuta" "M. smithii /
+C. minuta"
+"489" "Sum" "null3" "null" 116.5 0.0250000000000003 "bold(N[2]*\" - atm\")" "nullatm" "None" "None"
+"490" "Butyrate" "MC2" "MC" 56.55 1.66666666666667 "bold(H[2]*\" - 2 bar\")" "MCop" "C. minuta" "M. smithii /
+C. minuta"
+"491" "Acetate" "C2" "C" 65.75 10.245 "bold(N[2]*\" - 2 bar\")" "C3" "C. minuta" "C. minuta"
+"492" "Sum" "B2" "B" 116.5 5.116 "bold(N[2]*\" - 2 bar\")" "B3" "B. thetaiotaomicron" "B. thetaiotaomicron"
+"493" "Acetate" "MH23" "MH2" 105.5 0 "bold(H[2]*\" - 2 bar\")" "MH2op" "None" "M. smithii"
+"494" "Formate" "nullH23" "nullH2" 65.75 0 "bold(N[2]*\" - 2 bar\")" "nullH23" "None" "None"
+"495" "Butyrate" "MC1" "MC" 17.75 0 "bold(N[2]*\" - 2 bar\")" "MC3" "C. minuta" "M. smithii /
+C. minuta"
+"496" "Formate" "nullN21" "nullN2" 17.75 0 "bold(N[2]*\" - 2 bar\")" "nullN23" "None" "None"
+"497" "Formate" "nullN22" "nullN2" 17.75 0 "bold(N[2]*\" - 2 bar\")" "nullN23" "None" "None"
+"498" "Formate" "nullN22" "nullN2" 65.75 0 "bold(N[2]*\" - 2 bar\")" "nullN23" "None" "None"
+"499" "Butyrate" "MC1" "MC" 65.75 1.6 "bold(N[2]*\" - 2 bar\")" "MC3" "C. minuta" "M. smithii /
+C. minuta"
+"500" "Formate" "nullN23" "nullN2" 17.75 0 "bold(N[2]*\" - 2 bar\")" "nullN23" "None" "None"
+"501" "Butyrate" "nullH23" "nullH2" 116.5 0 "bold(N[2]*\" - 2 bar\")" "nullH23" "None" "None"
+"502" "Butyrate" "C2" "C" 56.55 2.46666666666667 "bold(H[2]*\" - 2 bar\")" "Cop" "C. minuta" "C. minuta"
+"503" "Formate" "nullN23" "nullN2" 65.75 0 "bold(N[2]*\" - 2 bar\")" "nullN23" "None" "None"
+"504" "Butyrate" "null2" "null" 166.5 0.005 "bold(N[2]*\" - atm\")" "nullatm" "None" "None"
+"505" "Butyrate" "null1" "null" 166.5 0 "bold(N[2]*\" - atm\")" "nullatm" "None" "None"
+"506" "Butyrate" "MC2" "MC" 166.5 1.555 "bold(N[2]*\" - atm\")" "MCatm" "C. minuta" "M. smithii /
+C. minuta"
+"507" "Acetate" "MH22" "MH2" 65.75 0 "bold(N[2]*\" - 2 bar\")" "MH23" "None" "M. smithii"
+"508" "Butyrate" "MH22" "MH2" 166.5 0.055 "bold(N[2]*\" - atm\")" "MH2atm" "None" "M. smithii"
+"509" "Butyrate" "C3" "C" 166.5 2.775 "bold(N[2]*\" - atm\")" "Catm" "C. minuta" "C. minuta"
+"510" "Butyrate" "MH21" "MH2" 166.5 0.035 "bold(N[2]*\" - atm\")" "MH2atm" "None" "M. smithii"
+"511" "Butyrate" "MC2" "MC" 13.75 0.34 "bold(H[2]*\" - 2 bar\")" "MCop" "C. minuta" "M. smithii /
+C. minuta"
+"512" "Butyrate" "MC3" "MC" 20.5 0 "bold(N[2]*\" - atm\")" "MCatm" "C. minuta" "M. smithii /
+C. minuta"
+"513" "Butyrate" "null2" "null" 116.5 0 "bold(N[2]*\" - atm\")" "nullatm" "None" "None"
+"514" "Acetate" "B3" "B" 17.75 0.63 "bold(N[2]*\" - 2 bar\")" "B3" "B. thetaiotaomicron" "B. thetaiotaomicron"
+"515" "Butyrate" "null3" "null" 116.5 0.02 "bold(N[2]*\" - atm\")" "nullatm" "None" "None"
+"516" "Butyrate" "MC3" "MC" 116.5 1.7 "bold(N[2]*\" - atm\")" "MCatm" "C. minuta" "M. smithii /
+C. minuta"
+"517" "Acetate" "B2" "B" 65.75 4.335 "bold(N[2]*\" - 2 bar\")" "B3" "B. thetaiotaomicron" "B. thetaiotaomicron"
+"518" "Butyrate" "MC1" "MC" 116.5 1.39 "bold(N[2]*\" - atm\")" "MCatm" "C. minuta" "M. smithii /
+C. minuta"
+"519" "Sum" "C1" "C" 65.75 12.215 "bold(N[2]*\" - 2 bar\")" "C3" "C. minuta" "C. minuta"
+"520" "Formate" "nullH23" "nullH2" 116.5 0 "bold(N[2]*\" - 2 bar\")" "nullH23" "None" "None"
+"521" "Butyrate" "MH23" "MH2" 116.5 0 "bold(N[2]*\" - atm\")" "MH2atm" "None" "M. smithii"
+"522" "Butyrate" "MH21" "MH2" 116.5 0 "bold(N[2]*\" - atm\")" "MH2atm" "None" "M. smithii"
+"523" "Acetate" "MH21" "MH2" 105.5 0 "bold(H[2]*\" - 2 bar\")" "MH2op" "None" "M. smithii"
+"524" "Butyrate" "C1" "C" 116.5 2.42 "bold(N[2]*\" - atm\")" "Catm" "C. minuta" "C. minuta"
+"525" "Acetate" "MC1" "MC" 105.5 16.7633333333333 "bold(H[2]*\" - 2 bar\")" "MCop" "C. minuta" "M. smithii /
+C. minuta"
+"526" "Acetate" "null2" "null" 166.5 0 "bold(N[2]*\" - atm\")" "nullatm" "None" "None"
+"527" "Acetate" "null1" "null" 166.5 0.00999999999999979 "bold(N[2]*\" - atm\")" "nullatm" "None" "None"
+"528" "Acetate" "MC3" "MC" 166.5 18.06 "bold(N[2]*\" - atm\")" "MCatm" "C. minuta" "M. smithii /
+C. minuta"
+"529" "Acetate" "MC2" "MC" 166.5 18.06 "bold(N[2]*\" - atm\")" "MCatm" "C. minuta" "M. smithii /
+C. minuta"
+"530" "Acetate" "MC1" "MC" 166.5 18.37 "bold(N[2]*\" - atm\")" "MCatm" "C. minuta" "M. smithii /
+C. minuta"
+"531" "Butyrate" "MH23" "MH2" 163 0 "bold(N[2]*\" - 2 bar\")" "MH23" "None" "M. smithii"
+"532" "Acetate" "MH23" "MH2" 166.5 0.23 "bold(N[2]*\" - atm\")" "MH2atm" "None" "M. smithii"
+"533" "Sum" "nullH21" "nullH2" 163 0.012 "bold(N[2]*\" - 2 bar\")" "nullH23" "None" "None"
+"534" "Acetate" "C3" "C" 166.5 15.83 "bold(N[2]*\" - atm\")" "Catm" "C. minuta" "C. minuta"
+"535" "Butyrate" "MC3" "MC" 105.5 2.45333333333333 "bold(H[2]*\" - 2 bar\")" "MCop" "C. minuta" "M. smithii /
+C. minuta"
+"536" "Butyrate" "null3" "null" 20.5 0 "bold(N[2]*\" - atm\")" "nullatm" "None" "None"
+"537" "Acetate" "C2" "C" 166.5 16.16 "bold(N[2]*\" - atm\")" "Catm" "C. minuta" "C. minuta"
+"538" "Acetate" "C1" "C" 166.5 16.06 "bold(N[2]*\" - atm\")" "Catm" "C. minuta" "C. minuta"
+"539" "Sum" "MH21" "MH2" 56.55 0.216666666666667 "bold(H[2]*\" - 2 bar\")" "MH2op" "None" "M. smithii"
+"540" "Acetate" "null3" "null" 116.5 0.00500000000000034 "bold(N[2]*\" - atm\")" "nullatm" "None" "None"
+"541" "Sum" "MB3" "MB" 65.75 5.095 "bold(N[2]*\" - 2 bar\")" "MB3" "B. thetaiotaomicron" "M. smithii /
+B. thetaiotaomicron"
+"542" "Acetate" "null2" "null" 116.5 0 "bold(N[2]*\" - atm\")" "nullatm" "None" "None"
+"543" "Acetate" "C3" "C" 20.5 1.14666666666667 "bold(N[2]*\" - atm\")" "Catm" "C. minuta" "C. minuta"
+"544" "Acetate" "MC2" "MC" 116.5 17.625 "bold(N[2]*\" - atm\")" "MCatm" "C. minuta" "M. smithii /
+C. minuta"
+"545" "Acetate" "MC1" "MC" 116.5 17.825 "bold(N[2]*\" - atm\")" "MCatm" "C. minuta" "M. smithii /
+C. minuta"
+"546" "Acetate" "MC1" "MC" 64.5 11.67 "bold(N[2]*\" - atm\")" "MCatm" "C. minuta" "M. smithii /
+C. minuta"
+"547" "Sum" "MC1" "MC" 166.5 19.875 "bold(N[2]*\" - atm\")" "MCatm" "C. minuta" "M. smithii /
+C. minuta"
+"548" "Acetate" "MH23" "MH2" 116.5 0.225000000000001 "bold(N[2]*\" - atm\")" "MH2atm" "None" "M. smithii"
+"549" "Acetate" "MH22" "MH2" 116.5 0.275 "bold(N[2]*\" - atm\")" "MH2atm" "None" "M. smithii"
+"550" "Sum" "MC2" "MC" 163 21.692 "bold(N[2]*\" - 2 bar\")" "MC3" "C. minuta" "M. smithii /
+C. minuta"
+"551" "Butyrate" "B2" "B" 65.75 0 "bold(N[2]*\" - 2 bar\")" "B3" "B. thetaiotaomicron" "B. thetaiotaomicron"
+"552" "Acetate" "MH21" "MH2" 116.5 0.275 "bold(N[2]*\" - atm\")" "MH2atm" "None" "M. smithii"
+"553" "Acetate" "C3" "C" 116.5 14.955 "bold(N[2]*\" - atm\")" "Catm" "C. minuta" "C. minuta"
+"554" "Acetate" "C2" "C" 116.5 14.735 "bold(N[2]*\" - atm\")" "Catm" "C. minuta" "C. minuta"
+"555" "Butyrate" "MC3" "MC" 64.5 0.78 "bold(N[2]*\" - atm\")" "MCatm" "C. minuta" "M. smithii /
+C. minuta"
+"556" "Butyrate" "MC2" "MC" 64.5 0.78 "bold(N[2]*\" - atm\")" "MCatm" "C. minuta" "M. smithii /
+C. minuta"
+"557" "Sum" "MC3" "MC" 116.5 19.095 "bold(N[2]*\" - atm\")" "MCatm" "C. minuta" "M. smithii /
+C. minuta"
+"558" "Butyrate" "MH23" "MH2" 64.5 0 "bold(N[2]*\" - atm\")" "MH2atm" "None" "M. smithii"
+"559" "Butyrate" "MH22" "MH2" 64.5 0 "bold(N[2]*\" - atm\")" "MH2atm" "None" "M. smithii"
+"560" "Butyrate" "MH21" "MH2" 64.5 0 "bold(N[2]*\" - atm\")" "MH2atm" "None" "M. smithii"
+"561" "Butyrate" "null3" "null" 56.55 0 "bold(H[2]*\" - 2 bar\")" "nullop" "None" "None"
+"562" "Butyrate" "C3" "C" 64.5 1.81 "bold(N[2]*\" - atm\")" "Catm" "C. minuta" "C. minuta"
+"563" "Butyrate" "null3" "null" 64.5 0 "bold(N[2]*\" - atm\")" "nullatm" "None" "None"
+"564" "Butyrate" "null2" "null" 64.5 0 "bold(N[2]*\" - atm\")" "nullatm" "None" "None"
+"565" "Acetate" "MC1" "MC" 56.55 11.0966666666667 "bold(H[2]*\" - 2 bar\")" "MCop" "C. minuta" "M. smithii /
+C. minuta"
+"566" "Acetate" "C2" "C" 105.5 15.9633333333333 "bold(H[2]*\" - 2 bar\")" "Cop" "C. minuta" "C. minuta"
+"567" "Butyrate" "C2" "C" 64.5 1.8 "bold(N[2]*\" - atm\")" "Catm" "C. minuta" "C. minuta"
+"568" "Formate" "nullN21" "nullN2" 65.75 0 "bold(N[2]*\" - 2 bar\")" "nullN23" "None" "None"
+"569" "Butyrate" "MC1" "MC" 20.5 0 "bold(N[2]*\" - atm\")" "MCatm" "C. minuta" "M. smithii /
+C. minuta"
+"570" "Formate" "MB2" "MB" 116.5 0 "bold(N[2]*\" - 2 bar\")" "MB3" "B. thetaiotaomicron" "M. smithii /
+B. thetaiotaomicron"
+"571" "Acetate" "B2" "B" 17.75 0.55 "bold(N[2]*\" - 2 bar\")" "B3" "B. thetaiotaomicron" "B. thetaiotaomicron"
+"572" "Butyrate" "MH23" "MH2" 20.5 0 "bold(N[2]*\" - atm\")" "MH2atm" "None" "M. smithii"
+"573" "Butyrate" "MH21" "MH2" 20.5 0 "bold(N[2]*\" - atm\")" "MH2atm" "None" "M. smithii"
+"574" "Butyrate" "null1" "null" 64.5 0 "bold(N[2]*\" - atm\")" "nullatm" "None" "None"
+"575" "Butyrate" "C2" "C" 20.5 0 "bold(N[2]*\" - atm\")" "Catm" "C. minuta" "C. minuta"
+"576" "Acetate" "MH21" "MH2" 166.5 0.25 "bold(N[2]*\" - atm\")" "MH2atm" "None" "M. smithii"
+"577" "Butyrate" "null2" "null" 20.5 0 "bold(N[2]*\" - atm\")" "nullatm" "None" "None"
+"578" "Acetate" "MC1" "MC" 116.5 17.896 "bold(N[2]*\" - 2 bar\")" "MC3" "C. minuta" "M. smithii /
+C. minuta"
+"579" "Butyrate" "null1" "null" 20.5 0 "bold(N[2]*\" - atm\")" "nullatm" "None" "None"
+"580" "Acetate" "MH23" "MH2" 64.5 0.27 "bold(N[2]*\" - atm\")" "MH2atm" "None" "M. smithii"
+"581" "Butyrate" "MH21" "MH2" 13.75 0 "bold(H[2]*\" - 2 bar\")" "MH2op" "None" "M. smithii"
+"582" "Acetate" "MH22" "MH2" 64.5 0.36 "bold(N[2]*\" - atm\")" "MH2atm" "None" "M. smithii"
+"583" "Formate" "nullN22" "nullN2" 116.5 0 "bold(N[2]*\" - 2 bar\")" "nullN23" "None" "None"
+"584" "Acetate" "nullH21" "nullH2" 17.75 0 "bold(N[2]*\" - 2 bar\")" "nullH23" "None" "None"
+"585" "Acetate" "MH21" "MH2" 64.5 0.32 "bold(N[2]*\" - atm\")" "MH2atm" "None" "M. smithii"
+"586" "Acetate" "C2" "C" 64.5 10.14 "bold(N[2]*\" - atm\")" "Catm" "C. minuta" "C. minuta"
+"587" "Butyrate" "C1" "C" 166.5 2.795 "bold(N[2]*\" - atm\")" "Catm" "C. minuta" "C. minuta"
+"588" "Acetate" "C1" "C" 64.5 10.03 "bold(N[2]*\" - atm\")" "Catm" "C. minuta" "C. minuta"
+"589" "Acetate" "MB1" "MB" 163 5.812 "bold(N[2]*\" - 2 bar\")" "MB3" "B. thetaiotaomicron" "M. smithii /
+B. thetaiotaomicron"
+"590" "Acetate" "null3" "null" 64.5 0 "bold(N[2]*\" - atm\")" "nullatm" "None" "None"
+"591" "Sum" "null3" "null" 151.5 0.163333333333333 "bold(H[2]*\" - 2 bar\")" "nullop" "None" "None"
+"592" "Acetate" "null2" "null" 64.5 0.02 "bold(N[2]*\" - atm\")" "nullatm" "None" "None"
+"593" "Formate" "C1" "C" 116.5 0.35 "bold(N[2]*\" - 2 bar\")" "C3" "C. minuta" "C. minuta"
+"594" "Acetate" "null1" "null" 64.5 0.02 "bold(N[2]*\" - atm\")" "nullatm" "None" "None"
+"595" "Sum" "MC2" "MC" 105.5 19.1966666666666 "bold(H[2]*\" - 2 bar\")" "MCop" "C. minuta" "M. smithii /
+C. minuta"
+"596" "Acetate" "nullH22" "nullH2" 116.5 0 "bold(N[2]*\" - 2 bar\")" "nullH23" "None" "None"
+"597" "Acetate" "MC2" "MC" 20.5 0 "bold(N[2]*\" - atm\")" "MCatm" "C. minuta" "M. smithii /
+C. minuta"
+"598" "Acetate" "MC1" "MC" 20.5 0 "bold(N[2]*\" - atm\")" "MCatm" "C. minuta" "M. smithii /
+C. minuta"
+"599" "Acetate" "MH23" "MH2" 20.5 0 "bold(N[2]*\" - atm\")" "MH2atm" "None" "M. smithii"
+"600" "Butyrate" "C3" "C" 20.5 0 "bold(N[2]*\" - atm\")" "Catm" "C. minuta" "C. minuta"
+"601" "Acetate" "MH22" "MH2" 20.5 0 "bold(N[2]*\" - atm\")" "MH2atm" "None" "M. smithii"
+"602" "Acetate" "MH21" "MH2" 20.5 0 "bold(N[2]*\" - atm\")" "MH2atm" "None" "M. smithii"
+"603" "Sum" "MH22" "MH2" 105.5 0 "bold(H[2]*\" - 2 bar\")" "MH2op" "None" "M. smithii"
+"604" "Butyrate" "C1" "C" 56.55 2.38666666666667 "bold(H[2]*\" - 2 bar\")" "Cop" "C. minuta" "C. minuta"
+"605" "Acetate" "C1" "C" 20.5 0.976666666666667 "bold(N[2]*\" - atm\")" "Catm" "C. minuta" "C. minuta"
+"606" "Acetate" "null3" "null" 20.5 0.736666666666667 "bold(N[2]*\" - atm\")" "nullatm" "None" "None"

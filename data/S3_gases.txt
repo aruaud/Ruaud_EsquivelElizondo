@@ -1,0 +1,119 @@
+Sample	Replicate	microbe	Time	Concentration	headspace	pressure	condition	gas	id
+19	MH2	MH2_atm_2	M. smithii	137.5	34.4400662698621	H2	atm	H2-atm	H2	MH2H2
+20	MH2	MH2_atm_1	M. smithii	137.5	30.5619018292487	H2	atm	H2-atm	H2	MH2H2
+21	MC-op	MC_H2_op_3	M. smithii/C. minuta	137.5	48.4641993399196	H2	2bar	H2-2bar	H2	MC-opH2
+22	MC-op	MC_H2_op_2	M. smithii/C. minuta	137.5	41.1733660542904	H2	2bar	H2-2bar	H2	MC-opH2
+23	MC-op	MC_H2_op_1	M. smithii/C. minuta	137.5	59.9474414499316	H2	2bar	H2-2bar	H2	MC-opH2
+24	MC	MC_N2_atm_3	M. smithii/C. minuta	137.5	1.35153841108364	N2	atm	N2-atm	H2	MCH2
+25	MC	MC_N2_atm_2	M. smithii/C. minuta	137.5	0.0486638368873128	N2	atm	N2-atm	H2	MCH2
+26	MC	MC_N2_atm_1	M. smithii/C. minuta	137.5	0.235213872713288	N2	atm	N2-atm	H2	MCH2
+27	C	C_N2_atm_3	C. minuta	137.5	19.4151107801919	N2	atm	N2-atm	H2	CH2
+28	C	C_N2_atm_2	C. minuta	137.5	15.3906753757599	N2	atm	N2-atm	H2	CH2
+29	C	C_N2_atm_1	C. minuta	137.5	16.6560912349128	N2	atm	N2-atm	H2	CH2
+38	MH2	MH2_atm_3	M. smithii	70	44.6336112028421	H2	atm	H2-atm	H2	MH2H2
+39	MH2	MH2_atm_2	M. smithii	70	42.9780154323017	H2	atm	H2-atm	H2	MH2H2
+40	MH2	MH2_atm_1	M. smithii	70	44.1808427662825	H2	atm	H2-atm	H2	MH2H2
+41	MC-op	MC_H2_op_3	M. smithii/C. minuta	70	93.2806475631885	H2	2bar	H2-2bar	H2	MC-opH2
+42	MC-op	MC_H2_op_1	M. smithii/C. minuta	70	94.9937901882392	H2	2bar	H2-2bar	H2	MC-opH2
+43	MC	MC_N2_atm_3	M. smithii/C. minuta	70	0.130868967336737	N2	atm	N2-atm	H2	MCH2
+44	MC	MC_N2_atm_2	M. smithii/C. minuta	70	0.328094481856937	N2	atm	N2-atm	H2	MCH2
+45	MC	MC_N2_atm_1	M. smithii/C. minuta	70	0.587328186342313	N2	atm	N2-atm	H2	MCH2
+46	C	C_N2_atm_3	C. minuta	70	11.0070875482604	N2	atm	N2-atm	H2	CH2
+47	C	C_N2_atm_2	C. minuta	70	10.855416331107	N2	atm	N2-atm	H2	CH2
+48	MH2	MH2_atm_3	M. smithii	41.5	54.0097897623913	H2	atm	H2-atm	H2	MH2H2
+49	MH2	MH2_atm_2	M. smithii	41.5	44.7676188765173	H2	atm	H2-atm	H2	MH2H2
+50	MH2	MH2_atm_3	M. smithii	137.5	34.4400662698621	H2	atm	H2-atm	H2	MH2H2
+51	MH2	MH2_atm_1	M. smithii	41.5	50.4935197368779	H2	atm	H2-atm	H2	MH2H2
+52	MC-op	MC_H2_op_3	M. smithii/C. minuta	41.5	98.8508594348095	H2	2bar	H2-2bar	H2	MC-opH2
+53	MC-op	MC_H2_op_2	M. smithii/C. minuta	41.5	113.95985628802	H2	2bar	H2-2bar	H2	MC-opH2
+54	MC-op	MC_H2_op_1	M. smithii/C. minuta	41.5	120.715625301707	H2	2bar	H2-2bar	H2	MC-opH2
+55	C	C_N2_atm_3	C. minuta	41.5	8.27865843882126	N2	atm	N2-atm	H2	CH2
+56	C	C_N2_atm_2	C. minuta	41.5	7.1796838600326	N2	atm	N2-atm	H2	CH2
+57	MH2	MH2_atm_3	M. smithii	20	51.1686444436385	H2	atm	H2-atm	H2	MH2H2
+58	MH2	MH2_atm_2	M. smithii	20	47.2689132845555	H2	atm	H2-atm	H2	MH2H2
+59	MH2	MH2_atm_1	M. smithii	20	46.7552931966677	H2	atm	H2-atm	H2	MH2H2
+60	MC-op	MC_H2_op_3	M. smithii/C. minuta	20	115.27280410176	H2	2bar	H2-2bar	H2	MC-opH2
+61	MC-op	MC_H2_op_2	M. smithii/C. minuta	20	115.709260117449	H2	2bar	H2-2bar	H2	MC-opH2
+62	MC	MC_N2_atm_3	M. smithii/C. minuta	20	0.116902436583614	N2	atm	N2-atm	H2	MCH2
+63	MC	MC_N2_atm_2	M. smithii/C. minuta	20	0.0964569550073259	N2	atm	N2-atm	H2	MCH2
+64	MC	MC_N2_atm_1	M. smithii/C. minuta	20	0.126317604314087	N2	atm	N2-atm	H2	MCH2
+65	C	C_N2_atm_3	C. minuta	20	0.986152155677678	N2	atm	N2-atm	H2	CH2
+66	C	C_N2_atm_1	C. minuta	20	0.958073777146546	N2	atm	N2-atm	H2	CH2
+76	MH2	MH2_atm_3	M. smithii	0	56.6091100459892	H2	atm	H2-atm	H2	MH2H2
+77	MH2	MH2_atm_2	M. smithii	0	56.6091100459892	H2	atm	H2-atm	H2	MH2H2
+78	MH2	MH2_atm_1	M. smithii	0	56.6091100459892	H2	atm	H2-atm	H2	MH2H2
+79	MC-op	MC_H2_op_3	M. smithii/C. minuta	0	126.27194543079	H2	2bar	H2-2bar	H2	MC-opH2
+80	MC-op	MC_H2_op_2	M. smithii/C. minuta	0	126.27194543079	H2	2bar	H2-2bar	H2	MC-opH2
+81	MC-op	MC_H2_op_1	M. smithii/C. minuta	0	126.27194543079	H2	2bar	H2-2bar	H2	MC-opH2
+82	MC	MC_N2_atm_3	M. smithii/C. minuta	0	0.0455922027710695	N2	atm	N2-atm	H2	MCH2
+83	MC	MC_N2_atm_2	M. smithii/C. minuta	0	0.0455922027710695	N2	atm	N2-atm	H2	MCH2
+84	MC	MC_N2_atm_1	M. smithii/C. minuta	0	0.0455922027710695	N2	atm	N2-atm	H2	MCH2
+85	MC-op	MC_H2_op_1	M. smithii/C. minuta	20	110.084233335139	H2	2bar	H2-2bar	H2	MC-opH2
+86	C	C_N2_atm_3	C. minuta	0	0.084859566815505	N2	atm	N2-atm	H2	CH2
+87	C	C_N2_atm_2	C. minuta	0	0.084859566815505	N2	atm	N2-atm	H2	CH2
+88	C	C_N2_atm_1	C. minuta	0	0.084859566815505	N2	atm	N2-atm	H2	CH2
+92	C	C_N2_atm_2	C. minuta	20	0.504836257232325	N2	atm	N2-atm	H2	CH2
+94	C	C_N2_atm_1	C. minuta	41.5	7.0050186790026	N2	atm	N2-atm	H2	CH2
+110	C	C_N2_atm_1	C. minuta	70	11.185252639049	N2	atm	N2-atm	H2	CH2
+111	MH2	MH2_atm_3	M. smithii	137.5	3.38316526405658	H2	atm	H2-atm	CH4	MH2CH4
+112	MH2	MH2_atm_2	M. smithii	137.5	3.38316526405658	H2	atm	H2-atm	CH4	MH2CH4
+114	MH2	MH2_atm_1	M. smithii	137.5	4.3945885173038	H2	atm	H2-atm	CH4	MH2CH4
+115	MC-op	MC_H2_op_3	M. smithii/C. minuta	137.5	12.5662129761708	H2	2bar	H2-2bar	CH4	MC-opCH4
+116	MC-op	MC_H2_op_2	M. smithii/C. minuta	137.5	8.78339347958066	H2	2bar	H2-2bar	CH4	MC-opCH4
+117	MC-op	MC_H2_op_1	M. smithii/C. minuta	137.5	13.7383054979688	H2	2bar	H2-2bar	CH4	MC-opCH4
+118	MC	MC_N2_atm_3	M. smithii/C. minuta	137.5	6.83128974599236	N2	atm	N2-atm	CH4	MCCH4
+119	MC	MC_N2_atm_2	M. smithii/C. minuta	137.5	5.02523081790573	N2	atm	N2-atm	CH4	MCCH4
+120	MC	MC_N2_atm_1	M. smithii/C. minuta	137.5	4.28470397389359	N2	atm	N2-atm	CH4	MCCH4
+122	C	C_N2_atm_3	C. minuta	137.5	0	N2	atm	N2-atm	CH4	CCH4
+123	C	C_N2_atm_2	C. minuta	137.5	0	N2	atm	N2-atm	CH4	CCH4
+124	C	C_N2_atm_1	C. minuta	137.5	0	N2	atm	N2-atm	CH4	CCH4
+133	MH2	MH2_atm_2	M. smithii	70	1.33687831403692	H2	atm	H2-atm	CH4	MH2CH4
+134	MH2	MH2_atm_1	M. smithii	70	1.96155676199543	H2	atm	H2-atm	CH4	MH2CH4
+135	MC-op	MC_H2_op_2	M. smithii/C. minuta	70	5.68260803893953	H2	2bar	H2-2bar	CH4	MC-opCH4
+136	MC-op	MC_H2_op_1	M. smithii/C. minuta	70	6.83432959723273	H2	2bar	H2-2bar	CH4	MC-opCH4
+137	MC	MC_N2_atm_3	M. smithii/C. minuta	70	4.10278841073537	N2	atm	N2-atm	CH4	MCCH4
+138	MC	MC_N2_atm_2	M. smithii/C. minuta	70	2.35399820794124	N2	atm	N2-atm	CH4	MCCH4
+139	C	C_N2_atm_3	C. minuta	70	0	N2	atm	N2-atm	CH4	CCH4
+140	C	C_N2_atm_2	C. minuta	70	0	N2	atm	N2-atm	CH4	CCH4
+141	C	C_N2_atm_1	C. minuta	70	0	N2	atm	N2-atm	CH4	CCH4
+142	MH2	MH2_atm_3	M. smithii	41.5	0.716511241179318	H2	atm	H2-atm	CH4	MH2CH4
+143	MH2	MH2_atm_2	M. smithii	41.5	0.530180778419853	H2	atm	H2-atm	CH4	MH2CH4
+144	MH2	MH2_atm_1	M. smithii	41.5	0.67125607310352	H2	atm	H2-atm	CH4	MH2CH4
+145	MC-op	MC_H2_op_2	M. smithii/C. minuta	70	87.3263957031628	H2	2bar	H2-2bar	H2	MC-opH2
+146	MC-op	MC_H2_op_3	M. smithii/C. minuta	41.5	2.12721671008162	H2	2bar	H2-2bar	CH4	MC-opCH4
+147	MC-op	MC_H2_op_2	M. smithii/C. minuta	41.5	2.20581944909935	H2	2bar	H2-2bar	CH4	MC-opCH4
+148	MC-op	MC_H2_op_1	M. smithii/C. minuta	41.5	2.73519780447069	H2	2bar	H2-2bar	CH4	MC-opCH4
+149	MC	MC_N2_atm_3	M. smithii/C. minuta	41.5	0.806503813703703	N2	atm	N2-atm	CH4	MCCH4
+150	MC	MC_N2_atm_2	M. smithii/C. minuta	41.5	0.468829724467548	N2	atm	N2-atm	CH4	MCCH4
+151	C	C_N2_atm_3	C. minuta	41.5	0	N2	atm	N2-atm	CH4	CCH4
+152	MC	MC_N2_atm_3	M. smithii/C. minuta	41.5	0.296004476053261	N2	atm	N2-atm	H2	MCH2
+153	C	C_N2_atm_2	C. minuta	41.5	0	N2	atm	N2-atm	CH4	CCH4
+154	C	C_N2_atm_1	C. minuta	41.5	0	N2	atm	N2-atm	CH4	CCH4
+155	MH2	MH2_atm_3	M. smithii	20	2.03303727972727	H2	atm	H2-atm	CH4	MH2CH4
+156	MH2	MH2_atm_2	M. smithii	20	0.110283944076435	H2	atm	H2-atm	CH4	MH2CH4
+157	MH2	MH2_atm_1	M. smithii	20	0.135240953646033	H2	atm	H2-atm	CH4	MH2CH4
+158	MC	MC_N2_atm_2	M. smithii/C. minuta	41.5	0.280419127589296	N2	atm	N2-atm	H2	MCH2
+159	MC-op	MC_H2_op_3	M. smithii/C. minuta	20	0.734982851310126	H2	2bar	H2-2bar	CH4	MC-opCH4
+160	MC-op	MC_H2_op_2	M. smithii/C. minuta	20	0.505788329208856	H2	2bar	H2-2bar	CH4	MC-opCH4
+161	MC-op	MC_H2_op_1	M. smithii/C. minuta	20	0.551057315961459	H2	2bar	H2-2bar	CH4	MC-opCH4
+162	MC	MC_N2_atm_1	M. smithii/C. minuta	70	2.6120509429799	N2	atm	N2-atm	CH4	MCCH4
+163	MC	MC_N2_atm_3	M. smithii/C. minuta	20	0.25614883877569	N2	atm	N2-atm	CH4	MCCH4
+164	MC	MC_N2_atm_2	M. smithii/C. minuta	20	0.270455722242902	N2	atm	N2-atm	CH4	MCCH4
+165	MC	MC_N2_atm_1	M. smithii/C. minuta	20	0.234737398142527	N2	atm	N2-atm	CH4	MCCH4
+166	C	C_N2_atm_3	C. minuta	20	0	N2	atm	N2-atm	CH4	CCH4
+167	C	C_N2_atm_2	C. minuta	20	0	N2	atm	N2-atm	CH4	CCH4
+168	C	C_N2_atm_1	C. minuta	20	0	N2	atm	N2-atm	CH4	CCH4
+172	MC-op	MC_H2_op_3	M. smithii/C. minuta	70	7.66014283453508	H2	2bar	H2-2bar	CH4	MC-opCH4
+179	MH2	MH2_atm_3	M. smithii	70	1.83873249670844	H2	atm	H2-atm	CH4	MH2CH4
+183	MH2	MH2_atm_3	M. smithii	0	0	H2	atm	H2-atm	CH4	MH2CH4
+184	MH2	MH2_atm_2	M. smithii	0	0	H2	atm	H2-atm	CH4	MH2CH4
+185	MH2	MH2_atm_1	M. smithii	0	0	H2	atm	H2-atm	CH4	MH2CH4
+186	MC-op	MC_H2_op_3	M. smithii/C. minuta	0	0	H2	2bar	H2-2bar	CH4	MC-opCH4
+187	MC-op	MC_H2_op_2	M. smithii/C. minuta	0	0	H2	2bar	H2-2bar	CH4	MC-opCH4
+188	MC-op	MC_H2_op_1	M. smithii/C. minuta	0	0	H2	2bar	H2-2bar	CH4	MC-opCH4
+191	MC	MC_N2_atm_3	M. smithii/C. minuta	0	0	N2	atm	N2-atm	CH4	MCCH4
+192	MC	MC_N2_atm_2	M. smithii/C. minuta	0	0	N2	atm	N2-atm	CH4	MCCH4
+193	MC	MC_N2_atm_1	M. smithii/C. minuta	0	0	N2	atm	N2-atm	CH4	MCCH4
+194	C	C_N2_atm_3	C. minuta	0	0	N2	atm	N2-atm	CH4	CCH4
+195	C	C_N2_atm_2	C. minuta	0	0	N2	atm	N2-atm	CH4	CCH4
+196	C	C_N2_atm_1	C. minuta	0	0	N2	atm	N2-atm	CH4	CCH4

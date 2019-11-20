@@ -1,0 +1,585 @@
+"SampleBatch" "Replicate" "microbe" "Time" "Concentration" "headspace" "pressure" "condition" "gas" "id" "Batch"
+"1" "MH2-atm" "MH2_2" "M. smithii" 166.5 23.4579331782717 "H2" "atm" "H2-atm" "H2" "MH2-atmH2" "N2 - atm"
+"2" "C-atm" "C2" "C. minuta" 166.5 18.5372017210795 "N2" "atm" "N2-atm" "H2" "C-atmH2" "N2 - atm"
+"3" "C-atm" "C1" "C. minuta" 166.5 16.8846255351757 "N2" "atm" "N2-atm" "H2" "C-atmH2" "N2 - atm"
+"4" "MH2-atm" "MH2_2" "M. smithii" 140.5 23.2998887831425 "H2" "atm" "H2-atm" "H2" "MH2-atmH2" "N2 - atm"
+"5" "C-atm" "C3" "C. minuta" 140.5 17.2161833319555 "N2" "atm" "N2-atm" "H2" "C-atmH2" "N2 - atm"
+"6" "C-atm" "C1" "C. minuta" 140.5 15.1736665549856 "N2" "atm" "N2-atm" "H2" "C-atmH2" "N2 - atm"
+"8" "MC-atm" "MC3" "M. smithii /
+C. minuta" 116.5 0.121162394464364 "N2" "atm" "N2-atm" "H2" "MC-atmH2" "N2 - atm"
+"9" "MC-atm" "MC2" "M. smithii /
+C. minuta" 116.5 0.044995381550836 "N2" "atm" "N2-atm" "H2" "MC-atmH2" "N2 - atm"
+"11" "MH2-atm" "MH2_2" "M. smithii" 88.75 32.6284089929937 "H2" "atm" "H2-atm" "H2" "MH2-atmH2" "N2 - atm"
+"12" "C-atm" "C3" "C. minuta" 88.75 17.3818453589005 "N2" "atm" "N2-atm" "H2" "C-atmH2" "N2 - atm"
+"13" "C-atm" "C2" "C. minuta" 88.75 17.5987319768514 "N2" "atm" "N2-atm" "H2" "C-atmH2" "N2 - atm"
+"14" "C-atm" "C1" "C. minuta" 88.75 18.3856632498919 "N2" "atm" "N2-atm" "H2" "C-atmH2" "N2 - atm"
+"15" "MC-atm" "MC3" "M. smithii /
+C. minuta" 88.75 0.247382495246314 "N2" "atm" "N2-atm" "H2" "MC-atmH2" "N2 - atm"
+"16" "MC-atm" "MC2" "M. smithii /
+C. minuta" 88.75 0.245485400079775 "N2" "atm" "N2-atm" "H2" "MC-atmH2" "N2 - atm"
+"17" "MH2-atm" "MH2_3" "M. smithii" 67.5 34.7388389083716 "H2" "atm" "H2-atm" "H2" "MH2-atmH2" "N2 - atm"
+"18" "MH2-atm" "MH2_2" "M. smithii" 67.5 35.5768001511603 "H2" "atm" "H2-atm" "H2" "MH2-atmH2" "N2 - atm"
+"19" "C-atm" "C2" "C. minuta" 67.5 12.9365276303925 "N2" "atm" "N2-atm" "H2" "C-atmH2" "N2 - atm"
+"20" "MC-atm" "MC1" "M. smithii /
+C. minuta" 116.5 0.0604345322478577 "N2" "atm" "N2-atm" "H2" "MC-atmH2" "N2 - atm"
+"21" "C-atm" "C1" "C. minuta" 67.5 13.0316366249813 "N2" "atm" "N2-atm" "H2" "C-atmH2" "N2 - atm"
+"22" "MC-atm" "MC3" "M. smithii /
+C. minuta" 67.5 0.356555364702321 "N2" "atm" "N2-atm" "H2" "MC-atmH2" "N2 - atm"
+"23" "MC-atm" "MC1" "M. smithii /
+C. minuta" 67.5 0.278622571666017 "N2" "atm" "N2-atm" "H2" "MC-atmH2" "N2 - atm"
+"24" "MH2-atm" "MH2_3" "M. smithii" 43.5 38.8217167145606 "H2" "atm" "H2-atm" "H2" "MH2-atmH2" "N2 - atm"
+"25" "MH2-atm" "MH2_2" "M. smithii" 43.5 36.7396676563492 "H2" "atm" "H2-atm" "H2" "MH2-atmH2" "N2 - atm"
+"26" "MH2-atm" "MH2_1" "M. smithii" 43.5 31.4982499349239 "H2" "atm" "H2-atm" "H2" "MH2-atmH2" "N2 - atm"
+"27" "C-atm" "C3" "C. minuta" 43.5 6.92066496650934 "N2" "atm" "N2-atm" "H2" "C-atmH2" "N2 - atm"
+"28" "MC-atm" "MC3" "M. smithii /
+C. minuta" 43.5 0.350446391968192 "N2" "atm" "N2-atm" "H2" "MC-atmH2" "N2 - atm"
+"29" "MC-atm" "MC1" "M. smithii /
+C. minuta" 43.5 0.338723355827824 "N2" "atm" "N2-atm" "H2" "MC-atmH2" "N2 - atm"
+"30" "MH2-atm" "MH2_1" "M. smithii" 20.5 54.5580593549566 "H2" "atm" "H2-atm" "H2" "MH2-atmH2" "N2 - atm"
+"31" "C-atm" "C2" "C. minuta" 20.5 3.20713163457551 "N2" "atm" "N2-atm" "H2" "C-atmH2" "N2 - atm"
+"32" "MH2-atm" "MH2_2" "M. smithii" 20.5 51.0918003068477 "H2" "atm" "H2-atm" "H2" "MH2-atmH2" "N2 - atm"
+"33" "C-atm" "C1" "C. minuta" 20.5 3.39649970625125 "N2" "atm" "N2-atm" "H2" "C-atmH2" "N2 - atm"
+"34" "MC-atm" "MC3" "M. smithii /
+C. minuta" 20.5 0.22460631664489 "N2" "atm" "N2-atm" "H2" "MC-atmH2" "N2 - atm"
+"35" "MN22" "MN2_12" "M. smithii" 143 0.12700717483154 "N2" "2bar" "N2-2bar" "H2" "MN22H2" NA
+"36" "MN22" "MN2_22" "M. smithii" 119 0.0546684947978812 "N2" "2bar" "N2-2bar" "H2" "MN22H2" NA
+"37" "MN22" "MN2_12" "M. smithii" 119 0.133734498663006 "N2" "2bar" "N2-2bar" "H2" "MN22H2" NA
+"38" "MN22" "MN2_32" "M. smithii" 95 0.0855135939319892 "N2" "2bar" "N2-2bar" "H2" "MN22H2" NA
+"39" "MN22" "MN2_22" "M. smithii" 95 0.0641590103591446 "N2" "2bar" "N2-2bar" "H2" "MN22H2" NA
+"40" "MN22" "MN2_32" "M. smithii" 75 0.0796466764318205 "N2" "2bar" "N2-2bar" "H2" "MN22H2" NA
+"41" "MN22" "MN2_22" "M. smithii" 75 0.0469495474243976 "N2" "2bar" "N2-2bar" "H2" "MN22H2" NA
+"42" "MN22" "MN2_12" "M. smithii" 75 0.0938781265130637 "N2" "2bar" "N2-2bar" "H2" "MN22H2" NA
+"43" "MN22" "MN2_22" "M. smithii" 51.75 0.0356616219124223 "N2" "2bar" "N2-2bar" "H2" "MN22H2" NA
+"44" "MN22" "MN2_12" "M. smithii" 51.75 0.0715199190804986 "N2" "2bar" "N2-2bar" "H2" "MN22H2" NA
+"45" "MN22" "MN2_22" "M. smithii" 22.5 0.0297347013512498 "N2" "2bar" "N2-2bar" "H2" "MN22H2" NA
+"46" "MN22" "MN2_12" "M. smithii" 22.5 0.0361308518951788 "N2" "2bar" "N2-2bar" "H2" "MN22H2" NA
+"48" "MH23" "MH2_13" "M. smithii" 183.75 44.7865981829816 "H2" "2bar" "H2-2bar" "H2" "MH23H2" "N2 - 2 bar"
+"49" "C3" "C23" "C. minuta" 183.75 13.5003498238335 "N2" "2bar" "N2-2bar" "H2" "C3H2" "N2 - 2 bar"
+"50" "C3" "C13" "C. minuta" 183.75 14.8760603385701 "N2" "2bar" "N2-2bar" "H2" "C3H2" "N2 - 2 bar"
+"51" "MC-atm" "MC2" "M. smithii /
+C. minuta" 166.5 0.0873436205926585 "N2" "atm" "N2-atm" "H2" "MC-atmH2" "N2 - atm"
+"52" "MC3" "MC33" "M. smithii /
+C. minuta" 183.75 0.031875056957565 "N2" "2bar" "N2-2bar" "H2" "MC3H2" "N2 - 2 bar"
+"53" "MC3" "MC13" "M. smithii /
+C. minuta" 183.75 0.0316582198354047 "N2" "2bar" "N2-2bar" "H2" "MC3H2" "N2 - 2 bar"
+"54" "B3" "B13" "B. thetaiotaomicron" 183.75 2.06088405160344 "N2" "2bar" "N2-2bar" "H2" "B3H2" "N2 - 2 bar"
+"55" "MB3" "MB13" "M. smithii /
+B. thetaiotaomicron" 183.75 0.144580054268583 "N2" "2bar" "N2-2bar" "H2" "MB3H2" "N2 - 2 bar"
+"59" "MH23" "MH2_33" "M. smithii" 157 42.2469874513089 "H2" "2bar" "H2-2bar" "H2" "MH23H2" "N2 - 2 bar"
+"61" "C3" "C13" "C. minuta" 157 14.7559901074052 "N2" "2bar" "N2-2bar" "H2" "C3H2" "N2 - 2 bar"
+"62" "MC3" "MC33" "M. smithii /
+C. minuta" 157 0.0312398517408836 "N2" "2bar" "N2-2bar" "H2" "MC3H2" "N2 - 2 bar"
+"63" "MC3" "MC23" "M. smithii /
+C. minuta" 157 0.0310408717934895 "N2" "2bar" "N2-2bar" "H2" "MC3H2" "N2 - 2 bar"
+"64" "B3" "B23" "B. thetaiotaomicron" 157 1.99186377520983 "N2" "2bar" "N2-2bar" "H2" "B3H2" "N2 - 2 bar"
+"65" "B3" "B13" "B. thetaiotaomicron" 157 1.90980398216041 "N2" "2bar" "N2-2bar" "H2" "B3H2" "N2 - 2 bar"
+"66" "B3" "B33" "B. thetaiotaomicron" 157 1.99482024703286 "N2" "2bar" "N2-2bar" "H2" "B3H2" "N2 - 2 bar"
+"67" "MB3" "MB23" "M. smithii /
+B. thetaiotaomicron" 157 0.0258673931612412 "N2" "2bar" "N2-2bar" "H2" "MB3H2" "N2 - 2 bar"
+"68" "MB3" "MB13" "M. smithii /
+B. thetaiotaomicron" 157 0.254377223412552 "N2" "2bar" "N2-2bar" "H2" "MB3H2" "N2 - 2 bar"
+"70" "C-atm" "C3" "C. minuta" 67.5 12.7567173527784 "N2" "atm" "N2-atm" "H2" "C-atmH2" "N2 - atm"
+"71" "MH23" "MH2_13" "M. smithii" 113.75 62.6586214424083 "H2" "2bar" "H2-2bar" "H2" "MH23H2" "N2 - 2 bar"
+"72" "C3" "C33" "C. minuta" 113.75 11.8951503291762 "N2" "2bar" "N2-2bar" "H2" "C3H2" "N2 - 2 bar"
+"73" "C3" "C23" "C. minuta" 113.75 8.61308002579849 "N2" "2bar" "N2-2bar" "H2" "C3H2" "N2 - 2 bar"
+"74" "C-op" "C3" "C. minuta" 12.5 105.451314619933 "H2" "2bar" "H2-2bar" "H2" "C-opH2" "H2 - 2 bar"
+"75" "C-op" "C2" "C. minuta" 150 58.7261511865748 "H2" "2bar" "H2-2bar" "H2" "C-opH2" "H2 - 2 bar"
+"76" "MN22" "MN2_22" "M. smithii" 143 0.0786641814772939 "N2" "2bar" "N2-2bar" "H2" "MN22H2" NA
+"77" "MC3" "MC33" "M. smithii /
+C. minuta" 113.75 0.0888441507400753 "N2" "2bar" "N2-2bar" "H2" "MC3H2" "N2 - 2 bar"
+"78" "MN22" "MN2_32" "M. smithii" 51.75 0.0153503799487953 "N2" "2bar" "N2-2bar" "H2" "MN22H2" NA
+"79" "MH23" "MH2_13" "M. smithii" 157 46.6823171138699 "H2" "2bar" "H2-2bar" "H2" "MH23H2" "N2 - 2 bar"
+"80" "MC3" "MC23" "M. smithii /
+C. minuta" 113.75 0.274130111211244 "N2" "2bar" "N2-2bar" "H2" "MC3H2" "N2 - 2 bar"
+"81" "B3" "B33" "B. thetaiotaomicron" 113.75 1.07065539393335 "N2" "2bar" "N2-2bar" "H2" "B3H2" "N2 - 2 bar"
+"82" "B3" "B23" "B. thetaiotaomicron" 113.75 1.77038953301953 "N2" "2bar" "N2-2bar" "H2" "B3H2" "N2 - 2 bar"
+"84" "MH2-atm" "MH2_3" "M. smithii" 166.5 25.6686661127328 "H2" "atm" "H2-atm" "H2" "MH2-atmH2" "N2 - atm"
+"90" "MH23" "MH2_33" "M. smithii" 84.75 62.1252246460601 "H2" "2bar" "H2-2bar" "H2" "MH23H2" "N2 - 2 bar"
+"91" "MN22" "MN2_32" "M. smithii" 22.5 0.0279724921165944 "N2" "2bar" "N2-2bar" "H2" "MN22H2" NA
+"92" "C3" "C33" "C. minuta" 84.75 11.9472229516242 "N2" "2bar" "N2-2bar" "H2" "C3H2" "N2 - 2 bar"
+"93" "MH2-atm" "MH2_3" "M. smithii" 140.5 25.1221948641736 "H2" "atm" "H2-atm" "H2" "MH2-atmH2" "N2 - atm"
+"94" "C3" "C23" "C. minuta" 84.75 10.1394297882497 "N2" "2bar" "N2-2bar" "H2" "C3H2" "N2 - 2 bar"
+"95" "MH23" "MH2_33" "M. smithii" 183.75 24.8092473750908 "H2" "2bar" "H2-2bar" "H2" "MH23H2" "N2 - 2 bar"
+"96" "MC3" "MC33" "M. smithii /
+C. minuta" 84.75 0.35448985455301 "N2" "2bar" "N2-2bar" "H2" "MC3H2" "N2 - 2 bar"
+"97" "MH2-atm" "MH2_3" "M. smithii" 88.75 36.2931506659764 "H2" "atm" "H2-atm" "H2" "MH2-atmH2" "N2 - atm"
+"98" "B3" "B33" "B. thetaiotaomicron" 84.75 1.34892494754637 "N2" "2bar" "N2-2bar" "H2" "B3H2" "N2 - 2 bar"
+"100" "MC-op" "MC2" "M. smithii /
+C. minuta" 12.5 114.81969963036 "H2" "2bar" "H2-2bar" "H2" "MC-opH2" "H2 - 2 bar"
+"101" "MB3" "MB23" "M. smithii /
+B. thetaiotaomicron" 183.75 0.0849650141876025 "N2" "2bar" "N2-2bar" "H2" "MB3H2" "N2 - 2 bar"
+"102" "C3" "C23" "C. minuta" 157 15.3154004805329 "N2" "2bar" "N2-2bar" "H2" "C3H2" "N2 - 2 bar"
+"103" "MB3" "MB23" "M. smithii /
+B. thetaiotaomicron" 84.75 0.0464374436287917 "N2" "2bar" "N2-2bar" "H2" "MB3H2" "N2 - 2 bar"
+"109" "MB3" "MB13" "M. smithii /
+B. thetaiotaomicron" 84.75 0.0462474893791161 "N2" "2bar" "N2-2bar" "H2" "MB3H2" "N2 - 2 bar"
+"110" "MH23" "MH2_33" "M. smithii" 60.5 74.2715105434893 "H2" "2bar" "H2-2bar" "H2" "MH23H2" "N2 - 2 bar"
+"111" "MH23" "MH2_23" "M. smithii" 60.5 72.4008155101376 "H2" "2bar" "H2-2bar" "H2" "MH23H2" "N2 - 2 bar"
+"112" "MB3" "MB33" "M. smithii /
+B. thetaiotaomicron" 183.75 0.0823879402897937 "N2" "2bar" "N2-2bar" "H2" "MB3H2" "N2 - 2 bar"
+"113" "C3" "C13" "C. minuta" 60.5 8.73571209774848 "N2" "2bar" "N2-2bar" "H2" "C3H2" "N2 - 2 bar"
+"114" "MC3" "MC23" "M. smithii /
+C. minuta" 60.5 0.561505075244562 "N2" "2bar" "N2-2bar" "H2" "MC3H2" "N2 - 2 bar"
+"115" "MC3" "MC13" "M. smithii /
+C. minuta" 60.5 0.838431332080667 "N2" "2bar" "N2-2bar" "H2" "MC3H2" "N2 - 2 bar"
+"116" "B3" "B13" "B. thetaiotaomicron" 60.5 1.29281562889531 "N2" "2bar" "N2-2bar" "H2" "B3H2" "N2 - 2 bar"
+"118" "C-atm" "C2" "C. minuta" 140.5 15.732816356931 "N2" "atm" "N2-atm" "H2" "C-atmH2" "N2 - atm"
+"119" "MB3" "MB33" "M. smithii /
+B. thetaiotaomicron" 60.5 0.0634195532864823 "N2" "2bar" "N2-2bar" "H2" "MB3H2" "N2 - 2 bar"
+"121" "MB3" "MB23" "M. smithii /
+B. thetaiotaomicron" 60.5 0.0549256105988448 "N2" "2bar" "N2-2bar" "H2" "MB3H2" "N2 - 2 bar"
+"124" "B3" "B33" "B. thetaiotaomicron" 183.75 1.02468953865976 "N2" "2bar" "N2-2bar" "H2" "B3H2" "N2 - 2 bar"
+"128" "MH23" "MH2_33" "M. smithii" 36.5 78.0651821158245 "H2" "2bar" "H2-2bar" "H2" "MH23H2" "N2 - 2 bar"
+"129" "MC-atm" "MC2" "M. smithii /
+C. minuta" 140.5 0.129798123139029 "N2" "atm" "N2-atm" "H2" "MC-atmH2" "N2 - atm"
+"130" "MH23" "MH2_23" "M. smithii" 36.5 70.4767729075001 "H2" "2bar" "H2-2bar" "H2" "MH23H2" "N2 - 2 bar"
+"131" "MH23" "MH2_13" "M. smithii" 36.5 102.873618541311 "H2" "2bar" "H2-2bar" "H2" "MH23H2" "N2 - 2 bar"
+"132" "C3" "C13" "C. minuta" 84.75 9.6079241029641 "N2" "2bar" "N2-2bar" "H2" "C3H2" "N2 - 2 bar"
+"133" "C3" "C33" "C. minuta" 36.5 6.79018638775468 "N2" "2bar" "N2-2bar" "H2" "C3H2" "N2 - 2 bar"
+"134" "C3" "C23" "C. minuta" 36.5 7.87461312568256 "N2" "2bar" "N2-2bar" "H2" "C3H2" "N2 - 2 bar"
+"135" "MC-atm" "MC1" "M. smithii /
+C. minuta" 88.75 0.15122884638451 "N2" "atm" "N2-atm" "H2" "MC-atmH2" "N2 - atm"
+"136" "C3" "C13" "C. minuta" 36.5 5.81935277801816 "N2" "2bar" "N2-2bar" "H2" "C3H2" "N2 - 2 bar"
+"137" "MC3" "MC23" "M. smithii /
+C. minuta" 36.5 1.18128865304833 "N2" "2bar" "N2-2bar" "H2" "MC3H2" "N2 - 2 bar"
+"138" "B3" "B33" "B. thetaiotaomicron" 36.5 0.39588070320301 "N2" "2bar" "N2-2bar" "H2" "B3H2" "N2 - 2 bar"
+"139" "B3" "B23" "B. thetaiotaomicron" 36.5 0.473064843021846 "N2" "2bar" "N2-2bar" "H2" "B3H2" "N2 - 2 bar"
+"140" "B3" "B13" "B. thetaiotaomicron" 36.5 0.3018814164586 "N2" "2bar" "N2-2bar" "H2" "B3H2" "N2 - 2 bar"
+"141" "MB3" "MB33" "M. smithii /
+B. thetaiotaomicron" 36.5 0.0576132851239315 "N2" "2bar" "N2-2bar" "H2" "MB3H2" "N2 - 2 bar"
+"143" "MB3" "MB23" "M. smithii /
+B. thetaiotaomicron" 36.5 0.0413456094136879 "N2" "2bar" "N2-2bar" "H2" "MB3H2" "N2 - 2 bar"
+"144" "MB3" "MB13" "M. smithii /
+B. thetaiotaomicron" 36.5 0.0542137597527366 "N2" "2bar" "N2-2bar" "H2" "MB3H2" "N2 - 2 bar"
+"145" "B3" "B33" "B. thetaiotaomicron" 60.5 1.86637028728295 "N2" "2bar" "N2-2bar" "H2" "B3H2" "N2 - 2 bar"
+"146" "C-atm" "C3" "C. minuta" 166.5 16.4083559529949 "N2" "atm" "N2-atm" "H2" "C-atmH2" "N2 - atm"
+"147" "C3" "C33" "C. minuta" 157 12.3847636585834 "N2" "2bar" "N2-2bar" "H2" "C3H2" "N2 - 2 bar"
+"151" "C-atm" "C2" "C. minuta" 43.5 7.03307247793919 "N2" "atm" "N2-atm" "H2" "C-atmH2" "N2 - atm"
+"156" "MC-atm" "MC2" "M. smithii /
+C. minuta" 67.5 0.346500823294192 "N2" "atm" "N2-atm" "H2" "MC-atmH2" "N2 - atm"
+"157" "MH23" "MH2_23" "M. smithii" 12.5 90.6881178219096 "H2" "2bar" "H2-2bar" "H2" "MH23H2" "N2 - 2 bar"
+"158" "MH23" "MH2_13" "M. smithii" 12.5 91.376299908291 "H2" "2bar" "H2-2bar" "H2" "MH23H2" "N2 - 2 bar"
+"159" "C3" "C33" "C. minuta" 12.5 0.921105098794825 "N2" "2bar" "N2-2bar" "H2" "C3H2" "N2 - 2 bar"
+"160" "C3" "C23" "C. minuta" 12.5 0.770249240051443 "N2" "2bar" "N2-2bar" "H2" "C3H2" "N2 - 2 bar"
+"161" "C3" "C13" "C. minuta" 12.5 0.774866057793407 "N2" "2bar" "N2-2bar" "H2" "C3H2" "N2 - 2 bar"
+"162" "MN22" "MN2_32" "M. smithii" 119 0.0825772039049475 "N2" "2bar" "N2-2bar" "H2" "MN22H2" NA
+"163" "B3" "B23" "B. thetaiotaomicron" 84.75 2.12763791436011 "N2" "2bar" "N2-2bar" "H2" "B3H2" "N2 - 2 bar"
+"164" "MH2-atm" "MH2_3" "M. smithii" 116.5 33.0022446198945 "H2" "atm" "H2-atm" "H2" "MH2-atmH2" "N2 - atm"
+"165" "B3" "B13" "B. thetaiotaomicron" 113.75 1.82641385793564 "N2" "2bar" "N2-2bar" "H2" "B3H2" "N2 - 2 bar"
+"166" "MC3" "MC23" "M. smithii /
+C. minuta" 12.5 0.230859912286459 "N2" "2bar" "N2-2bar" "H2" "MC3H2" "N2 - 2 bar"
+"167" "B3" "B33" "B. thetaiotaomicron" 12.5 0.0560683625521524 "N2" "2bar" "N2-2bar" "H2" "B3H2" "N2 - 2 bar"
+"168" "MB3" "MB33" "M. smithii /
+B. thetaiotaomicron" 12.5 0.032317404686772 "N2" "2bar" "N2-2bar" "H2" "MB3H2" "N2 - 2 bar"
+"169" "MB3" "MB13" "M. smithii /
+B. thetaiotaomicron" 12.5 0.0326296501426829 "N2" "2bar" "N2-2bar" "H2" "MB3H2" "N2 - 2 bar"
+"171" "MC3" "MC33" "M. smithii /
+C. minuta" 60.5 0.449851680117402 "N2" "2bar" "N2-2bar" "H2" "MC3H2" "N2 - 2 bar"
+"174" "MC-op" "MC3" "M. smithii /
+C. minuta" 12.5 105.837101868386 "H2" "2bar" "H2-2bar" "H2" "MC-opH2" "H2 - 2 bar"
+"175" "C-op" "C1" "C. minuta" 12.5 113.780407694938 "H2" "2bar" "H2-2bar" "H2" "C-opH2" "H2 - 2 bar"
+"176" "C-op" "C2" "C. minuta" 12.5 79.2289408694648 "H2" "2bar" "H2-2bar" "H2" "C-opH2" "H2 - 2 bar"
+"178" "C-atm" "C3" "C. minuta" 116.5 16.948067174854 "N2" "atm" "N2-atm" "H2" "C-atmH2" "N2 - atm"
+"179" "MC-atm" "MC1" "M. smithii /
+C. minuta" 20.5 0.221000168023556 "N2" "atm" "N2-atm" "H2" "MC-atmH2" "N2 - atm"
+"181" "MC-op" "MC1" "M. smithii /
+C. minuta" 104.16 45.2581472329573 "H2" "2bar" "H2-2bar" "H2" "MC-opH2" "H2 - 2 bar"
+"184" "MC-op" "MC1" "M. smithii /
+C. minuta" 33 100.697521822656 "H2" "2bar" "H2-2bar" "H2" "MC-opH2" "H2 - 2 bar"
+"185" "MC-op" "MC3" "M. smithii /
+C. minuta" 33 88.5763540254578 "H2" "2bar" "H2-2bar" "H2" "MC-opH2" "H2 - 2 bar"
+"186" "C-op" "C1" "C. minuta" 33 109.892539455582 "H2" "2bar" "H2-2bar" "H2" "C-opH2" "H2 - 2 bar"
+"187" "C-op" "C2" "C. minuta" 33 76.8461996850301 "H2" "2bar" "H2-2bar" "H2" "C-opH2" "H2 - 2 bar"
+"188" "C-atm" "C1" "C. minuta" 43.5 7.78124065608499 "N2" "atm" "N2-atm" "H2" "C-atmH2" "N2 - atm"
+"190" "MC-op" "MC1" "M. smithii /
+C. minuta" 55 76.736438734073 "H2" "2bar" "H2-2bar" "H2" "MC-opH2" "H2 - 2 bar"
+"191" "MC-op" "MC2" "M. smithii /
+C. minuta" 55 84.8940766458781 "H2" "2bar" "H2-2bar" "H2" "MC-opH2" "H2 - 2 bar"
+"192" "MC-atm" "MC3" "M. smithii /
+C. minuta" 140.5 0.0690197712099851 "N2" "atm" "N2-atm" "H2" "MC-atmH2" "N2 - atm"
+"194" "C-op" "C2" "C. minuta" 55 70.2887298902395 "H2" "2bar" "H2-2bar" "H2" "C-opH2" "H2 - 2 bar"
+"198" "MH2-atm" "MH2_3" "M. smithii" 20.5 47.0088611234277 "H2" "atm" "H2-atm" "H2" "MH2-atmH2" "N2 - atm"
+"199" "C-op" "C2" "C. minuta" 104.16 54.287055679053 "H2" "2bar" "H2-2bar" "H2" "C-opH2" "H2 - 2 bar"
+"200" "MC-op" "MC2" "M. smithii /
+C. minuta" 104.16 60.3818061323367 "H2" "2bar" "H2-2bar" "H2" "MC-opH2" "H2 - 2 bar"
+"201" "MC-op" "MC3" "M. smithii /
+C. minuta" 104.16 40.2190147719937 "H2" "2bar" "H2-2bar" "H2" "MC-opH2" "H2 - 2 bar"
+"202" "C-op" "C1" "C. minuta" 104.16 83.823472922382 "H2" "2bar" "H2-2bar" "H2" "C-opH2" "H2 - 2 bar"
+"203" "C-op" "C3" "C. minuta" 104.16 84.9896285627835 "H2" "2bar" "H2-2bar" "H2" "C-opH2" "H2 - 2 bar"
+"207" "MC-op" "MC2" "M. smithii /
+C. minuta" 150 28.2237536476077 "H2" "2bar" "H2-2bar" "H2" "MC-opH2" "H2 - 2 bar"
+"208" "C-op" "C1" "C. minuta" 150 68.7031295699199 "H2" "2bar" "H2-2bar" "H2" "C-opH2" "H2 - 2 bar"
+"212" "C-atm" "C2" "C. minuta" 116.5 18.7753506628306 "N2" "atm" "N2-atm" "H2" "C-atmH2" "N2 - atm"
+"214" "MC3" "MC13" "M. smithii /
+C. minuta" 113.75 0.399829031493262 "N2" "2bar" "N2-2bar" "H2" "MC3H2" "N2 - 2 bar"
+"215" "B3" "B23" "B. thetaiotaomicron" 12.5 0.0559994652292295 "N2" "2bar" "N2-2bar" "H2" "B3H2" "N2 - 2 bar"
+"217" "MC3" "MC33" "M. smithii /
+C. minuta" 36.5 0.96601079118682 "N2" "2bar" "N2-2bar" "H2" "MC3H2" "N2 - 2 bar"
+"219" "MH2-atm" "MH2_1" "M. smithii" 116.5 24.9019785052756 "H2" "atm" "H2-atm" "H2" "MH2-atmH2" "N2 - atm"
+"222" "MH23" "MH2_13" "M. smithii" 60.5 65.0587773831499 "H2" "2bar" "H2-2bar" "H2" "MH23H2" "N2 - 2 bar"
+"224" "MH2-atm" "MH2_3" "M. smithii" 166.5 5.2996269490249 "H2" "atm" "H2-atm" "CH4" "MH2-atmCH4" "N2 - atm"
+"225" "C-atm" "C2" "C. minuta" 166.5 0 "N2" "atm" "N2-atm" "CH4" "C-atmCH4" "N2 - atm"
+"226" "C-atm" "C1" "C. minuta" 166.5 0 "N2" "atm" "N2-atm" "CH4" "C-atmCH4" "N2 - atm"
+"227" "MC-atm" "MC3" "M. smithii /
+C. minuta" 166.5 7.44737002781118 "N2" "atm" "N2-atm" "CH4" "MC-atmCH4" "N2 - atm"
+"228" "MH23" "MH2_23" "M. smithii" 84.75 74.1807757707424 "H2" "2bar" "H2-2bar" "H2" "MH23H2" "N2 - 2 bar"
+"229" "MC-atm" "MC1" "M. smithii /
+C. minuta" 166.5 6.24779197884993 "N2" "atm" "N2-atm" "CH4" "MC-atmCH4" "N2 - atm"
+"230" "MH2-atm" "MH2_3" "M. smithii" 140.5 4.42170138714083 "H2" "atm" "H2-atm" "CH4" "MH2-atmCH4" "N2 - atm"
+"231" "MH2-atm" "MH2_1" "M. smithii" 140.5 4.05186574615545 "H2" "atm" "H2-atm" "CH4" "MH2-atmCH4" "N2 - atm"
+"232" "C-atm" "C3" "C. minuta" 140.5 0 "N2" "atm" "N2-atm" "CH4" "C-atmCH4" "N2 - atm"
+"233" "C-atm" "C1" "C. minuta" 140.5 0 "N2" "atm" "N2-atm" "CH4" "C-atmCH4" "N2 - atm"
+"234" "MC-atm" "MC3" "M. smithii /
+C. minuta" 140.5 5.0587990198758 "N2" "atm" "N2-atm" "CH4" "MC-atmCH4" "N2 - atm"
+"236" "MC-atm" "MC1" "M. smithii /
+C. minuta" 140.5 5.09991994741272 "N2" "atm" "N2-atm" "CH4" "MC-atmCH4" "N2 - atm"
+"237" "MH2-atm" "MH2_1" "M. smithii" 116.5 3.85477325338774 "H2" "atm" "H2-atm" "CH4" "MH2-atmCH4" "N2 - atm"
+"238" "C-atm" "C1" "C. minuta" 116.5 0.00321322381111053 "N2" "atm" "N2-atm" "CH4" "C-atmCH4" "N2 - atm"
+"239" "MC-atm" "MC3" "M. smithii /
+C. minuta" 116.5 6.43684579483836 "N2" "atm" "N2-atm" "CH4" "MC-atmCH4" "N2 - atm"
+"240" "MC-atm" "MC1" "M. smithii /
+C. minuta" 116.5 5.04297545665102 "N2" "atm" "N2-atm" "CH4" "MC-atmCH4" "N2 - atm"
+"241" "MH2-atm" "MH2_2" "M. smithii" 88.75 3.20231106977064 "H2" "atm" "H2-atm" "CH4" "MH2-atmCH4" "N2 - atm"
+"242" "MH23" "MH2_23" "M. smithii" 183.75 37.7706001216466 "H2" "2bar" "H2-2bar" "H2" "MH23H2" "N2 - 2 bar"
+"243" "MH2-atm" "MH2_1" "M. smithii" 88.75 3.41095899701237 "H2" "atm" "H2-atm" "CH4" "MH2-atmCH4" "N2 - atm"
+"244" "C-atm" "C3" "C. minuta" 88.75 0 "N2" "atm" "N2-atm" "CH4" "C-atmCH4" "N2 - atm"
+"245" "C-atm" "C2" "C. minuta" 88.75 0 "N2" "atm" "N2-atm" "CH4" "C-atmCH4" "N2 - atm"
+"247" "MC3" "MC13" "M. smithii /
+C. minuta" 12.5 0.202556473766077 "N2" "2bar" "N2-2bar" "H2" "MC3H2" "N2 - 2 bar"
+"248" "C-atm" "C1" "C. minuta" 88.75 0 "N2" "atm" "N2-atm" "CH4" "C-atmCH4" "N2 - atm"
+"249" "MC-atm" "MC3" "M. smithii /
+C. minuta" 88.75 5.736892915394 "N2" "atm" "N2-atm" "CH4" "MC-atmCH4" "N2 - atm"
+"251" "MH2-atm" "MH2_2" "M. smithii" 67.5 2.54553309211675 "H2" "atm" "H2-atm" "CH4" "MH2-atmCH4" "N2 - atm"
+"252" "MH2-atm" "MH2_1" "M. smithii" 67.5 2.52527398609833 "H2" "atm" "H2-atm" "CH4" "MH2-atmCH4" "N2 - atm"
+"253" "C-atm" "C2" "C. minuta" 67.5 0 "N2" "atm" "N2-atm" "CH4" "C-atmCH4" "N2 - atm"
+"254" "C-atm" "C1" "C. minuta" 67.5 0 "N2" "atm" "N2-atm" "CH4" "C-atmCH4" "N2 - atm"
+"255" "C3" "C33" "C. minuta" 183.75 13.4571109888576 "N2" "2bar" "N2-2bar" "H2" "C3H2" "N2 - 2 bar"
+"256" "MC-atm" "MC3" "M. smithii /
+C. minuta" 67.5 4.35664157184023 "N2" "atm" "N2-atm" "CH4" "MC-atmCH4" "N2 - atm"
+"257" "MC-atm" "MC2" "M. smithii /
+C. minuta" 67.5 3.93558364057092 "N2" "atm" "N2-atm" "CH4" "MC-atmCH4" "N2 - atm"
+"258" "MC3" "MC23" "M. smithii /
+C. minuta" 183.75 0.0314413827132444 "N2" "2bar" "N2-2bar" "H2" "MC3H2" "N2 - 2 bar"
+"259" "MC3" "MC13" "M. smithii /
+C. minuta" 157 0.0312398517408836 "N2" "2bar" "N2-2bar" "H2" "MC3H2" "N2 - 2 bar"
+"260" "MC-atm" "MC1" "M. smithii /
+C. minuta" 67.5 4.90862262333748 "N2" "atm" "N2-atm" "CH4" "MC-atmCH4" "N2 - atm"
+"262" "MH2-atm" "MH2_3" "M. smithii" 43.5 1.53566565596115 "H2" "atm" "H2-atm" "CH4" "MH2-atmCH4" "N2 - atm"
+"263" "MH2-atm" "MH2_1" "M. smithii" 43.5 1.4997823422409 "H2" "atm" "H2-atm" "CH4" "MH2-atmCH4" "N2 - atm"
+"264" "MC-atm" "MC3" "M. smithii /
+C. minuta" 43.5 2.70023679293181 "N2" "atm" "N2-atm" "CH4" "MC-atmCH4" "N2 - atm"
+"266" "MC-op" "MC1" "M. smithii /
+C. minuta" 150 27.0395927796674 "H2" "2bar" "H2-2bar" "H2" "MC-opH2" "H2 - 2 bar"
+"267" "MC-atm" "MC1" "M. smithii /
+C. minuta" 43.5 2.91060256028662 "N2" "atm" "N2-atm" "CH4" "MC-atmCH4" "N2 - atm"
+"268" "MH2-atm" "MH2_2" "M. smithii" 20.5 0.534153866451973 "H2" "atm" "H2-atm" "CH4" "MH2-atmCH4" "N2 - atm"
+"269" "MH2-atm" "MH2_1" "M. smithii" 20.5 0.63287549018805 "H2" "atm" "H2-atm" "CH4" "MH2-atmCH4" "N2 - atm"
+"271" "C-atm" "C2" "C. minuta" 20.5 0 "N2" "atm" "N2-atm" "CH4" "C-atmCH4" "N2 - atm"
+"272" "C-atm" "C1" "C. minuta" 20.5 0 "N2" "atm" "N2-atm" "CH4" "C-atmCH4" "N2 - atm"
+"273" "MC-op" "MC3" "M. smithii /
+C. minuta" 55 51.5760506182157 "H2" "2bar" "H2-2bar" "H2" "MC-opH2" "H2 - 2 bar"
+"274" "MC-atm" "MC3" "M. smithii /
+C. minuta" 20.5 0.658878739880615 "N2" "atm" "N2-atm" "CH4" "MC-atmCH4" "N2 - atm"
+"275" "B3" "B23" "B. thetaiotaomicron" 183.75 0.895715221816711 "N2" "2bar" "N2-2bar" "H2" "B3H2" "N2 - 2 bar"
+"276" "MN22" "MN2_32" "M. smithii" 143 0.0622857077965943 "N2" "2bar" "N2-2bar" "CH4" "MN22CH4" NA
+"277" "MC-atm" "MC1" "M. smithii /
+C. minuta" 140.5 0.0868925728479055 "N2" "atm" "N2-atm" "H2" "MC-atmH2" "N2 - atm"
+"278" "MH23" "MH2_33" "M. smithii" 12.5 117.496849689435 "H2" "2bar" "H2-2bar" "H2" "MH23H2" "N2 - 2 bar"
+"279" "MN22" "MN2_12" "M. smithii" 143 0.0186026082500758 "N2" "2bar" "N2-2bar" "CH4" "MN22CH4" NA
+"280" "MN22" "MN2_32" "M. smithii" 119 0.0740176048130761 "N2" "2bar" "N2-2bar" "CH4" "MN22CH4" NA
+"281" "MC3" "MC23" "M. smithii /
+C. minuta" 84.75 0.444593780786809 "N2" "2bar" "N2-2bar" "H2" "MC3H2" "N2 - 2 bar"
+"282" "MN22" "MN2_22" "M. smithii" 119 0 "N2" "2bar" "N2-2bar" "CH4" "MN22CH4" NA
+"283" "MN22" "MN2_12" "M. smithii" 119 0.0162451348543289 "N2" "2bar" "N2-2bar" "CH4" "MN22CH4" NA
+"284" "MN22" "MN2_22" "M. smithii" 95 0.0436534246542492 "N2" "2bar" "N2-2bar" "CH4" "MN22CH4" NA
+"285" "MN22" "MN2_12" "M. smithii" 95 0.0249321877856417 "N2" "2bar" "N2-2bar" "CH4" "MN22CH4" NA
+"286" "MN22" "MN2_32" "M. smithii" 75 0.0661399178277916 "N2" "2bar" "N2-2bar" "CH4" "MN22CH4" NA
+"287" "MN22" "MN2_12" "M. smithii" 75 0 "N2" "2bar" "N2-2bar" "CH4" "MN22CH4" NA
+"288" "MN22" "MN2_32" "M. smithii" 51.75 0 "N2" "2bar" "N2-2bar" "CH4" "MN22CH4" NA
+"289" "MN22" "MN2_22" "M. smithii" 51.75 0 "N2" "2bar" "N2-2bar" "CH4" "MN22CH4" NA
+"290" "MN22" "MN2_32" "M. smithii" 22.5 0 "N2" "2bar" "N2-2bar" "CH4" "MN22CH4" NA
+"291" "MN22" "MN2_22" "M. smithii" 22.5 0 "N2" "2bar" "N2-2bar" "CH4" "MN22CH4" NA
+"292" "MN22" "MN2_12" "M. smithii" 22.5 0 "N2" "2bar" "N2-2bar" "CH4" "MN22CH4" NA
+"294" "MH23" "MH2_23" "M. smithii" 183.75 7.01889334118815 "H2" "2bar" "H2-2bar" "CH4" "MH23CH4" "N2 - 2 bar"
+"295" "MH23" "MH2_13" "M. smithii" 183.75 11.3272182709904 "H2" "2bar" "H2-2bar" "CH4" "MH23CH4" "N2 - 2 bar"
+"296" "C3" "C33" "C. minuta" 183.75 0 "N2" "2bar" "N2-2bar" "CH4" "C3CH4" "N2 - 2 bar"
+"297" "C3" "C23" "C. minuta" 183.75 0 "N2" "2bar" "N2-2bar" "CH4" "C3CH4" "N2 - 2 bar"
+"298" "C3" "C13" "C. minuta" 183.75 0 "N2" "2bar" "N2-2bar" "CH4" "C3CH4" "N2 - 2 bar"
+"299" "MC3" "MC23" "M. smithii /
+C. minuta" 183.75 4.4928639104806 "N2" "2bar" "N2-2bar" "CH4" "MC3CH4" "N2 - 2 bar"
+"300" "MH2-atm" "MH2_1" "M. smithii" 88.75 31.0125037989079 "H2" "atm" "H2-atm" "H2" "MH2-atmH2" "N2 - atm"
+"301" "MH23" "MH2_13" "M. smithii" 84.75 67.0656320001551 "H2" "2bar" "H2-2bar" "H2" "MH23H2" "N2 - 2 bar"
+"302" "B3" "B23" "B. thetaiotaomicron" 183.75 0 "N2" "2bar" "N2-2bar" "CH4" "B3CH4" "N2 - 2 bar"
+"304" "B3" "B13" "B. thetaiotaomicron" 183.75 0 "N2" "2bar" "N2-2bar" "CH4" "B3CH4" "N2 - 2 bar"
+"305" "MH23" "MH2_23" "M. smithii" 113.75 40.4533337399786 "H2" "2bar" "H2-2bar" "H2" "MH23H2" "N2 - 2 bar"
+"306" "MH2-atm" "MH2_1" "M. smithii" 166.5 5.41648122712474 "H2" "atm" "H2-atm" "CH4" "MH2-atmCH4" "N2 - atm"
+"307" "MB3" "MB33" "M. smithii /
+B. thetaiotaomicron" 183.75 1.29776614195041 "N2" "2bar" "N2-2bar" "CH4" "MB3CH4" "N2 - 2 bar"
+"308" "MB3" "MB13" "M. smithii /
+B. thetaiotaomicron" 183.75 1.24218397986364 "N2" "2bar" "N2-2bar" "CH4" "MB3CH4" "N2 - 2 bar"
+"311" "MB3" "MB23" "M. smithii /
+B. thetaiotaomicron" 113.75 0.0671739682639833 "N2" "2bar" "N2-2bar" "H2" "MB3H2" "N2 - 2 bar"
+"312" "MN22" "MN2_12" "M. smithii" 51.75 0 "N2" "2bar" "N2-2bar" "CH4" "MN22CH4" NA
+"315" "C-op" "C3" "C. minuta" 12.5 0 "H2" "2bar" "H2-2bar" "CH4" "C-opCH4" "H2 - 2 bar"
+"316" "MH23" "MH2_33" "M. smithii" 157 9.97023500851201 "H2" "2bar" "H2-2bar" "CH4" "MH23CH4" "N2 - 2 bar"
+"317" "MH2-atm" "MH2_1" "M. smithii" 140.5 24.0676895271007 "H2" "atm" "H2-atm" "H2" "MH2-atmH2" "N2 - atm"
+"318" "MH23" "MH2_23" "M. smithii" 157 7.99167581924986 "H2" "2bar" "H2-2bar" "CH4" "MH23CH4" "N2 - 2 bar"
+"320" "MH23" "MH2_13" "M. smithii" 157 9.17568447861987 "H2" "2bar" "H2-2bar" "CH4" "MH23CH4" "N2 - 2 bar"
+"321" "MB3" "MB23" "M. smithii /
+B. thetaiotaomicron" 12.5 0.0313806683190395 "N2" "2bar" "N2-2bar" "H2" "MB3H2" "N2 - 2 bar"
+"322" "C3" "C23" "C. minuta" 157 0 "N2" "2bar" "N2-2bar" "CH4" "C3CH4" "N2 - 2 bar"
+"324" "C3" "C13" "C. minuta" 157 0 "N2" "2bar" "N2-2bar" "CH4" "C3CH4" "N2 - 2 bar"
+"325" "MC3" "MC33" "M. smithii /
+C. minuta" 157 6.22341437169203 "N2" "2bar" "N2-2bar" "CH4" "MC3CH4" "N2 - 2 bar"
+"326" "MC3" "MC23" "M. smithii /
+C. minuta" 157 5.3237982648792 "N2" "2bar" "N2-2bar" "CH4" "MC3CH4" "N2 - 2 bar"
+"327" "B3" "B33" "B. thetaiotaomicron" 157 0 "N2" "2bar" "N2-2bar" "CH4" "B3CH4" "N2 - 2 bar"
+"328" "B3" "B23" "B. thetaiotaomicron" 157 0 "N2" "2bar" "N2-2bar" "CH4" "B3CH4" "N2 - 2 bar"
+"330" "B3" "B13" "B. thetaiotaomicron" 157 0 "N2" "2bar" "N2-2bar" "CH4" "B3CH4" "N2 - 2 bar"
+"331" "MB3" "MB33" "M. smithii /
+B. thetaiotaomicron" 157 1.10411659088703 "N2" "2bar" "N2-2bar" "CH4" "MB3CH4" "N2 - 2 bar"
+"332" "MB3" "MB13" "M. smithii /
+B. thetaiotaomicron" 157 1.05609486293173 "N2" "2bar" "N2-2bar" "CH4" "MB3CH4" "N2 - 2 bar"
+"337" "MC3" "MC13" "M. smithii /
+C. minuta" 36.5 2.33618776057731 "N2" "2bar" "N2-2bar" "H2" "MC3H2" "N2 - 2 bar"
+"340" "MB3" "MB33" "M. smithii /
+B. thetaiotaomicron" 84.75 0.055405116985835 "N2" "2bar" "N2-2bar" "H2" "MB3H2" "N2 - 2 bar"
+"341" "C-op" "C3" "C. minuta" 33 104.683860855356 "H2" "2bar" "H2-2bar" "H2" "C-opH2" "H2 - 2 bar"
+"343" "C-atm" "C3" "C. minuta" 67.5 0 "N2" "atm" "N2-atm" "CH4" "C-atmCH4" "N2 - atm"
+"344" "MH23" "MH2_33" "M. smithii" 113.75 4.61495314442268 "H2" "2bar" "H2-2bar" "CH4" "MH23CH4" "N2 - 2 bar"
+"345" "MH23" "MH2_23" "M. smithii" 113.75 1.97216737867909 "H2" "2bar" "H2-2bar" "CH4" "MH23CH4" "N2 - 2 bar"
+"347" "MH23" "MH2_13" "M. smithii" 113.75 5.66450189931165 "H2" "2bar" "H2-2bar" "CH4" "MH23CH4" "N2 - 2 bar"
+"348" "C3" "C33" "C. minuta" 113.75 0 "N2" "2bar" "N2-2bar" "CH4" "C3CH4" "N2 - 2 bar"
+"349" "C3" "C23" "C. minuta" 113.75 0 "N2" "2bar" "N2-2bar" "CH4" "C3CH4" "N2 - 2 bar"
+"350" "C-op" "C2" "C. minuta" 150 0 "H2" "2bar" "H2-2bar" "CH4" "C-opCH4" "H2 - 2 bar"
+"351" "MC3" "MC33" "M. smithii /
+C. minuta" 113.75 5.27626161003663 "N2" "2bar" "N2-2bar" "CH4" "MC3CH4" "N2 - 2 bar"
+"352" "MC3" "MC23" "M. smithii /
+C. minuta" 113.75 2.48999838493884 "N2" "2bar" "N2-2bar" "CH4" "MC3CH4" "N2 - 2 bar"
+"353" "MC3" "MC13" "M. smithii /
+C. minuta" 113.75 4.75101349670898 "N2" "2bar" "N2-2bar" "CH4" "MC3CH4" "N2 - 2 bar"
+"354" "B3" "B33" "B. thetaiotaomicron" 113.75 0 "N2" "2bar" "N2-2bar" "CH4" "B3CH4" "N2 - 2 bar"
+"355" "B3" "B23" "B. thetaiotaomicron" 113.75 0 "N2" "2bar" "N2-2bar" "CH4" "B3CH4" "N2 - 2 bar"
+"356" "MB3" "MB33" "M. smithii /
+B. thetaiotaomicron" 113.75 0.858473720633973 "N2" "2bar" "N2-2bar" "CH4" "MB3CH4" "N2 - 2 bar"
+"357" "MC-op" "MC2" "M. smithii /
+C. minuta" 33 96.8285085157417 "H2" "2bar" "H2-2bar" "H2" "MC-opH2" "H2 - 2 bar"
+"358" "MH2-atm" "MH2_2" "M. smithii" 166.5 5.46062590021667 "H2" "atm" "H2-atm" "CH4" "MH2-atmCH4" "N2 - atm"
+"359" "MB3" "MB23" "M. smithii /
+B. thetaiotaomicron" 113.75 0.515636917146914 "N2" "2bar" "N2-2bar" "CH4" "MB3CH4" "N2 - 2 bar"
+"360" "MB3" "MB13" "M. smithii /
+B. thetaiotaomicron" 113.75 0.828750360291408 "N2" "2bar" "N2-2bar" "CH4" "MB3CH4" "N2 - 2 bar"
+"361" "MB3" "MB13" "M. smithii /
+B. thetaiotaomicron" 60.5 0.0424144069671172 "N2" "2bar" "N2-2bar" "H2" "MB3H2" "N2 - 2 bar"
+"363" "MC-atm" "MC1" "M. smithii /
+C. minuta" 166.5 0.0835480801321888 "N2" "atm" "N2-atm" "H2" "MC-atmH2" "N2 - atm"
+"366" "MH23" "MH2_33" "M. smithii" 84.75 4.05370493644422 "H2" "2bar" "H2-2bar" "CH4" "MH23CH4" "N2 - 2 bar"
+"367" "MH23" "MH2_23" "M. smithii" 84.75 2.68056050695 "H2" "2bar" "H2-2bar" "CH4" "MH23CH4" "N2 - 2 bar"
+"368" "MH23" "MH2_13" "M. smithii" 84.75 3.95632400121493 "H2" "2bar" "H2-2bar" "CH4" "MH23CH4" "N2 - 2 bar"
+"369" "C3" "C33" "C. minuta" 84.75 0 "N2" "2bar" "N2-2bar" "CH4" "C3CH4" "N2 - 2 bar"
+"371" "C-atm" "C3" "C. minuta" 43.5 0 "N2" "atm" "N2-atm" "CH4" "C-atmCH4" "N2 - atm"
+"372" "MH23" "MH2_33" "M. smithii" 183.75 6.41094407615304 "H2" "2bar" "H2-2bar" "CH4" "MH23CH4" "N2 - 2 bar"
+"373" "C3" "C13" "C. minuta" 84.75 0 "N2" "2bar" "N2-2bar" "CH4" "C3CH4" "N2 - 2 bar"
+"374" "MC3" "MC23" "M. smithii /
+C. minuta" 84.75 3.05506948180823 "N2" "2bar" "N2-2bar" "CH4" "MC3CH4" "N2 - 2 bar"
+"375" "MC3" "MC13" "M. smithii /
+C. minuta" 157 5.87338273055813 "N2" "2bar" "N2-2bar" "CH4" "MC3CH4" "N2 - 2 bar"
+"376" "MC3" "MC13" "M. smithii /
+C. minuta" 84.75 4.6032347284506 "N2" "2bar" "N2-2bar" "CH4" "MC3CH4" "N2 - 2 bar"
+"377" "MH2-atm" "MH2_3" "M. smithii" 88.75 3.59748894745889 "H2" "atm" "H2-atm" "CH4" "MH2-atmCH4" "N2 - atm"
+"378" "B3" "B33" "B. thetaiotaomicron" 84.75 0 "N2" "2bar" "N2-2bar" "CH4" "B3CH4" "N2 - 2 bar"
+"379" "MC-op" "MC3" "M. smithii /
+C. minuta" 150 28.7284651916589 "H2" "2bar" "H2-2bar" "H2" "MC-opH2" "H2 - 2 bar"
+"380" "B3" "B23" "B. thetaiotaomicron" 84.75 0 "N2" "2bar" "N2-2bar" "CH4" "B3CH4" "N2 - 2 bar"
+"382" "MB3" "MB33" "M. smithii /
+B. thetaiotaomicron" 84.75 0.983399895718266 "N2" "2bar" "N2-2bar" "CH4" "MB3CH4" "N2 - 2 bar"
+"383" "MC-op" "MC2" "M. smithii /
+C. minuta" 12.5 0.271783346352301 "H2" "2bar" "H2-2bar" "CH4" "MC-opCH4" "H2 - 2 bar"
+"384" "MB3" "MB23" "M. smithii /
+B. thetaiotaomicron" 183.75 1.42286502472084 "N2" "2bar" "N2-2bar" "CH4" "MB3CH4" "N2 - 2 bar"
+"385" "C-atm" "C3" "C. minuta" 116.5 0 "N2" "atm" "N2-atm" "CH4" "C-atmCH4" "N2 - atm"
+"387" "MB3" "MB23" "M. smithii /
+B. thetaiotaomicron" 84.75 0.655056429446138 "N2" "2bar" "N2-2bar" "CH4" "MB3CH4" "N2 - 2 bar"
+"388" "MH2-atm" "MH2_2" "M. smithii" 43.5 1.68108889950652 "H2" "atm" "H2-atm" "CH4" "MH2-atmCH4" "N2 - atm"
+"389" "MB3" "MB13" "M. smithii /
+B. thetaiotaomicron" 84.75 0.841698573324693 "N2" "2bar" "N2-2bar" "CH4" "MB3CH4" "N2 - 2 bar"
+"390" "C-op" "C3" "C. minuta" 55 98.2360221109587 "H2" "2bar" "H2-2bar" "H2" "C-opH2" "H2 - 2 bar"
+"393" "B3" "B13" "B. thetaiotaomicron" 84.75 0 "N2" "2bar" "N2-2bar" "CH4" "B3CH4" "N2 - 2 bar"
+"396" "MH23" "MH2_33" "M. smithii" 60.5 2.38047948442785 "H2" "2bar" "H2-2bar" "CH4" "MH23CH4" "N2 - 2 bar"
+"397" "MN22" "MN2_22" "M. smithii" 75 0.00601357146255519 "N2" "2bar" "N2-2bar" "CH4" "MN22CH4" NA
+"398" "MH23" "MH2_23" "M. smithii" 60.5 1.49035816670675 "H2" "2bar" "H2-2bar" "CH4" "MH23CH4" "N2 - 2 bar"
+"399" "C3" "C33" "C. minuta" 157 0 "N2" "2bar" "N2-2bar" "CH4" "C3CH4" "N2 - 2 bar"
+"400" "MB3" "MB33" "M. smithii /
+B. thetaiotaomicron" 113.75 0.069132718164961 "N2" "2bar" "N2-2bar" "H2" "MB3H2" "N2 - 2 bar"
+"401" "MH23" "MH2_13" "M. smithii" 60.5 2.19560248201293 "H2" "2bar" "H2-2bar" "CH4" "MH23CH4" "N2 - 2 bar"
+"402" "MC-atm" "MC2" "M. smithii /
+C. minuta" 88.75 5.90394632535576 "N2" "atm" "N2-atm" "CH4" "MC-atmCH4" "N2 - atm"
+"403" "MN22" "MN2_22" "M. smithii" 143 0.0386186919928315 "N2" "2bar" "N2-2bar" "CH4" "MN22CH4" NA
+"405" "C3" "C33" "C. minuta" 60.5 0 "N2" "2bar" "N2-2bar" "CH4" "C3CH4" "N2 - 2 bar"
+"406" "MC3" "MC33" "M. smithii /
+C. minuta" 183.75 6.30714717140916 "N2" "2bar" "N2-2bar" "CH4" "MC3CH4" "N2 - 2 bar"
+"407" "C3" "C23" "C. minuta" 60.5 0 "N2" "2bar" "N2-2bar" "CH4" "C3CH4" "N2 - 2 bar"
+"408" "MC3" "MC23" "M. smithii /
+C. minuta" 60.5 1.89162861121207 "N2" "2bar" "N2-2bar" "CH4" "MC3CH4" "N2 - 2 bar"
+"410" "MC3" "MC13" "M. smithii /
+C. minuta" 60.5 1.70019614220845 "N2" "2bar" "N2-2bar" "CH4" "MC3CH4" "N2 - 2 bar"
+"411" "B3" "B33" "B. thetaiotaomicron" 60.5 0 "N2" "2bar" "N2-2bar" "CH4" "B3CH4" "N2 - 2 bar"
+"412" "MC3" "MC13" "M. smithii /
+C. minuta" 84.75 0.984297340975341 "N2" "2bar" "N2-2bar" "H2" "MC3H2" "N2 - 2 bar"
+"413" "B3" "B23" "B. thetaiotaomicron" 60.5 0 "N2" "2bar" "N2-2bar" "CH4" "B3CH4" "N2 - 2 bar"
+"414" "B3" "B13" "B. thetaiotaomicron" 60.5 0 "N2" "2bar" "N2-2bar" "CH4" "B3CH4" "N2 - 2 bar"
+"415" "C-atm" "C2" "C. minuta" 140.5 0 "N2" "atm" "N2-atm" "CH4" "C-atmCH4" "N2 - atm"
+"416" "MB3" "MB33" "M. smithii /
+B. thetaiotaomicron" 157 0.0310408717934895 "N2" "2bar" "N2-2bar" "H2" "MB3H2" "N2 - 2 bar"
+"417" "MB3" "MB33" "M. smithii /
+B. thetaiotaomicron" 60.5 0.669862314680406 "N2" "2bar" "N2-2bar" "CH4" "MB3CH4" "N2 - 2 bar"
+"418" "MB3" "MB23" "M. smithii /
+B. thetaiotaomicron" 60.5 0.601083140121461 "N2" "2bar" "N2-2bar" "CH4" "MB3CH4" "N2 - 2 bar"
+"420" "MB3" "MB13" "M. smithii /
+B. thetaiotaomicron" 60.5 0.342199951709179 "N2" "2bar" "N2-2bar" "CH4" "MB3CH4" "N2 - 2 bar"
+"422" "MC3" "MC33" "M. smithii /
+C. minuta" 84.75 4.3346567166241 "N2" "2bar" "N2-2bar" "CH4" "MC3CH4" "N2 - 2 bar"
+"427" "MC-atm" "MC3" "M. smithii /
+C. minuta" 166.5 0.0726471049436878 "N2" "atm" "N2-atm" "H2" "MC-atmH2" "N2 - atm"
+"428" "MC3" "MC13" "M. smithii /
+C. minuta" 183.75 5.83987401500981 "N2" "2bar" "N2-2bar" "CH4" "MC3CH4" "N2 - 2 bar"
+"429" "MH23" "MH2_33" "M. smithii" 36.5 0.9463832787832 "H2" "2bar" "H2-2bar" "CH4" "MH23CH4" "N2 - 2 bar"
+"430" "MC-atm" "MC2" "M. smithii /
+C. minuta" 140.5 3.68962347611884 "N2" "atm" "N2-atm" "CH4" "MC-atmCH4" "N2 - atm"
+"431" "MC-atm" "MC2" "M. smithii /
+C. minuta" 166.5 6.01903480495541 "N2" "atm" "N2-atm" "CH4" "MC-atmCH4" "N2 - atm"
+"432" "MH23" "MH2_23" "M. smithii" 36.5 0.804111113571017 "H2" "2bar" "H2-2bar" "CH4" "MH23CH4" "N2 - 2 bar"
+"433" "MH23" "MH2_13" "M. smithii" 36.5 2.15276903425506 "H2" "2bar" "H2-2bar" "CH4" "MH23CH4" "N2 - 2 bar"
+"435" "C3" "C33" "C. minuta" 36.5 0 "N2" "2bar" "N2-2bar" "CH4" "C3CH4" "N2 - 2 bar"
+"436" "C3" "C23" "C. minuta" 36.5 0 "N2" "2bar" "N2-2bar" "CH4" "C3CH4" "N2 - 2 bar"
+"437" "MC-atm" "MC1" "M. smithii /
+C. minuta" 88.75 6.163572994406 "N2" "atm" "N2-atm" "CH4" "MC-atmCH4" "N2 - atm"
+"438" "B3" "B23" "B. thetaiotaomicron" 60.5 1.32643476717985 "N2" "2bar" "N2-2bar" "H2" "B3H2" "N2 - 2 bar"
+"439" "MB3" "MB23" "M. smithii /
+B. thetaiotaomicron" 157 1.10306384814209 "N2" "2bar" "N2-2bar" "CH4" "MB3CH4" "N2 - 2 bar"
+"440" "B3" "B33" "B. thetaiotaomicron" 183.75 0 "N2" "2bar" "N2-2bar" "CH4" "B3CH4" "N2 - 2 bar"
+"441" "C3" "C13" "C. minuta" 36.5 0 "N2" "2bar" "N2-2bar" "CH4" "C3CH4" "N2 - 2 bar"
+"442" "MC3" "MC33" "M. smithii /
+C. minuta" 36.5 0.905887000790013 "N2" "2bar" "N2-2bar" "CH4" "MC3CH4" "N2 - 2 bar"
+"443" "C3" "C23" "C. minuta" 84.75 0 "N2" "2bar" "N2-2bar" "CH4" "C3CH4" "N2 - 2 bar"
+"444" "MC3" "MC23" "M. smithii /
+C. minuta" 36.5 0.663008711646097 "N2" "2bar" "N2-2bar" "CH4" "MC3CH4" "N2 - 2 bar"
+"446" "MC3" "MC13" "M. smithii /
+C. minuta" 36.5 0.971432828640057 "N2" "2bar" "N2-2bar" "CH4" "MC3CH4" "N2 - 2 bar"
+"447" "C-atm" "C3" "C. minuta" 20.5 0 "N2" "atm" "N2-atm" "CH4" "C-atmCH4" "N2 - atm"
+"448" "B3" "B33" "B. thetaiotaomicron" 36.5 0 "N2" "2bar" "N2-2bar" "CH4" "B3CH4" "N2 - 2 bar"
+"449" "C-op" "C1" "C. minuta" 55 95.758940517281 "H2" "2bar" "H2-2bar" "H2" "C-opH2" "H2 - 2 bar"
+"450" "MC-atm" "MC2" "M. smithii /
+C. minuta" 116.5 6.15470808660463 "N2" "atm" "N2-atm" "CH4" "MC-atmCH4" "N2 - atm"
+"451" "C-op" "C3" "C. minuta" 33 0 "H2" "2bar" "H2-2bar" "CH4" "C-opCH4" "H2 - 2 bar"
+"452" "B3" "B23" "B. thetaiotaomicron" 36.5 0 "N2" "2bar" "N2-2bar" "CH4" "B3CH4" "N2 - 2 bar"
+"453" "C3" "C13" "C. minuta" 113.75 8.10513764396926 "N2" "2bar" "N2-2bar" "H2" "C3H2" "N2 - 2 bar"
+"454" "B3" "B13" "B. thetaiotaomicron" 36.5 0 "N2" "2bar" "N2-2bar" "CH4" "B3CH4" "N2 - 2 bar"
+"455" "MH2-atm" "MH2_2" "M. smithii" 116.5 34.3835555491367 "H2" "atm" "H2-atm" "H2" "MH2-atmH2" "N2 - atm"
+"456" "MB3" "MB33" "M. smithii /
+B. thetaiotaomicron" 36.5 0 "N2" "2bar" "N2-2bar" "CH4" "MB3CH4" "N2 - 2 bar"
+"457" "C-atm" "C1" "C. minuta" 116.5 18.6109031281154 "N2" "atm" "N2-atm" "H2" "C-atmH2" "N2 - atm"
+"459" "MN22" "MN2_12" "M. smithii" 95 0.147131277154738 "N2" "2bar" "N2-2bar" "H2" "MN22H2" NA
+"460" "MB3" "MB23" "M. smithii /
+B. thetaiotaomicron" 36.5 0 "N2" "2bar" "N2-2bar" "CH4" "MB3CH4" "N2 - 2 bar"
+"461" "MB3" "MB13" "M. smithii /
+B. thetaiotaomicron" 36.5 0 "N2" "2bar" "N2-2bar" "CH4" "MB3CH4" "N2 - 2 bar"
+"462" "C-atm" "C3" "C. minuta" 166.5 0 "N2" "atm" "N2-atm" "CH4" "C-atmCH4" "N2 - atm"
+"473" "C-op" "C3" "C. minuta" 150 78.1334309550866 "H2" "2bar" "H2-2bar" "H2" "C-opH2" "H2 - 2 bar"
+"474" "MH23" "MH2_33" "M. smithii" 12.5 0.0298680932384296 "H2" "2bar" "H2-2bar" "CH4" "MH23CH4" "N2 - 2 bar"
+"476" "MH23" "MH2_23" "M. smithii" 12.5 0 "H2" "2bar" "H2-2bar" "CH4" "MH23CH4" "N2 - 2 bar"
+"477" "C3" "C23" "C. minuta" 60.5 6.67483311540946 "N2" "2bar" "N2-2bar" "H2" "C3H2" "N2 - 2 bar"
+"478" "C-atm" "C3" "C. minuta" 20.5 3.67040388546304 "N2" "atm" "N2-atm" "H2" "C-atmH2" "N2 - atm"
+"479" "MH23" "MH2_13" "M. smithii" 12.5 0.0212472140463981 "H2" "2bar" "H2-2bar" "CH4" "MH23CH4" "N2 - 2 bar"
+"480" "C3" "C33" "C. minuta" 12.5 0 "N2" "2bar" "N2-2bar" "CH4" "C3CH4" "N2 - 2 bar"
+"481" "C3" "C23" "C. minuta" 12.5 0 "N2" "2bar" "N2-2bar" "CH4" "C3CH4" "N2 - 2 bar"
+"482" "C3" "C13" "C. minuta" 12.5 0 "N2" "2bar" "N2-2bar" "CH4" "C3CH4" "N2 - 2 bar"
+"483" "MH2-atm" "MH2_3" "M. smithii" 67.5 2.33259324061543 "H2" "atm" "H2-atm" "CH4" "MH2-atmCH4" "N2 - atm"
+"484" "MN22" "MN2_32" "M. smithii" 95 0.0877751463080542 "N2" "2bar" "N2-2bar" "CH4" "MN22CH4" NA
+"485" "MH2-atm" "MH2_3" "M. smithii" 116.5 4.25635740287247 "H2" "atm" "H2-atm" "CH4" "MH2-atmCH4" "N2 - atm"
+"487" "MC3" "MC33" "M. smithii /
+C. minuta" 12.5 0 "N2" "2bar" "N2-2bar" "CH4" "MC3CH4" "N2 - 2 bar"
+"488" "B3" "B13" "B. thetaiotaomicron" 113.75 0 "N2" "2bar" "N2-2bar" "CH4" "B3CH4" "N2 - 2 bar"
+"489" "MC3" "MC23" "M. smithii /
+C. minuta" 12.5 0 "N2" "2bar" "N2-2bar" "CH4" "MC3CH4" "N2 - 2 bar"
+"491" "MC3" "MC13" "M. smithii /
+C. minuta" 12.5 0 "N2" "2bar" "N2-2bar" "CH4" "MC3CH4" "N2 - 2 bar"
+"492" "B3" "B33" "B. thetaiotaomicron" 12.5 0 "N2" "2bar" "N2-2bar" "CH4" "B3CH4" "N2 - 2 bar"
+"493" "MB3" "MB13" "M. smithii /
+B. thetaiotaomicron" 113.75 0.146394497103704 "N2" "2bar" "N2-2bar" "H2" "MB3H2" "N2 - 2 bar"
+"494" "C-op" "C2" "C. minuta" 104.16 0 "H2" "2bar" "H2-2bar" "CH4" "C-opCH4" "H2 - 2 bar"
+"496" "C3" "C13" "C. minuta" 113.75 0 "N2" "2bar" "N2-2bar" "CH4" "C3CH4" "N2 - 2 bar"
+"497" "B3" "B23" "B. thetaiotaomicron" 12.5 0 "N2" "2bar" "N2-2bar" "CH4" "B3CH4" "N2 - 2 bar"
+"498" "B3" "B13" "B. thetaiotaomicron" 12.5 0 "N2" "2bar" "N2-2bar" "CH4" "B3CH4" "N2 - 2 bar"
+"499" "MB3" "MB33" "M. smithii /
+B. thetaiotaomicron" 12.5 0 "N2" "2bar" "N2-2bar" "CH4" "MB3CH4" "N2 - 2 bar"
+"500" "MB3" "MB23" "M. smithii /
+B. thetaiotaomicron" 12.5 0 "N2" "2bar" "N2-2bar" "CH4" "MB3CH4" "N2 - 2 bar"
+"501" "MB3" "MB13" "M. smithii /
+B. thetaiotaomicron" 12.5 0 "N2" "2bar" "N2-2bar" "CH4" "MB3CH4" "N2 - 2 bar"
+"504" "MC3" "MC33" "M. smithii /
+C. minuta" 60.5 2.31168774021638 "N2" "2bar" "N2-2bar" "CH4" "MC3CH4" "N2 - 2 bar"
+"507" "MC-op" "MC1" "M. smithii /
+C. minuta" 12.5 0.0170725649160925 "H2" "2bar" "H2-2bar" "CH4" "MC-opCH4" "H2 - 2 bar"
+"508" "MC-atm" "MC2" "M. smithii /
+C. minuta" 43.5 0.0986426936158941 "N2" "atm" "N2-atm" "H2" "MC-atmH2" "N2 - atm"
+"509" "MC-op" "MC3" "M. smithii /
+C. minuta" 12.5 0.288598671843379 "H2" "2bar" "H2-2bar" "CH4" "MC-opCH4" "H2 - 2 bar"
+"510" "C-op" "C1" "C. minuta" 12.5 0 "H2" "2bar" "H2-2bar" "CH4" "C-opCH4" "H2 - 2 bar"
+"511" "B3" "B13" "B. thetaiotaomicron" 84.75 1.82143292433975 "N2" "2bar" "N2-2bar" "H2" "B3H2" "N2 - 2 bar"
+"513" "C-op" "C2" "C. minuta" 12.5 0 "H2" "2bar" "H2-2bar" "CH4" "C-opCH4" "H2 - 2 bar"
+"515" "MH2-atm" "MH2_1" "M. smithii" 67.5 35.6568447668022 "H2" "atm" "H2-atm" "H2" "MH2-atmH2" "N2 - atm"
+"517" "MC-atm" "MC1" "M. smithii /
+C. minuta" 20.5 0.702094233500137 "N2" "atm" "N2-atm" "CH4" "MC-atmCH4" "N2 - atm"
+"519" "MH23" "MH2_23" "M. smithii" 157 57.0450252608069 "H2" "2bar" "H2-2bar" "H2" "MH23H2" "N2 - 2 bar"
+"520" "MC3" "MC33" "M. smithii /
+C. minuta" 12.5 0.187982743879939 "N2" "2bar" "N2-2bar" "H2" "MC3H2" "N2 - 2 bar"
+"521" "MC-op" "MC1" "M. smithii /
+C. minuta" 12.5 110.424164796858 "H2" "2bar" "H2-2bar" "H2" "MC-opH2" "H2 - 2 bar"
+"524" "MC-op" "MC1" "M. smithii /
+C. minuta" 104.16 8.29286942520331 "H2" "2bar" "H2-2bar" "CH4" "MC-opCH4" "H2 - 2 bar"
+"525" "B3" "B13" "B. thetaiotaomicron" 12.5 0.0535185806822289 "N2" "2bar" "N2-2bar" "H2" "B3H2" "N2 - 2 bar"
+"526" "MC-atm" "MC2" "M. smithii /
+C. minuta" 43.5 2.09186837648451 "N2" "atm" "N2-atm" "CH4" "MC-atmCH4" "N2 - atm"
+"528" "C3" "C13" "C. minuta" 60.5 0 "N2" "2bar" "N2-2bar" "CH4" "C3CH4" "N2 - 2 bar"
+"531" "MC-op" "MC1" "M. smithii /
+C. minuta" 33 1.35742416957064 "H2" "2bar" "H2-2bar" "CH4" "MC-opCH4" "H2 - 2 bar"
+"532" "MC-op" "MC2" "M. smithii /
+C. minuta" 33 2.20893474033664 "H2" "2bar" "H2-2bar" "CH4" "MC-opCH4" "H2 - 2 bar"
+"533" "MC-op" "MC3" "M. smithii /
+C. minuta" 33 2.18704378898269 "H2" "2bar" "H2-2bar" "CH4" "MC-opCH4" "H2 - 2 bar"
+"534" "C-op" "C1" "C. minuta" 33 0 "H2" "2bar" "H2-2bar" "CH4" "C-opCH4" "H2 - 2 bar"
+"535" "C-op" "C2" "C. minuta" 33 0 "H2" "2bar" "H2-2bar" "CH4" "C-opCH4" "H2 - 2 bar"
+"537" "C-atm" "C1" "C. minuta" 43.5 0 "N2" "atm" "N2-atm" "CH4" "C-atmCH4" "N2 - atm"
+"539" "MC-op" "MC1" "M. smithii /
+C. minuta" 55 2.8674737700706 "H2" "2bar" "H2-2bar" "CH4" "MC-opCH4" "H2 - 2 bar"
+"540" "MC-op" "MC2" "M. smithii /
+C. minuta" 55 5.01836499484775 "H2" "2bar" "H2-2bar" "CH4" "MC-opCH4" "H2 - 2 bar"
+"541" "MH2-atm" "MH2_2" "M. smithii" 116.5 4.71455776395031 "H2" "atm" "H2-atm" "CH4" "MH2-atmCH4" "N2 - atm"
+"542" "C-atm" "C2" "C. minuta" 43.5 0 "N2" "atm" "N2-atm" "CH4" "C-atmCH4" "N2 - atm"
+"543" "MC-op" "MC3" "M. smithii /
+C. minuta" 55 2.90884478016165 "H2" "2bar" "H2-2bar" "CH4" "MC-opCH4" "H2 - 2 bar"
+"544" "C-op" "C1" "C. minuta" 55 0 "H2" "2bar" "H2-2bar" "CH4" "C-opCH4" "H2 - 2 bar"
+"545" "C-op" "C2" "C. minuta" 55 0 "H2" "2bar" "H2-2bar" "CH4" "C-opCH4" "H2 - 2 bar"
+"546" "C-op" "C3" "C. minuta" 55 0 "H2" "2bar" "H2-2bar" "CH4" "C-opCH4" "H2 - 2 bar"
+"549" "MH2-atm" "MH2_1" "M. smithii" 166.5 23.341928563057 "H2" "atm" "H2-atm" "H2" "MH2-atmH2" "N2 - atm"
+"551" "MH2-atm" "MH2_3" "M. smithii" 20.5 0.529067473298072 "H2" "atm" "H2-atm" "CH4" "MH2-atmCH4" "N2 - atm"
+"552" "MC-op" "MC2" "M. smithii /
+C. minuta" 104.16 12.9806873563303 "H2" "2bar" "H2-2bar" "CH4" "MC-opCH4" "H2 - 2 bar"
+"553" "MC-op" "MC3" "M. smithii /
+C. minuta" 104.16 10.728891228892 "H2" "2bar" "H2-2bar" "CH4" "MC-opCH4" "H2 - 2 bar"
+"554" "MH23" "MH2_33" "M. smithii" 113.75 45.4891380872986 "H2" "2bar" "H2-2bar" "H2" "MH23H2" "N2 - 2 bar"
+"555" "MH2-atm" "MH2_2" "M. smithii" 140.5 4.27107536241041 "H2" "atm" "H2-atm" "CH4" "MH2-atmCH4" "N2 - atm"
+"556" "C-op" "C1" "C. minuta" 104.16 0 "H2" "2bar" "H2-2bar" "CH4" "C-opCH4" "H2 - 2 bar"
+"557" "MN22" "MN2_32" "M. smithii" 143 0.0685806143022534 "N2" "2bar" "N2-2bar" "H2" "MN22H2" NA
+"558" "C-op" "C3" "C. minuta" 104.16 0 "H2" "2bar" "H2-2bar" "CH4" "C-opCH4" "H2 - 2 bar"
+"562" "MC-op" "MC1" "M. smithii /
+C. minuta" 150 10.3815515109904 "H2" "2bar" "H2-2bar" "CH4" "MC-opCH4" "H2 - 2 bar"
+"563" "MC-op" "MC2" "M. smithii /
+C. minuta" 150 11.9592681714388 "H2" "2bar" "H2-2bar" "CH4" "MC-opCH4" "H2 - 2 bar"
+"564" "MC-op" "MC3" "M. smithii /
+C. minuta" 150 20.2920421399913 "H2" "2bar" "H2-2bar" "CH4" "MC-opCH4" "H2 - 2 bar"
+"565" "C-op" "C1" "C. minuta" 150 0 "H2" "2bar" "H2-2bar" "CH4" "C-opCH4" "H2 - 2 bar"
+"566" "C-op" "C3" "C. minuta" 150 0 "H2" "2bar" "H2-2bar" "CH4" "C-opCH4" "H2 - 2 bar"
+"567" "C-atm" "C2" "C. minuta" 116.5 0 "N2" "atm" "N2-atm" "CH4" "C-atmCH4" "N2 - atm"
+"576" "C3" "C33" "C. minuta" 60.5 7.98529441530827 "N2" "2bar" "N2-2bar" "H2" "C3H2" "N2 - 2 bar"

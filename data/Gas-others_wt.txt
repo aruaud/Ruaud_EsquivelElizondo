@@ -1,0 +1,175 @@
+"Sample" "Name" "Concentration" "Time" "Conc_corrected" "microbe" "headspace" "pressure" "condition" "id" "pair" "moco"
+"1" "nullN2" "Acetate" 6.5 0 0 "None" "N2" "atm" "N2-atm" "nullN2Acetate" NA "mono"
+"2" "nullN2" "Acetate" 6.6 44.5 0 "None" "N2" "atm" "N2-atm" "nullN2Acetate" NA "mono"
+"3" "C" "Acetate" 12 44.5 5.4 "C. minuta" "N2" "atm" "N2-atm" "CAcetate" NA "mono"
+"4" "C" "Acetate" 12.4 44.5 5.8 "C. minuta" "N2" "atm" "N2-atm" "CAcetate" NA "mono"
+"5" "C" "Acetate" 11.6 44.5 5 "C. minuta" "N2" "atm" "N2-atm" "CAcetate" NA "mono"
+"6" "CtM" "Acetate" 6.8 44.5 0.2 "M. smithii /
+C. timonensis" "N2" "atm" "N2-atm" "CtMAcetate" "C. timonensis" "co"
+"7" "CtM" "Acetate" 7.2 44.5 0.600000000000001 "M. smithii /
+C. timonensis" "N2" "atm" "N2-atm" "CtMAcetate" "C. timonensis" "co"
+"8" "CtM" "Acetate" 6.5 44.5 0 "M. smithii /
+C. timonensis" "N2" "atm" "N2-atm" "CtMAcetate" "C. timonensis" "co"
+"9" "CmaM" "Acetate" 9 44.5 2.4 "M. smithii /
+C. massiliensis" "N2" "atm" "N2-atm" "CmaMAcetate" "C. massiliensis" "co"
+"10" "CmaM" "Acetate" 9.9 44.5 3.3 "M. smithii /
+C. massiliensis" "N2" "atm" "N2-atm" "CmaMAcetate" "C. massiliensis" "co"
+"11" "Ct" "Acetate" 6.2 44.5 0 "C. timonensis" "N2" "atm" "N2-atm" "CtAcetate" "C. timonensis" "mono"
+"12" "Ct" "Acetate" 6.3 44.5 0 "C. timonensis" "N2" "atm" "N2-atm" "CtAcetate" "C. timonensis" "mono"
+"13" "Ct" "Acetate" 7.1 44.5 0.5 "C. timonensis" "N2" "atm" "N2-atm" "CtAcetate" "C. timonensis" "mono"
+"14" "Cma" "Acetate" 10.7 44.5 4.1 "C. massiliensis" "N2" "atm" "N2-atm" "CmaAcetate" "C. massiliensis" "mono"
+"15" "Cma" "Acetate" 9.6 44.5 3 "C. massiliensis" "N2" "atm" "N2-atm" "CmaAcetate" "C. massiliensis" "mono"
+"16" "M" "Acetate" 6.5 44.5 0 "M. smithii" "N2" "atm" "N2-atm" "MAcetate" NA "mono"
+"17" "M" "Acetate" 6.3 44.5 0 "M. smithii" "N2" "atm" "N2-atm" "MAcetate" NA "mono"
+"18" "M" "Acetate" 6.3 44.5 0 "M. smithii" "N2" "atm" "N2-atm" "MAcetate" NA "mono"
+"19" "nullN2" "Acetate" 6.6 91.5 0 "None" "N2" "atm" "N2-atm" "nullN2Acetate" NA "mono"
+"20" "C" "Acetate" 20.6 91.5 14 "C. minuta" "N2" "atm" "N2-atm" "CAcetate" NA "mono"
+"21" "C" "Acetate" 19.1 91.5 12.5 "C. minuta" "N2" "atm" "N2-atm" "CAcetate" NA "mono"
+"22" "C" "Acetate" 22.1 91.5 15.5 "C. minuta" "N2" "atm" "N2-atm" "CAcetate" NA "mono"
+"23" "CtM" "Acetate" 8 91.5 1.4 "M. smithii /
+C. timonensis" "N2" "atm" "N2-atm" "CtMAcetate" "C. timonensis" "co"
+"24" "CtM" "Acetate" 6.7 91.5 0.100000000000001 "M. smithii /
+C. timonensis" "N2" "atm" "N2-atm" "CtMAcetate" "C. timonensis" "co"
+"25" "CtM" "Acetate" 7.5 91.5 0.9 "M. smithii /
+C. timonensis" "N2" "atm" "N2-atm" "CtMAcetate" "C. timonensis" "co"
+"26" "CmaM" "Acetate" 12.4 91.5 5.8 "M. smithii /
+C. massiliensis" "N2" "atm" "N2-atm" "CmaMAcetate" "C. massiliensis" "co"
+"27" "CmaM" "Acetate" 11.7 91.5 5.1 "M. smithii /
+C. massiliensis" "N2" "atm" "N2-atm" "CmaMAcetate" "C. massiliensis" "co"
+"28" "Ct" "Acetate" 6.8 91.5 0.2 "C. timonensis" "N2" "atm" "N2-atm" "CtAcetate" "C. timonensis" "mono"
+"29" "Ct" "Acetate" 7.3 91.5 0.7 "C. timonensis" "N2" "atm" "N2-atm" "CtAcetate" "C. timonensis" "mono"
+"30" "Ct" "Acetate" 7.1 91.5 0.5 "C. timonensis" "N2" "atm" "N2-atm" "CtAcetate" "C. timonensis" "mono"
+"31" "Cma" "Acetate" 11.6 91.5 5 "C. massiliensis" "N2" "atm" "N2-atm" "CmaAcetate" "C. massiliensis" "mono"
+"32" "Cma" "Acetate" 11 91.5 4.4 "C. massiliensis" "N2" "atm" "N2-atm" "CmaAcetate" "C. massiliensis" "mono"
+"33" "Cma" "Acetate" 12.7 91.5 6.1 "C. massiliensis" "N2" "atm" "N2-atm" "CmaAcetate" "C. massiliensis" "mono"
+"34" "M" "Acetate" 6 91.5 0 "M. smithii" "N2" "atm" "N2-atm" "MAcetate" NA "mono"
+"35" "M" "Acetate" 6.1 91.5 0 "M. smithii" "N2" "atm" "N2-atm" "MAcetate" NA "mono"
+"36" "nullN2" "Acetate" 6.4 143 0 "None" "N2" "atm" "N2-atm" "nullN2Acetate" NA "mono"
+"37" "CtM" "Acetate" 11.2 143 4.8 "M. smithii /
+C. timonensis" "N2" "atm" "N2-atm" "CtMAcetate" "C. timonensis" "co"
+"38" "CtM" "Acetate" 10.6 143 4.2 "M. smithii /
+C. timonensis" "N2" "atm" "N2-atm" "CtMAcetate" "C. timonensis" "co"
+"39" "CtM" "Acetate" 10.4 143 4 "M. smithii /
+C. timonensis" "N2" "atm" "N2-atm" "CtMAcetate" "C. timonensis" "co"
+"40" "CmaM" "Acetate" 14.7 143 8.3 "M. smithii /
+C. massiliensis" "N2" "atm" "N2-atm" "CmaMAcetate" "C. massiliensis" "co"
+"41" "CmaM" "Acetate" 15.5 143 9.1 "M. smithii /
+C. massiliensis" "N2" "atm" "N2-atm" "CmaMAcetate" "C. massiliensis" "co"
+"42" "Ct" "Acetate" 11.5 143 5.1 "C. timonensis" "N2" "atm" "N2-atm" "CtAcetate" "C. timonensis" "mono"
+"43" "Ct" "Acetate" 11.5 143 5.1 "C. timonensis" "N2" "atm" "N2-atm" "CtAcetate" "C. timonensis" "mono"
+"44" "Ct" "Acetate" 10.2 143 3.8 "C. timonensis" "N2" "atm" "N2-atm" "CtAcetate" "C. timonensis" "mono"
+"45" "Cma" "Acetate" 14.6 143 8.2 "C. massiliensis" "N2" "atm" "N2-atm" "CmaAcetate" "C. massiliensis" "mono"
+"46" "Cma" "Acetate" 15 143 8.6 "C. massiliensis" "N2" "atm" "N2-atm" "CmaAcetate" "C. massiliensis" "mono"
+"47" "Cma" "Acetate" 13.8 143 7.4 "C. massiliensis" "N2" "atm" "N2-atm" "CmaAcetate" "C. massiliensis" "mono"
+"48" "M" "Acetate" 6.6 143 0.199999999999999 "M. smithii" "N2" "atm" "N2-atm" "MAcetate" NA "mono"
+"49" "M" "Acetate" 6.8 143 0.399999999999999 "M. smithii" "N2" "atm" "N2-atm" "MAcetate" NA "mono"
+"50" "M" "Acetate" 1.4 143 0 "M. smithii" "N2" "atm" "N2-atm" "MAcetate" NA "mono"
+"51" "nullN2" "Acetate" 6.5 164 0 "None" "N2" "atm" "N2-atm" "nullN2Acetate" NA "mono"
+"52" "C" "Acetate" 27.5 164 21 "C. minuta" "N2" "atm" "N2-atm" "CAcetate" NA "mono"
+"53" "C" "Acetate" 26.3 164 19.8 "C. minuta" "N2" "atm" "N2-atm" "CAcetate" NA "mono"
+"54" "C" "Acetate" 28.7 164 22.2 "C. minuta" "N2" "atm" "N2-atm" "CAcetate" NA "mono"
+"55" "CtM" "Acetate" 12.2 164 5.7 "M. smithii /
+C. timonensis" "N2" "atm" "N2-atm" "CtMAcetate" "C. timonensis" "co"
+"56" "CtM" "Acetate" 10.4 164 3.9 "M. smithii /
+C. timonensis" "N2" "atm" "N2-atm" "CtMAcetate" "C. timonensis" "co"
+"57" "CtM" "Acetate" 9.9 164 3.4 "M. smithii /
+C. timonensis" "N2" "atm" "N2-atm" "CtMAcetate" "C. timonensis" "co"
+"58" "CmaM" "Acetate" 16.8 164 10.3 "M. smithii /
+C. massiliensis" "N2" "atm" "N2-atm" "CmaMAcetate" "C. massiliensis" "co"
+"59" "CmaM" "Acetate" 15.7 164 9.2 "M. smithii /
+C. massiliensis" "N2" "atm" "N2-atm" "CmaMAcetate" "C. massiliensis" "co"
+"60" "Ct" "Acetate" 11.4 164 4.9 "C. timonensis" "N2" "atm" "N2-atm" "CtAcetate" "C. timonensis" "mono"
+"61" "Ct" "Acetate" 11.7 164 5.2 "C. timonensis" "N2" "atm" "N2-atm" "CtAcetate" "C. timonensis" "mono"
+"62" "Cma" "Acetate" 14.9 164 8.4 "C. massiliensis" "N2" "atm" "N2-atm" "CmaAcetate" "C. massiliensis" "mono"
+"63" "Cma" "Acetate" 14 164 7.5 "C. massiliensis" "N2" "atm" "N2-atm" "CmaAcetate" "C. massiliensis" "mono"
+"64" "Cma" "Acetate" 14.1 164 7.6 "C. massiliensis" "N2" "atm" "N2-atm" "CmaAcetate" "C. massiliensis" "mono"
+"65" "M" "Acetate" 7.4 164 0.9 "M. smithii" "N2" "atm" "N2-atm" "MAcetate" NA "mono"
+"66" "M" "Acetate" 7.5 164 1 "M. smithii" "N2" "atm" "N2-atm" "MAcetate" NA "mono"
+"67" "M" "Acetate" 7.5 164 1 "M. smithii" "N2" "atm" "N2-atm" "MAcetate" NA "mono"
+"92" "nullN2" "Butyrate" 0.7 0 0 "None" "N2" "atm" "N2-atm" "nullN2Butyrate" NA "mono"
+"93" "nullN2" "Butyrate" 0.6 44.5 0 "None" "N2" "atm" "N2-atm" "nullN2Butyrate" NA "mono"
+"94" "C" "Butyrate" 1.3 44.5 0.7 "C. minuta" "N2" "atm" "N2-atm" "CButyrate" NA "mono"
+"95" "C" "Butyrate" 1.2 44.5 0.6 "C. minuta" "N2" "atm" "N2-atm" "CButyrate" NA "mono"
+"96" "C" "Butyrate" 1.5 44.5 0.9 "C. minuta" "N2" "atm" "N2-atm" "CButyrate" NA "mono"
+"97" "CtM" "Butyrate" 0.7 44.5 0.1 "M. smithii /
+C. timonensis" "N2" "atm" "N2-atm" "CtMButyrate" "C. timonensis" "co"
+"98" "CtM" "Butyrate" 0.6 44.5 0 "M. smithii /
+C. timonensis" "N2" "atm" "N2-atm" "CtMButyrate" "C. timonensis" "co"
+"99" "CtM" "Butyrate" 0.7 44.5 0.1 "M. smithii /
+C. timonensis" "N2" "atm" "N2-atm" "CtMButyrate" "C. timonensis" "co"
+"100" "CmaM" "Butyrate" 0.8 44.5 0.2 "M. smithii /
+C. massiliensis" "N2" "atm" "N2-atm" "CmaMButyrate" "C. massiliensis" "co"
+"101" "CmaM" "Butyrate" 0.9 44.5 0.3 "M. smithii /
+C. massiliensis" "N2" "atm" "N2-atm" "CmaMButyrate" "C. massiliensis" "co"
+"102" "Ct" "Butyrate" 0.8 44.5 0.2 "C. timonensis" "N2" "atm" "N2-atm" "CtButyrate" "C. timonensis" "mono"
+"103" "Ct" "Butyrate" 0.6 44.5 0 "C. timonensis" "N2" "atm" "N2-atm" "CtButyrate" "C. timonensis" "mono"
+"104" "Ct" "Butyrate" 0.6 44.5 0 "C. timonensis" "N2" "atm" "N2-atm" "CtButyrate" "C. timonensis" "mono"
+"105" "Cma" "Butyrate" 1.4 44.5 0.8 "C. massiliensis" "N2" "atm" "N2-atm" "CmaButyrate" "C. massiliensis" "mono"
+"106" "Cma" "Butyrate" 1.4 44.5 0.8 "C. massiliensis" "N2" "atm" "N2-atm" "CmaButyrate" "C. massiliensis" "mono"
+"107" "M" "Butyrate" 0.8 44.5 0.2 "M. smithii" "N2" "atm" "N2-atm" "MButyrate" NA "mono"
+"108" "M" "Butyrate" 0.6 44.5 0 "M. smithii" "N2" "atm" "N2-atm" "MButyrate" NA "mono"
+"109" "M" "Butyrate" 0.87 44.5 0.27 "M. smithii" "N2" "atm" "N2-atm" "MButyrate" NA "mono"
+"110" "nullN2" "Butyrate" 0.6 91.5 0 "None" "N2" "atm" "N2-atm" "nullN2Butyrate" NA "mono"
+"111" "C" "Butyrate" 2.9 91.5 2.3 "C. minuta" "N2" "atm" "N2-atm" "CButyrate" NA "mono"
+"112" "C" "Butyrate" 2.5 91.5 1.9 "C. minuta" "N2" "atm" "N2-atm" "CButyrate" NA "mono"
+"113" "C" "Butyrate" 3.3 91.5 2.7 "C. minuta" "N2" "atm" "N2-atm" "CButyrate" NA "mono"
+"114" "CtM" "Butyrate" 0.6 91.5 0 "M. smithii /
+C. timonensis" "N2" "atm" "N2-atm" "CtMButyrate" "C. timonensis" "co"
+"115" "CtM" "Butyrate" 0.6 91.5 0 "M. smithii /
+C. timonensis" "N2" "atm" "N2-atm" "CtMButyrate" "C. timonensis" "co"
+"116" "CtM" "Butyrate" 0.8 91.5 0.2 "M. smithii /
+C. timonensis" "N2" "atm" "N2-atm" "CtMButyrate" "C. timonensis" "co"
+"117" "CmaM" "Butyrate" 0.8 91.5 0.2 "M. smithii /
+C. massiliensis" "N2" "atm" "N2-atm" "CmaMButyrate" "C. massiliensis" "co"
+"118" "CmaM" "Butyrate" 0.9 91.5 0.3 "M. smithii /
+C. massiliensis" "N2" "atm" "N2-atm" "CmaMButyrate" "C. massiliensis" "co"
+"119" "Ct" "Butyrate" 0.9 91.5 0.3 "C. timonensis" "N2" "atm" "N2-atm" "CtButyrate" "C. timonensis" "mono"
+"120" "Ct" "Butyrate" 1 91.5 0.4 "C. timonensis" "N2" "atm" "N2-atm" "CtButyrate" "C. timonensis" "mono"
+"121" "Ct" "Butyrate" 0.9 91.5 0.3 "C. timonensis" "N2" "atm" "N2-atm" "CtButyrate" "C. timonensis" "mono"
+"122" "Cma" "Butyrate" 1.7 91.5 1.1 "C. massiliensis" "N2" "atm" "N2-atm" "CmaButyrate" "C. massiliensis" "mono"
+"123" "Cma" "Butyrate" 2.2 91.5 1.6 "C. massiliensis" "N2" "atm" "N2-atm" "CmaButyrate" "C. massiliensis" "mono"
+"124" "Cma" "Butyrate" 1.3 91.5 0.7 "C. massiliensis" "N2" "atm" "N2-atm" "CmaButyrate" "C. massiliensis" "mono"
+"125" "M" "Butyrate" 0.9 91.5 0.3 "M. smithii" "N2" "atm" "N2-atm" "MButyrate" NA "mono"
+"126" "M" "Butyrate" 0.5 91.5 0 "M. smithii" "N2" "atm" "N2-atm" "MButyrate" NA "mono"
+"127" "nullN2" "Butyrate" 0.6 143 0 "None" "N2" "atm" "N2-atm" "nullN2Butyrate" NA "mono"
+"128" "CtM" "Butyrate" 0.7 143 0.1 "M. smithii /
+C. timonensis" "N2" "atm" "N2-atm" "CtMButyrate" "C. timonensis" "co"
+"129" "CtM" "Butyrate" 0.7 143 0.1 "M. smithii /
+C. timonensis" "N2" "atm" "N2-atm" "CtMButyrate" "C. timonensis" "co"
+"130" "CtM" "Butyrate" 0.6 143 0 "M. smithii /
+C. timonensis" "N2" "atm" "N2-atm" "CtMButyrate" "C. timonensis" "co"
+"131" "CmaM" "Butyrate" 0.9 143 0.3 "M. smithii /
+C. massiliensis" "N2" "atm" "N2-atm" "CmaMButyrate" "C. massiliensis" "co"
+"132" "CmaM" "Butyrate" 0.9 143 0.3 "M. smithii /
+C. massiliensis" "N2" "atm" "N2-atm" "CmaMButyrate" "C. massiliensis" "co"
+"133" "Ct" "Butyrate" 1.3 143 0.7 "C. timonensis" "N2" "atm" "N2-atm" "CtButyrate" "C. timonensis" "mono"
+"134" "Ct" "Butyrate" 1.7 143 1.1 "C. timonensis" "N2" "atm" "N2-atm" "CtButyrate" "C. timonensis" "mono"
+"135" "Ct" "Butyrate" 1.6 143 1 "C. timonensis" "N2" "atm" "N2-atm" "CtButyrate" "C. timonensis" "mono"
+"136" "Cma" "Butyrate" 1.7 143 1.1 "C. massiliensis" "N2" "atm" "N2-atm" "CmaButyrate" "C. massiliensis" "mono"
+"137" "Cma" "Butyrate" 1.7 143 1.1 "C. massiliensis" "N2" "atm" "N2-atm" "CmaButyrate" "C. massiliensis" "mono"
+"138" "Cma" "Butyrate" 1.9 143 1.3 "C. massiliensis" "N2" "atm" "N2-atm" "CmaButyrate" "C. massiliensis" "mono"
+"139" "M" "Butyrate" 0.6 143 0 "M. smithii" "N2" "atm" "N2-atm" "MButyrate" NA "mono"
+"140" "M" "Butyrate" 0.8 143 0.2 "M. smithii" "N2" "atm" "N2-atm" "MButyrate" NA "mono"
+"141" "M" "Butyrate" 0.5 143 0 "M. smithii" "N2" "atm" "N2-atm" "MButyrate" NA "mono"
+"142" "nullN2" "Butyrate" 0.7 164 0 "None" "N2" "atm" "N2-atm" "nullN2Butyrate" NA "mono"
+"143" "C" "Butyrate" 4.3 164 3.6 "C. minuta" "N2" "atm" "N2-atm" "CButyrate" NA "mono"
+"144" "C" "Butyrate" 4.2 164 3.5 "C. minuta" "N2" "atm" "N2-atm" "CButyrate" NA "mono"
+"145" "C" "Butyrate" 4.3 164 3.6 "C. minuta" "N2" "atm" "N2-atm" "CButyrate" NA "mono"
+"146" "CtM" "Butyrate" 0.7 164 0 "M. smithii /
+C. timonensis" "N2" "atm" "N2-atm" "CtMButyrate" "C. timonensis" "co"
+"147" "CtM" "Butyrate" 1 164 0.3 "M. smithii /
+C. timonensis" "N2" "atm" "N2-atm" "CtMButyrate" "C. timonensis" "co"
+"148" "CtM" "Butyrate" 0.8 164 0.1 "M. smithii /
+C. timonensis" "N2" "atm" "N2-atm" "CtMButyrate" "C. timonensis" "co"
+"149" "CmaM" "Butyrate" 0.8 164 0.1 "M. smithii /
+C. massiliensis" "N2" "atm" "N2-atm" "CmaMButyrate" "C. massiliensis" "co"
+"150" "CmaM" "Butyrate" 1 164 0.3 "M. smithii /
+C. massiliensis" "N2" "atm" "N2-atm" "CmaMButyrate" "C. massiliensis" "co"
+"151" "Ct" "Butyrate" 1.8 164 1.1 "C. timonensis" "N2" "atm" "N2-atm" "CtButyrate" "C. timonensis" "mono"
+"152" "Ct" "Butyrate" 1.8 164 1.1 "C. timonensis" "N2" "atm" "N2-atm" "CtButyrate" "C. timonensis" "mono"
+"153" "Cma" "Butyrate" 1.6 164 0.9 "C. massiliensis" "N2" "atm" "N2-atm" "CmaButyrate" "C. massiliensis" "mono"
+"154" "Cma" "Butyrate" 1.6 164 0.9 "C. massiliensis" "N2" "atm" "N2-atm" "CmaButyrate" "C. massiliensis" "mono"
+"155" "Cma" "Butyrate" 1.7 164 1 "C. massiliensis" "N2" "atm" "N2-atm" "CmaButyrate" "C. massiliensis" "mono"
+"156" "M" "Butyrate" 0.6 164 0 "M. smithii" "N2" "atm" "N2-atm" "MButyrate" NA "mono"
+"157" "M" "Butyrate" 0.6 164 0 "M. smithii" "N2" "atm" "N2-atm" "MButyrate" NA "mono"
+"158" "M" "Butyrate" 0.8 164 0.1 "M. smithii" "N2" "atm" "N2-atm" "MButyrate" NA "mono"
