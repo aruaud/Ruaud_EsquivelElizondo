@@ -1,175 +1,393 @@
-"Sample" "Name" "Concentration" "Time" "Conc_corrected" "microbe" "headspace" "pressure" "condition" "id" "pair" "moco"
-"1" "nullN2" "Acetate" 6.5 0 0 "None" "N2" "atm" "N2-atm" "nullN2Acetate" NA "mono"
-"2" "nullN2" "Acetate" 6.6 44.5 0 "None" "N2" "atm" "N2-atm" "nullN2Acetate" NA "mono"
-"3" "C" "Acetate" 12 44.5 5.4 "C. minuta" "N2" "atm" "N2-atm" "CAcetate" NA "mono"
-"4" "C" "Acetate" 12.4 44.5 5.8 "C. minuta" "N2" "atm" "N2-atm" "CAcetate" NA "mono"
-"5" "C" "Acetate" 11.6 44.5 5 "C. minuta" "N2" "atm" "N2-atm" "CAcetate" NA "mono"
-"6" "CtM" "Acetate" 6.8 44.5 0.2 "M. smithii /
-C. timonensis" "N2" "atm" "N2-atm" "CtMAcetate" "C. timonensis" "co"
-"7" "CtM" "Acetate" 7.2 44.5 0.600000000000001 "M. smithii /
-C. timonensis" "N2" "atm" "N2-atm" "CtMAcetate" "C. timonensis" "co"
-"8" "CtM" "Acetate" 6.5 44.5 0 "M. smithii /
-C. timonensis" "N2" "atm" "N2-atm" "CtMAcetate" "C. timonensis" "co"
-"9" "CmaM" "Acetate" 9 44.5 2.4 "M. smithii /
-C. massiliensis" "N2" "atm" "N2-atm" "CmaMAcetate" "C. massiliensis" "co"
-"10" "CmaM" "Acetate" 9.9 44.5 3.3 "M. smithii /
-C. massiliensis" "N2" "atm" "N2-atm" "CmaMAcetate" "C. massiliensis" "co"
-"11" "Ct" "Acetate" 6.2 44.5 0 "C. timonensis" "N2" "atm" "N2-atm" "CtAcetate" "C. timonensis" "mono"
-"12" "Ct" "Acetate" 6.3 44.5 0 "C. timonensis" "N2" "atm" "N2-atm" "CtAcetate" "C. timonensis" "mono"
-"13" "Ct" "Acetate" 7.1 44.5 0.5 "C. timonensis" "N2" "atm" "N2-atm" "CtAcetate" "C. timonensis" "mono"
-"14" "Cma" "Acetate" 10.7 44.5 4.1 "C. massiliensis" "N2" "atm" "N2-atm" "CmaAcetate" "C. massiliensis" "mono"
-"15" "Cma" "Acetate" 9.6 44.5 3 "C. massiliensis" "N2" "atm" "N2-atm" "CmaAcetate" "C. massiliensis" "mono"
-"16" "M" "Acetate" 6.5 44.5 0 "M. smithii" "N2" "atm" "N2-atm" "MAcetate" NA "mono"
-"17" "M" "Acetate" 6.3 44.5 0 "M. smithii" "N2" "atm" "N2-atm" "MAcetate" NA "mono"
-"18" "M" "Acetate" 6.3 44.5 0 "M. smithii" "N2" "atm" "N2-atm" "MAcetate" NA "mono"
-"19" "nullN2" "Acetate" 6.6 91.5 0 "None" "N2" "atm" "N2-atm" "nullN2Acetate" NA "mono"
-"20" "C" "Acetate" 20.6 91.5 14 "C. minuta" "N2" "atm" "N2-atm" "CAcetate" NA "mono"
-"21" "C" "Acetate" 19.1 91.5 12.5 "C. minuta" "N2" "atm" "N2-atm" "CAcetate" NA "mono"
-"22" "C" "Acetate" 22.1 91.5 15.5 "C. minuta" "N2" "atm" "N2-atm" "CAcetate" NA "mono"
-"23" "CtM" "Acetate" 8 91.5 1.4 "M. smithii /
-C. timonensis" "N2" "atm" "N2-atm" "CtMAcetate" "C. timonensis" "co"
-"24" "CtM" "Acetate" 6.7 91.5 0.100000000000001 "M. smithii /
-C. timonensis" "N2" "atm" "N2-atm" "CtMAcetate" "C. timonensis" "co"
-"25" "CtM" "Acetate" 7.5 91.5 0.9 "M. smithii /
-C. timonensis" "N2" "atm" "N2-atm" "CtMAcetate" "C. timonensis" "co"
-"26" "CmaM" "Acetate" 12.4 91.5 5.8 "M. smithii /
-C. massiliensis" "N2" "atm" "N2-atm" "CmaMAcetate" "C. massiliensis" "co"
-"27" "CmaM" "Acetate" 11.7 91.5 5.1 "M. smithii /
-C. massiliensis" "N2" "atm" "N2-atm" "CmaMAcetate" "C. massiliensis" "co"
-"28" "Ct" "Acetate" 6.8 91.5 0.2 "C. timonensis" "N2" "atm" "N2-atm" "CtAcetate" "C. timonensis" "mono"
-"29" "Ct" "Acetate" 7.3 91.5 0.7 "C. timonensis" "N2" "atm" "N2-atm" "CtAcetate" "C. timonensis" "mono"
-"30" "Ct" "Acetate" 7.1 91.5 0.5 "C. timonensis" "N2" "atm" "N2-atm" "CtAcetate" "C. timonensis" "mono"
-"31" "Cma" "Acetate" 11.6 91.5 5 "C. massiliensis" "N2" "atm" "N2-atm" "CmaAcetate" "C. massiliensis" "mono"
-"32" "Cma" "Acetate" 11 91.5 4.4 "C. massiliensis" "N2" "atm" "N2-atm" "CmaAcetate" "C. massiliensis" "mono"
-"33" "Cma" "Acetate" 12.7 91.5 6.1 "C. massiliensis" "N2" "atm" "N2-atm" "CmaAcetate" "C. massiliensis" "mono"
-"34" "M" "Acetate" 6 91.5 0 "M. smithii" "N2" "atm" "N2-atm" "MAcetate" NA "mono"
-"35" "M" "Acetate" 6.1 91.5 0 "M. smithii" "N2" "atm" "N2-atm" "MAcetate" NA "mono"
-"36" "nullN2" "Acetate" 6.4 143 0 "None" "N2" "atm" "N2-atm" "nullN2Acetate" NA "mono"
-"37" "CtM" "Acetate" 11.2 143 4.8 "M. smithii /
-C. timonensis" "N2" "atm" "N2-atm" "CtMAcetate" "C. timonensis" "co"
-"38" "CtM" "Acetate" 10.6 143 4.2 "M. smithii /
-C. timonensis" "N2" "atm" "N2-atm" "CtMAcetate" "C. timonensis" "co"
-"39" "CtM" "Acetate" 10.4 143 4 "M. smithii /
-C. timonensis" "N2" "atm" "N2-atm" "CtMAcetate" "C. timonensis" "co"
-"40" "CmaM" "Acetate" 14.7 143 8.3 "M. smithii /
-C. massiliensis" "N2" "atm" "N2-atm" "CmaMAcetate" "C. massiliensis" "co"
-"41" "CmaM" "Acetate" 15.5 143 9.1 "M. smithii /
-C. massiliensis" "N2" "atm" "N2-atm" "CmaMAcetate" "C. massiliensis" "co"
-"42" "Ct" "Acetate" 11.5 143 5.1 "C. timonensis" "N2" "atm" "N2-atm" "CtAcetate" "C. timonensis" "mono"
-"43" "Ct" "Acetate" 11.5 143 5.1 "C. timonensis" "N2" "atm" "N2-atm" "CtAcetate" "C. timonensis" "mono"
-"44" "Ct" "Acetate" 10.2 143 3.8 "C. timonensis" "N2" "atm" "N2-atm" "CtAcetate" "C. timonensis" "mono"
-"45" "Cma" "Acetate" 14.6 143 8.2 "C. massiliensis" "N2" "atm" "N2-atm" "CmaAcetate" "C. massiliensis" "mono"
-"46" "Cma" "Acetate" 15 143 8.6 "C. massiliensis" "N2" "atm" "N2-atm" "CmaAcetate" "C. massiliensis" "mono"
-"47" "Cma" "Acetate" 13.8 143 7.4 "C. massiliensis" "N2" "atm" "N2-atm" "CmaAcetate" "C. massiliensis" "mono"
-"48" "M" "Acetate" 6.6 143 0.199999999999999 "M. smithii" "N2" "atm" "N2-atm" "MAcetate" NA "mono"
-"49" "M" "Acetate" 6.8 143 0.399999999999999 "M. smithii" "N2" "atm" "N2-atm" "MAcetate" NA "mono"
-"50" "M" "Acetate" 1.4 143 0 "M. smithii" "N2" "atm" "N2-atm" "MAcetate" NA "mono"
-"51" "nullN2" "Acetate" 6.5 164 0 "None" "N2" "atm" "N2-atm" "nullN2Acetate" NA "mono"
-"52" "C" "Acetate" 27.5 164 21 "C. minuta" "N2" "atm" "N2-atm" "CAcetate" NA "mono"
-"53" "C" "Acetate" 26.3 164 19.8 "C. minuta" "N2" "atm" "N2-atm" "CAcetate" NA "mono"
-"54" "C" "Acetate" 28.7 164 22.2 "C. minuta" "N2" "atm" "N2-atm" "CAcetate" NA "mono"
-"55" "CtM" "Acetate" 12.2 164 5.7 "M. smithii /
-C. timonensis" "N2" "atm" "N2-atm" "CtMAcetate" "C. timonensis" "co"
-"56" "CtM" "Acetate" 10.4 164 3.9 "M. smithii /
-C. timonensis" "N2" "atm" "N2-atm" "CtMAcetate" "C. timonensis" "co"
-"57" "CtM" "Acetate" 9.9 164 3.4 "M. smithii /
-C. timonensis" "N2" "atm" "N2-atm" "CtMAcetate" "C. timonensis" "co"
-"58" "CmaM" "Acetate" 16.8 164 10.3 "M. smithii /
-C. massiliensis" "N2" "atm" "N2-atm" "CmaMAcetate" "C. massiliensis" "co"
-"59" "CmaM" "Acetate" 15.7 164 9.2 "M. smithii /
-C. massiliensis" "N2" "atm" "N2-atm" "CmaMAcetate" "C. massiliensis" "co"
-"60" "Ct" "Acetate" 11.4 164 4.9 "C. timonensis" "N2" "atm" "N2-atm" "CtAcetate" "C. timonensis" "mono"
-"61" "Ct" "Acetate" 11.7 164 5.2 "C. timonensis" "N2" "atm" "N2-atm" "CtAcetate" "C. timonensis" "mono"
-"62" "Cma" "Acetate" 14.9 164 8.4 "C. massiliensis" "N2" "atm" "N2-atm" "CmaAcetate" "C. massiliensis" "mono"
-"63" "Cma" "Acetate" 14 164 7.5 "C. massiliensis" "N2" "atm" "N2-atm" "CmaAcetate" "C. massiliensis" "mono"
-"64" "Cma" "Acetate" 14.1 164 7.6 "C. massiliensis" "N2" "atm" "N2-atm" "CmaAcetate" "C. massiliensis" "mono"
-"65" "M" "Acetate" 7.4 164 0.9 "M. smithii" "N2" "atm" "N2-atm" "MAcetate" NA "mono"
-"66" "M" "Acetate" 7.5 164 1 "M. smithii" "N2" "atm" "N2-atm" "MAcetate" NA "mono"
-"67" "M" "Acetate" 7.5 164 1 "M. smithii" "N2" "atm" "N2-atm" "MAcetate" NA "mono"
-"92" "nullN2" "Butyrate" 0.7 0 0 "None" "N2" "atm" "N2-atm" "nullN2Butyrate" NA "mono"
-"93" "nullN2" "Butyrate" 0.6 44.5 0 "None" "N2" "atm" "N2-atm" "nullN2Butyrate" NA "mono"
-"94" "C" "Butyrate" 1.3 44.5 0.7 "C. minuta" "N2" "atm" "N2-atm" "CButyrate" NA "mono"
-"95" "C" "Butyrate" 1.2 44.5 0.6 "C. minuta" "N2" "atm" "N2-atm" "CButyrate" NA "mono"
-"96" "C" "Butyrate" 1.5 44.5 0.9 "C. minuta" "N2" "atm" "N2-atm" "CButyrate" NA "mono"
-"97" "CtM" "Butyrate" 0.7 44.5 0.1 "M. smithii /
-C. timonensis" "N2" "atm" "N2-atm" "CtMButyrate" "C. timonensis" "co"
-"98" "CtM" "Butyrate" 0.6 44.5 0 "M. smithii /
-C. timonensis" "N2" "atm" "N2-atm" "CtMButyrate" "C. timonensis" "co"
-"99" "CtM" "Butyrate" 0.7 44.5 0.1 "M. smithii /
-C. timonensis" "N2" "atm" "N2-atm" "CtMButyrate" "C. timonensis" "co"
-"100" "CmaM" "Butyrate" 0.8 44.5 0.2 "M. smithii /
-C. massiliensis" "N2" "atm" "N2-atm" "CmaMButyrate" "C. massiliensis" "co"
-"101" "CmaM" "Butyrate" 0.9 44.5 0.3 "M. smithii /
-C. massiliensis" "N2" "atm" "N2-atm" "CmaMButyrate" "C. massiliensis" "co"
-"102" "Ct" "Butyrate" 0.8 44.5 0.2 "C. timonensis" "N2" "atm" "N2-atm" "CtButyrate" "C. timonensis" "mono"
-"103" "Ct" "Butyrate" 0.6 44.5 0 "C. timonensis" "N2" "atm" "N2-atm" "CtButyrate" "C. timonensis" "mono"
-"104" "Ct" "Butyrate" 0.6 44.5 0 "C. timonensis" "N2" "atm" "N2-atm" "CtButyrate" "C. timonensis" "mono"
-"105" "Cma" "Butyrate" 1.4 44.5 0.8 "C. massiliensis" "N2" "atm" "N2-atm" "CmaButyrate" "C. massiliensis" "mono"
-"106" "Cma" "Butyrate" 1.4 44.5 0.8 "C. massiliensis" "N2" "atm" "N2-atm" "CmaButyrate" "C. massiliensis" "mono"
-"107" "M" "Butyrate" 0.8 44.5 0.2 "M. smithii" "N2" "atm" "N2-atm" "MButyrate" NA "mono"
-"108" "M" "Butyrate" 0.6 44.5 0 "M. smithii" "N2" "atm" "N2-atm" "MButyrate" NA "mono"
-"109" "M" "Butyrate" 0.87 44.5 0.27 "M. smithii" "N2" "atm" "N2-atm" "MButyrate" NA "mono"
-"110" "nullN2" "Butyrate" 0.6 91.5 0 "None" "N2" "atm" "N2-atm" "nullN2Butyrate" NA "mono"
-"111" "C" "Butyrate" 2.9 91.5 2.3 "C. minuta" "N2" "atm" "N2-atm" "CButyrate" NA "mono"
-"112" "C" "Butyrate" 2.5 91.5 1.9 "C. minuta" "N2" "atm" "N2-atm" "CButyrate" NA "mono"
-"113" "C" "Butyrate" 3.3 91.5 2.7 "C. minuta" "N2" "atm" "N2-atm" "CButyrate" NA "mono"
-"114" "CtM" "Butyrate" 0.6 91.5 0 "M. smithii /
-C. timonensis" "N2" "atm" "N2-atm" "CtMButyrate" "C. timonensis" "co"
-"115" "CtM" "Butyrate" 0.6 91.5 0 "M. smithii /
-C. timonensis" "N2" "atm" "N2-atm" "CtMButyrate" "C. timonensis" "co"
-"116" "CtM" "Butyrate" 0.8 91.5 0.2 "M. smithii /
-C. timonensis" "N2" "atm" "N2-atm" "CtMButyrate" "C. timonensis" "co"
-"117" "CmaM" "Butyrate" 0.8 91.5 0.2 "M. smithii /
-C. massiliensis" "N2" "atm" "N2-atm" "CmaMButyrate" "C. massiliensis" "co"
-"118" "CmaM" "Butyrate" 0.9 91.5 0.3 "M. smithii /
-C. massiliensis" "N2" "atm" "N2-atm" "CmaMButyrate" "C. massiliensis" "co"
-"119" "Ct" "Butyrate" 0.9 91.5 0.3 "C. timonensis" "N2" "atm" "N2-atm" "CtButyrate" "C. timonensis" "mono"
-"120" "Ct" "Butyrate" 1 91.5 0.4 "C. timonensis" "N2" "atm" "N2-atm" "CtButyrate" "C. timonensis" "mono"
-"121" "Ct" "Butyrate" 0.9 91.5 0.3 "C. timonensis" "N2" "atm" "N2-atm" "CtButyrate" "C. timonensis" "mono"
-"122" "Cma" "Butyrate" 1.7 91.5 1.1 "C. massiliensis" "N2" "atm" "N2-atm" "CmaButyrate" "C. massiliensis" "mono"
-"123" "Cma" "Butyrate" 2.2 91.5 1.6 "C. massiliensis" "N2" "atm" "N2-atm" "CmaButyrate" "C. massiliensis" "mono"
-"124" "Cma" "Butyrate" 1.3 91.5 0.7 "C. massiliensis" "N2" "atm" "N2-atm" "CmaButyrate" "C. massiliensis" "mono"
-"125" "M" "Butyrate" 0.9 91.5 0.3 "M. smithii" "N2" "atm" "N2-atm" "MButyrate" NA "mono"
-"126" "M" "Butyrate" 0.5 91.5 0 "M. smithii" "N2" "atm" "N2-atm" "MButyrate" NA "mono"
-"127" "nullN2" "Butyrate" 0.6 143 0 "None" "N2" "atm" "N2-atm" "nullN2Butyrate" NA "mono"
-"128" "CtM" "Butyrate" 0.7 143 0.1 "M. smithii /
-C. timonensis" "N2" "atm" "N2-atm" "CtMButyrate" "C. timonensis" "co"
-"129" "CtM" "Butyrate" 0.7 143 0.1 "M. smithii /
-C. timonensis" "N2" "atm" "N2-atm" "CtMButyrate" "C. timonensis" "co"
-"130" "CtM" "Butyrate" 0.6 143 0 "M. smithii /
-C. timonensis" "N2" "atm" "N2-atm" "CtMButyrate" "C. timonensis" "co"
-"131" "CmaM" "Butyrate" 0.9 143 0.3 "M. smithii /
-C. massiliensis" "N2" "atm" "N2-atm" "CmaMButyrate" "C. massiliensis" "co"
-"132" "CmaM" "Butyrate" 0.9 143 0.3 "M. smithii /
-C. massiliensis" "N2" "atm" "N2-atm" "CmaMButyrate" "C. massiliensis" "co"
-"133" "Ct" "Butyrate" 1.3 143 0.7 "C. timonensis" "N2" "atm" "N2-atm" "CtButyrate" "C. timonensis" "mono"
-"134" "Ct" "Butyrate" 1.7 143 1.1 "C. timonensis" "N2" "atm" "N2-atm" "CtButyrate" "C. timonensis" "mono"
-"135" "Ct" "Butyrate" 1.6 143 1 "C. timonensis" "N2" "atm" "N2-atm" "CtButyrate" "C. timonensis" "mono"
-"136" "Cma" "Butyrate" 1.7 143 1.1 "C. massiliensis" "N2" "atm" "N2-atm" "CmaButyrate" "C. massiliensis" "mono"
-"137" "Cma" "Butyrate" 1.7 143 1.1 "C. massiliensis" "N2" "atm" "N2-atm" "CmaButyrate" "C. massiliensis" "mono"
-"138" "Cma" "Butyrate" 1.9 143 1.3 "C. massiliensis" "N2" "atm" "N2-atm" "CmaButyrate" "C. massiliensis" "mono"
-"139" "M" "Butyrate" 0.6 143 0 "M. smithii" "N2" "atm" "N2-atm" "MButyrate" NA "mono"
-"140" "M" "Butyrate" 0.8 143 0.2 "M. smithii" "N2" "atm" "N2-atm" "MButyrate" NA "mono"
-"141" "M" "Butyrate" 0.5 143 0 "M. smithii" "N2" "atm" "N2-atm" "MButyrate" NA "mono"
-"142" "nullN2" "Butyrate" 0.7 164 0 "None" "N2" "atm" "N2-atm" "nullN2Butyrate" NA "mono"
-"143" "C" "Butyrate" 4.3 164 3.6 "C. minuta" "N2" "atm" "N2-atm" "CButyrate" NA "mono"
-"144" "C" "Butyrate" 4.2 164 3.5 "C. minuta" "N2" "atm" "N2-atm" "CButyrate" NA "mono"
-"145" "C" "Butyrate" 4.3 164 3.6 "C. minuta" "N2" "atm" "N2-atm" "CButyrate" NA "mono"
-"146" "CtM" "Butyrate" 0.7 164 0 "M. smithii /
-C. timonensis" "N2" "atm" "N2-atm" "CtMButyrate" "C. timonensis" "co"
-"147" "CtM" "Butyrate" 1 164 0.3 "M. smithii /
-C. timonensis" "N2" "atm" "N2-atm" "CtMButyrate" "C. timonensis" "co"
-"148" "CtM" "Butyrate" 0.8 164 0.1 "M. smithii /
-C. timonensis" "N2" "atm" "N2-atm" "CtMButyrate" "C. timonensis" "co"
-"149" "CmaM" "Butyrate" 0.8 164 0.1 "M. smithii /
-C. massiliensis" "N2" "atm" "N2-atm" "CmaMButyrate" "C. massiliensis" "co"
-"150" "CmaM" "Butyrate" 1 164 0.3 "M. smithii /
-C. massiliensis" "N2" "atm" "N2-atm" "CmaMButyrate" "C. massiliensis" "co"
-"151" "Ct" "Butyrate" 1.8 164 1.1 "C. timonensis" "N2" "atm" "N2-atm" "CtButyrate" "C. timonensis" "mono"
-"152" "Ct" "Butyrate" 1.8 164 1.1 "C. timonensis" "N2" "atm" "N2-atm" "CtButyrate" "C. timonensis" "mono"
-"153" "Cma" "Butyrate" 1.6 164 0.9 "C. massiliensis" "N2" "atm" "N2-atm" "CmaButyrate" "C. massiliensis" "mono"
-"154" "Cma" "Butyrate" 1.6 164 0.9 "C. massiliensis" "N2" "atm" "N2-atm" "CmaButyrate" "C. massiliensis" "mono"
-"155" "Cma" "Butyrate" 1.7 164 1 "C. massiliensis" "N2" "atm" "N2-atm" "CmaButyrate" "C. massiliensis" "mono"
-"156" "M" "Butyrate" 0.6 164 0 "M. smithii" "N2" "atm" "N2-atm" "MButyrate" NA "mono"
-"157" "M" "Butyrate" 0.6 164 0 "M. smithii" "N2" "atm" "N2-atm" "MButyrate" NA "mono"
-"158" "M" "Butyrate" 0.8 164 0.1 "M. smithii" "N2" "atm" "N2-atm" "MButyrate" NA "mono"
+"Sample"	"Replicate"	"microbe"	"Time"	"Concentration"	"headspace"	"pressure"	"condition"	"gas"	"id"
+"1"	"MH2"	"MH23"	"M. smithii"	333.5	14.4590011025815	"H2"	"atm"	"H2-atm"	"H2"	"H2"
+"2"	"MH2"	"MH22"	"M. smithii"	333.5	18.1296844130336	"H2"	"atm"	"H2-atm"	"H2"	"H2"
+"3"	"MH2"	"MH21"	"M. smithii"	333.5	15.4991011546587	"H2"	"atm"	"H2-atm"	"H2"	"H2"
+"4"	"Cma"	"Cma1"	"C. massiliensis"	333.5	7.57330087379107	"N2"	"atm"	"N2-atm"	"H2"	"H2"
+"5"	"Ct"	"Ct3"	"C. timonensis"	333.5	0.874871736099392	"N2"	"atm"	"N2-atm"	"H2"	"H2"
+"6"	"Ct"	"Ct2"	"C. timonensis"	333.5	1.21024042819422	"N2"	"atm"	"N2-atm"	"H2"	"H2"
+"7"	"Ct"	"Ct1"	"C. timonensis"	333.5	0.809502556976963	"N2"	"atm"	"N2-atm"	"H2"	"H2"
+"8"	"CtM"	"CtM3"	"M. smithii /
+C. timonensis"	333.5	0.0213367728205741	"N2"	"atm"	"N2-atm"	"H2"	"H2"
+"9"	"CtM"	"CtM2"	"M. smithii /
+C. timonensis"	333.5	0.0203884718063264	"N2"	"atm"	"N2-atm"	"H2"	"H2"
+"10"	"CtM"	"CtM1"	"M. smithii /
+C. timonensis"	333.5	0.021810923327698	"N2"	"atm"	"N2-atm"	"H2"	"H2"
+"11"	"Ct"	"Ct3"	"C. timonensis"	237.5	0.678533419401198	"N2"	"atm"	"N2-atm"	"H2"	"H2"
+"12"	"Ct"	"Ct2"	"C. timonensis"	237.5	0.845950598008544	"N2"	"atm"	"N2-atm"	"H2"	"H2"
+"13"	"CmaM"	"CmaM1"	"M. smithii /
+C. massiliensis"	333.5	0.245438827437361	"N2"	"atm"	"N2-atm"	"H2"	"H2"
+"14"	"Ct"	"Ct1"	"C. timonensis"	237.5	0.820249246909547	"N2"	"atm"	"N2-atm"	"H2"	"H2"
+"15"	"CtM"	"CtM3"	"M. smithii /
+C. timonensis"	237.5	0.0197321781165879	"N2"	"atm"	"N2-atm"	"H2"	"H2"
+"16"	"MH2"	"MH23"	"M. smithii"	187.5	21.1931795315358	"H2"	"atm"	"H2-atm"	"H2"	"H2"
+"17"	"MH2"	"MH22"	"M. smithii"	187.5	21.8447005168711	"H2"	"atm"	"H2-atm"	"H2"	"H2"
+"18"	"Cma"	"Cma3"	"C. massiliensis"	187.5	6.91026168468687	"N2"	"atm"	"N2-atm"	"H2"	"H2"
+"19"	"Cma"	"Cma2"	"C. massiliensis"	187.5	6.56625687207267	"N2"	"atm"	"N2-atm"	"H2"	"H2"
+"20"	"Cma"	"Cma1"	"C. massiliensis"	187.5	6.49038519995267	"N2"	"atm"	"N2-atm"	"H2"	"H2"
+"21"	"CmaM"	"CmaM3"	"M. smithii /
+C. massiliensis"	187.5	0.0803008948898288	"N2"	"atm"	"N2-atm"	"H2"	"H2"
+"22"	"CmaM"	"CmaM1"	"M. smithii /
+C. massiliensis"	187.5	0.0642589884836695	"N2"	"atm"	"N2-atm"	"H2"	"H2"
+"23"	"C"	"C1"	"C. minuta"	187.5	19.9717283120822	"N2"	"atm"	"N2-atm"	"H2"	"H2"
+"26"	"MH2"	"MH23"	"M. smithii"	164	26.3226164030141	"H2"	"atm"	"H2-atm"	"H2"	"H2"
+"27"	"Ct"	"Ct2"	"C. timonensis"	164	0.722990478129639	"N2"	"atm"	"N2-atm"	"H2"	"H2"
+"28"	"Ct"	"Ct1"	"C. timonensis"	164	0.542105244435807	"N2"	"atm"	"N2-atm"	"H2"	"H2"
+"29"	"CmaM"	"CmaM1"	"M. smithii /
+C. massiliensis"	164	0.0322936606481406	"N2"	"atm"	"N2-atm"	"H2"	"H2"
+"30"	"CtM"	"CtM2"	"M. smithii /
+C. timonensis"	164	0.0939030772971457	"N2"	"atm"	"N2-atm"	"H2"	"H2"
+"31"	"CtM"	"CtM1"	"M. smithii /
+C. timonensis"	164	0.772068525656383	"N2"	"atm"	"N2-atm"	"H2"	"H2"
+"32"	"C"	"C3"	"C. minuta"	164	18.3308586132808	"N2"	"atm"	"N2-atm"	"H2"	"H2"
+"35"	"MH2"	"MH22"	"M. smithii"	143	29.7885642551416	"H2"	"atm"	"H2-atm"	"H2"	"H2"
+"36"	"MH2"	"MH21"	"M. smithii"	143	30.013756180648	"H2"	"atm"	"H2-atm"	"H2"	"H2"
+"37"	"Cma"	"Cma3"	"C. massiliensis"	143	7.13842250888292	"N2"	"atm"	"N2-atm"	"H2"	"H2"
+"38"	"Cma"	"Cma2"	"C. massiliensis"	143	6.3494175288727	"N2"	"atm"	"N2-atm"	"H2"	"H2"
+"39"	"Ct"	"Ct3"	"C. timonensis"	143	0.441162772350395	"N2"	"atm"	"N2-atm"	"H2"	"H2"
+"40"	"Ct"	"Ct2"	"C. timonensis"	143	0.492165841316223	"N2"	"atm"	"N2-atm"	"H2"	"H2"
+"41"	"Ct"	"Ct1"	"C. timonensis"	143	0.392586874469559	"N2"	"atm"	"N2-atm"	"H2"	"H2"
+"42"	"CmaM"	"CmaM3"	"M. smithii /
+C. massiliensis"	143	0.0314470023425447	"N2"	"atm"	"N2-atm"	"H2"	"H2"
+"43"	"CmaM"	"CmaM1"	"M. smithii /
+C. massiliensis"	143	0.017944476509444	"N2"	"atm"	"N2-atm"	"H2"	"H2"
+"44"	"CtM"	"CtM1"	"M. smithii /
+C. timonensis"	143	1.19595526891548	"N2"	"atm"	"N2-atm"	"H2"	"H2"
+"45"	"C"	"C3"	"C. minuta"	194.5	19.9558435629916	"N2"	"atm"	"N2-atm"	"H2"	"H2"
+"46"	"C"	"C2"	"C. minuta"	194.5	19.0258198277649	"N2"	"atm"	"N2-atm"	"H2"	"H2"
+"50"	"MH2"	"MH23"	"M. smithii"	91.5	32.0006148029371	"H2"	"atm"	"H2-atm"	"H2"	"H2"
+"51"	"MH2"	"MH21"	"M. smithii"	91.5	32.7848941393951	"H2"	"atm"	"H2-atm"	"H2"	"H2"
+"52"	"Cma"	"Cma2"	"C. massiliensis"	91.5	6.44312789218654	"N2"	"atm"	"N2-atm"	"H2"	"H2"
+"53"	"Cma"	"Cma1"	"C. massiliensis"	91.5	6.15846217819903	"N2"	"atm"	"N2-atm"	"H2"	"H2"
+"54"	"Ct"	"Ct1"	"C. timonensis"	91.5	0.241157651407903	"N2"	"atm"	"N2-atm"	"H2"	"H2"
+"55"	"CmaM"	"CmaM3"	"M. smithii /
+C. massiliensis"	91.5	0.0321739182899419	"N2"	"atm"	"N2-atm"	"H2"	"H2"
+"56"	"CmaM"	"CmaM1"	"M. smithii /
+C. massiliensis"	91.5	0.0297031811979384	"N2"	"atm"	"N2-atm"	"H2"	"H2"
+"57"	"CtM"	"CtM3"	"M. smithii /
+C. timonensis"	91.5	0.0507761973560632	"N2"	"atm"	"N2-atm"	"H2"	"H2"
+"58"	"CtM"	"CtM2"	"M. smithii /
+C. timonensis"	91.5	0.0510304091509584	"N2"	"atm"	"N2-atm"	"H2"	"H2"
+"59"	"CtM"	"CtM1"	"M. smithii /
+C. timonensis"	91.5	0.089096408306936	"N2"	"atm"	"N2-atm"	"H2"	"H2"
+"60"	"C"	"C2"	"C. minuta"	91.5	14.3345730277691	"N2"	"atm"	"N2-atm"	"H2"	"H2"
+"62"	"C"	"C2"	"C. minuta"	187.5	17.8596836846626	"N2"	"atm"	"N2-atm"	"H2"	"H2"
+"64"	"CtM"	"CtM2"	"M. smithii /
+C. timonensis"	237.5	0.365745245387209	"N2"	"atm"	"N2-atm"	"H2"	"H2"
+"66"	"MH2"	"MH23"	"M. smithii"	67.5	36.8928177088331	"H2"	"atm"	"H2-atm"	"H2"	"H2"
+"67"	"MH2"	"MH22"	"M. smithii"	67.5	36.0311299428192	"H2"	"atm"	"H2-atm"	"H2"	"H2"
+"68"	"MH2"	"MH21"	"M. smithii"	67.5	33.0158036446935	"H2"	"atm"	"H2-atm"	"H2"	"H2"
+"69"	"Cma"	"Cma3"	"C. massiliensis"	67.5	5.11396721124184	"N2"	"atm"	"N2-atm"	"H2"	"H2"
+"70"	"Cma"	"Cma2"	"C. massiliensis"	67.5	5.466066648111	"N2"	"atm"	"N2-atm"	"H2"	"H2"
+"71"	"Cma"	"Cma1"	"C. massiliensis"	67.5	6.79566039286504	"N2"	"atm"	"N2-atm"	"H2"	"H2"
+"72"	"Ct"	"Ct2"	"C. timonensis"	67.5	0.176558708994261	"N2"	"atm"	"N2-atm"	"H2"	"H2"
+"73"	"Ct"	"Ct1"	"C. timonensis"	67.5	0.16362197486019	"N2"	"atm"	"N2-atm"	"H2"	"H2"
+"74"	"CmaM"	"CmaM1"	"M. smithii /
+C. massiliensis"	67.5	0.0414154338334139	"N2"	"atm"	"N2-atm"	"H2"	"H2"
+"75"	"CtM"	"CtM3"	"M. smithii /
+C. timonensis"	67.5	0.0428626203501498	"N2"	"atm"	"N2-atm"	"H2"	"H2"
+"76"	"CtM"	"CtM1"	"M. smithii /
+C. timonensis"	67.5	0.28337563618605	"N2"	"atm"	"N2-atm"	"H2"	"H2"
+"77"	"C"	"C2"	"C. minuta"	67.5	11.3841399097107	"N2"	"atm"	"N2-atm"	"H2"	"H2"
+"80"	"MH2"	"MH23"	"M. smithii"	44.5	39.2339690116959	"H2"	"atm"	"H2-atm"	"H2"	"H2"
+"81"	"MH2"	"MH22"	"M. smithii"	44.5	44.5088732033733	"H2"	"atm"	"H2-atm"	"H2"	"H2"
+"82"	"MH2"	"MH21"	"M. smithii"	44.5	45.564286371684	"H2"	"atm"	"H2-atm"	"H2"	"H2"
+"83"	"Cma"	"Cma3"	"C. massiliensis"	44.5	5.50888155170339	"N2"	"atm"	"N2-atm"	"H2"	"H2"
+"84"	"MH2"	"MH21"	"M. smithii"	187.5	22.8749173548001	"H2"	"atm"	"H2-atm"	"H2"	"H2"
+"85"	"Cma"	"Cma1"	"C. massiliensis"	44.5	5.50948123725527	"N2"	"atm"	"N2-atm"	"H2"	"H2"
+"86"	"Ct"	"Ct2"	"C. timonensis"	44.5	0.112507602414392	"N2"	"atm"	"N2-atm"	"H2"	"H2"
+"87"	"Ct"	"Ct1"	"C. timonensis"	44.5	0.108830775944884	"N2"	"atm"	"N2-atm"	"H2"	"H2"
+"88"	"CmaM"	"CmaM3"	"M. smithii /
+C. massiliensis"	44.5	0.0697901718120536	"N2"	"atm"	"N2-atm"	"H2"	"H2"
+"89"	"CmaM"	"CmaM1"	"M. smithii /
+C. massiliensis"	44.5	0.0958912350804462	"N2"	"atm"	"N2-atm"	"H2"	"H2"
+"90"	"CtM"	"CtM3"	"M. smithii /
+C. timonensis"	44.5	0.0455440551026898	"N2"	"atm"	"N2-atm"	"H2"	"H2"
+"91"	"CtM"	"CtM2"	"M. smithii /
+C. timonensis"	44.5	0.0860941789580369	"N2"	"atm"	"N2-atm"	"H2"	"H2"
+"92"	"MH2"	"MH23"	"M. smithii"	143	26.9512270428375	"H2"	"atm"	"H2-atm"	"H2"	"H2"
+"93"	"CtM"	"CtM1"	"M. smithii /
+C. timonensis"	44.5	1.23764405680108	"N2"	"atm"	"N2-atm"	"H2"	"H2"
+"94"	"CtM"	"CtM3"	"M. smithii /
+C. timonensis"	164	0.0530255831235503	"N2"	"atm"	"N2-atm"	"H2"	"H2"
+"95"	"C"	"C3"	"C. minuta"	44.5	6.20349152304015	"N2"	"atm"	"N2-atm"	"H2"	"H2"
+"96"	"C"	"C2"	"C. minuta"	44.5	6.34197308710426	"N2"	"atm"	"N2-atm"	"H2"	"H2"
+"97"	"C"	"C1"	"C. minuta"	44.5	6.30284587770039	"N2"	"atm"	"N2-atm"	"H2"	"H2"
+"98"	"Cma"	"Cma1"	"C. massiliensis"	143	6.45382858537582	"N2"	"atm"	"N2-atm"	"H2"	"H2"
+"102"	"MH2"	"MH22"	"M. smithii"	19.5	56.2402214344726	"H2"	"atm"	"H2-atm"	"H2"	"H2"
+"103"	"MH2"	"MH21"	"M. smithii"	19.5	51.322188968126	"H2"	"atm"	"H2-atm"	"H2"	"H2"
+"104"	"Cma"	"Cma1"	"C. massiliensis"	19.5	0.508142503823696	"N2"	"atm"	"N2-atm"	"H2"	"H2"
+"105"	"Ct"	"Ct3"	"C. timonensis"	19.5	0.047423665567205	"N2"	"atm"	"N2-atm"	"H2"	"H2"
+"106"	"Ct"	"Ct2"	"C. timonensis"	19.5	0.0413198042567931	"N2"	"atm"	"N2-atm"	"H2"	"H2"
+"107"	"Ct"	"Ct1"	"C. timonensis"	19.5	0.0338996648202364	"N2"	"atm"	"N2-atm"	"H2"	"H2"
+"108"	"CmaM"	"CmaM3"	"M. smithii /
+C. massiliensis"	19.5	0.0396748876430717	"N2"	"atm"	"N2-atm"	"H2"	"H2"
+"109"	"CmaM"	"CmaM2"	"M. smithii /
+C. massiliensis"	19.5	0.0246935324969862	"N2"	"atm"	"N2-atm"	"H2"	"H2"
+"110"	"CmaM"	"CmaM1"	"M. smithii /
+C. massiliensis"	19.5	0.0368449707685406	"N2"	"atm"	"N2-atm"	"H2"	"H2"
+"111"	"CtM"	"CtM3"	"M. smithii /
+C. timonensis"	19.5	0.0472796585438607	"N2"	"atm"	"N2-atm"	"H2"	"H2"
+"112"	"CtM"	"CtM2"	"M. smithii /
+C. timonensis"	19.5	0.0954040819194914	"N2"	"atm"	"N2-atm"	"H2"	"H2"
+"113"	"CtM"	"CtM1"	"M. smithii /
+C. timonensis"	19.5	1.22987419533761	"N2"	"atm"	"N2-atm"	"H2"	"H2"
+"114"	"C"	"C3"	"C. minuta"	19.5	1.44135456435687	"N2"	"atm"	"N2-atm"	"H2"	"H2"
+"115"	"C"	"C2"	"C. minuta"	19.5	1.79833820426831	"N2"	"atm"	"N2-atm"	"H2"	"H2"
+"116"	"C"	"C1"	"C. minuta"	19.5	1.44123716006545	"N2"	"atm"	"N2-atm"	"H2"	"H2"
+"118"	"C"	"C1"	"C. minuta"	143	20.2365237786009	"N2"	"atm"	"N2-atm"	"H2"	"H2"
+"121"	"C"	"C2"	"C. minuta"	164	20.5097107491984	"N2"	"atm"	"N2-atm"	"H2"	"H2"
+"122"	"MH2"	"MH22"	"M. smithii"	0	58.7976492516134	"H2"	"atm"	"H2-atm"	"H2"	"H2"
+"123"	"Cma"	"Cma3"	"C. massiliensis"	0	0.0153000273396312	"N2"	"atm"	"N2-atm"	"H2"	"H2"
+"124"	"Ct"	"Ct3"	"C. timonensis"	91.5	0.268154791932981	"N2"	"atm"	"N2-atm"	"H2"	"H2"
+"125"	"Cma"	"Cma2"	"C. massiliensis"	0	0.0153000273396312	"N2"	"atm"	"N2-atm"	"H2"	"H2"
+"126"	"Cma"	"Cma1"	"C. massiliensis"	0	0.0153000273396312	"N2"	"atm"	"N2-atm"	"H2"	"H2"
+"127"	"Ct"	"Ct3"	"C. timonensis"	0	0.0153000273396312	"N2"	"atm"	"N2-atm"	"H2"	"H2"
+"128"	"Ct"	"Ct2"	"C. timonensis"	0	0.0153000273396312	"N2"	"atm"	"N2-atm"	"H2"	"H2"
+"129"	"Ct"	"Ct1"	"C. timonensis"	0	0.0153000273396312	"N2"	"atm"	"N2-atm"	"H2"	"H2"
+"130"	"CmaM"	"CmaM3"	"M. smithii /
+C. massiliensis"	0	0.0153000273396312	"N2"	"atm"	"N2-atm"	"H2"	"H2"
+"131"	"CmaM"	"CmaM1"	"M. smithii /
+C. massiliensis"	0	0.0153000273396312	"N2"	"atm"	"N2-atm"	"H2"	"H2"
+"132"	"CtM"	"CtM2"	"M. smithii /
+C. timonensis"	0	0.0153000273396312	"N2"	"atm"	"N2-atm"	"H2"	"H2"
+"133"	"CtM"	"CtM1"	"M. smithii /
+C. timonensis"	0	0.0153000273396312	"N2"	"atm"	"N2-atm"	"H2"	"H2"
+"134"	"C"	"C3"	"C. minuta"	0	0.0153000273396312	"N2"	"atm"	"N2-atm"	"H2"	"H2"
+"135"	"C"	"C2"	"C. minuta"	0	0.0153000273396312	"N2"	"atm"	"N2-atm"	"H2"	"H2"
+"136"	"C"	"C1"	"C. minuta"	0	0.0153000273396312	"N2"	"atm"	"N2-atm"	"H2"	"H2"
+"140"	"MH2"	"MH23"	"M. smithii"	333.5	7.00387661406998	"H2"	"atm"	"H2-atm"	"CH4"	"CH4"
+"141"	"MH2"	"MH22"	"M. smithii"	333.5	7.74838309096456	"H2"	"atm"	"H2-atm"	"CH4"	"CH4"
+"142"	"MH2"	"MH21"	"M. smithii"	333.5	7.35803237668695	"H2"	"atm"	"H2-atm"	"CH4"	"CH4"
+"143"	"Cma"	"Cma2"	"C. massiliensis"	333.5	0	"N2"	"atm"	"N2-atm"	"CH4"	"CH4"
+"144"	"CmaM"	"CmaM3"	"M. smithii /
+C. massiliensis"	164	0.0338035519555639	"N2"	"atm"	"N2-atm"	"H2"	"H2"
+"145"	"Cma"	"Cma1"	"C. massiliensis"	333.5	0	"N2"	"atm"	"N2-atm"	"CH4"	"CH4"
+"146"	"CmaM"	"CmaM3"	"M. smithii /
+C. massiliensis"	333.5	5.21879599846556	"N2"	"atm"	"N2-atm"	"CH4"	"CH4"
+"147"	"MH2"	"MH22"	"M. smithii"	91.5	35.9654945208428	"H2"	"atm"	"H2-atm"	"H2"	"H2"
+"148"	"CmaM"	"CmaM1"	"M. smithii /
+C. massiliensis"	333.5	5.50307348634948	"N2"	"atm"	"N2-atm"	"CH4"	"CH4"
+"149"	"Cma"	"Cma1"	"C. massiliensis"	164	7.11572815506241	"N2"	"atm"	"N2-atm"	"H2"	"H2"
+"150"	"Ct"	"Ct3"	"C. timonensis"	333.5	0	"N2"	"atm"	"N2-atm"	"CH4"	"CH4"
+"151"	"Ct"	"Ct2"	"C. timonensis"	333.5	0	"N2"	"atm"	"N2-atm"	"CH4"	"CH4"
+"152"	"Ct"	"Ct1"	"C. timonensis"	333.5	0	"N2"	"atm"	"N2-atm"	"CH4"	"CH4"
+"153"	"CtM"	"CtM3"	"M. smithii /
+C. timonensis"	333.5	2.88711346463322	"N2"	"atm"	"N2-atm"	"CH4"	"CH4"
+"154"	"CtM"	"CtM1"	"M. smithii /
+C. timonensis"	333.5	2.80331891853934	"N2"	"atm"	"N2-atm"	"CH4"	"CH4"
+"155"	"Ct"	"Ct3"	"C. timonensis"	237.5	0	"N2"	"atm"	"N2-atm"	"CH4"	"CH4"
+"156"	"Ct"	"Ct2"	"C. timonensis"	237.5	0	"N2"	"atm"	"N2-atm"	"CH4"	"CH4"
+"157"	"Ct"	"Ct1"	"C. timonensis"	237.5	0	"N2"	"atm"	"N2-atm"	"CH4"	"CH4"
+"158"	"CtM"	"CtM3"	"M. smithii /
+C. timonensis"	237.5	2.48246861781886	"N2"	"atm"	"N2-atm"	"CH4"	"CH4"
+"159"	"CtM"	"CtM2"	"M. smithii /
+C. timonensis"	67.5	0.0475351702752331	"N2"	"atm"	"N2-atm"	"H2"	"H2"
+"160"	"CtM"	"CtM2"	"M. smithii /
+C. timonensis"	237.5	2.24253103019902	"N2"	"atm"	"N2-atm"	"CH4"	"CH4"
+"161"	"Ct"	"Ct3"	"C. timonensis"	44.5	0.111494216903525	"N2"	"atm"	"N2-atm"	"H2"	"H2"
+"162"	"CtM"	"CtM1"	"M. smithii /
+C. timonensis"	237.5	2.50336440444565	"N2"	"atm"	"N2-atm"	"CH4"	"CH4"
+"163"	"MH2"	"MH23"	"M. smithii"	187.5	4.79976786123683	"H2"	"atm"	"H2-atm"	"CH4"	"CH4"
+"164"	"MH2"	"MH22"	"M. smithii"	187.5	4.89767486461598	"H2"	"atm"	"H2-atm"	"CH4"	"CH4"
+"165"	"MH2"	"MH21"	"M. smithii"	187.5	5.31035432355673	"H2"	"atm"	"H2-atm"	"CH4"	"CH4"
+"166"	"Cma"	"Cma3"	"C. massiliensis"	187.5	0	"N2"	"atm"	"N2-atm"	"CH4"	"CH4"
+"167"	"Cma"	"Cma2"	"C. massiliensis"	187.5	0	"N2"	"atm"	"N2-atm"	"CH4"	"CH4"
+"168"	"Cma"	"Cma1"	"C. massiliensis"	187.5	0	"N2"	"atm"	"N2-atm"	"CH4"	"CH4"
+"169"	"CmaM"	"CmaM3"	"M. smithii /
+C. massiliensis"	187.5	4.48507097593366	"N2"	"atm"	"N2-atm"	"CH4"	"CH4"
+"170"	"Cma"	"Cma3"	"C. massiliensis"	164	7.11666771060937	"N2"	"atm"	"N2-atm"	"H2"	"H2"
+"171"	"CmaM"	"CmaM1"	"M. smithii /
+C. massiliensis"	187.5	4.41194926245324	"N2"	"atm"	"N2-atm"	"CH4"	"CH4"
+"172"	"Ct"	"Ct3"	"C. timonensis"	67.5	0.170800642935178	"N2"	"atm"	"N2-atm"	"H2"	"H2"
+"173"	"C"	"C2"	"C. minuta"	187.5	0	"N2"	"atm"	"N2-atm"	"CH4"	"CH4"
+"174"	"C"	"C1"	"C. minuta"	187.5	0	"N2"	"atm"	"N2-atm"	"CH4"	"CH4"
+"175"	"Cma"	"Cma2"	"C. massiliensis"	19.5	0.288660438932393	"N2"	"atm"	"N2-atm"	"H2"	"H2"
+"177"	"MH2"	"MH23"	"M. smithii"	0	58.7976492516134	"H2"	"atm"	"H2-atm"	"H2"	"H2"
+"179"	"MH2"	"MH23"	"M. smithii"	164	4.75749416206242	"H2"	"atm"	"H2-atm"	"CH4"	"CH4"
+"180"	"MH2"	"MH22"	"M. smithii"	164	4.16673449822278	"H2"	"atm"	"H2-atm"	"CH4"	"CH4"
+"181"	"Cma"	"Cma3"	"C. massiliensis"	164	0	"N2"	"atm"	"N2-atm"	"CH4"	"CH4"
+"182"	"Cma"	"Cma1"	"C. massiliensis"	164	0	"N2"	"atm"	"N2-atm"	"CH4"	"CH4"
+"183"	"Ct"	"Ct2"	"C. timonensis"	164	0	"N2"	"atm"	"N2-atm"	"CH4"	"CH4"
+"184"	"Ct"	"Ct1"	"C. timonensis"	164	0	"N2"	"atm"	"N2-atm"	"CH4"	"CH4"
+"185"	"CmaM"	"CmaM3"	"M. smithii /
+C. massiliensis"	164	4.15745000132855	"N2"	"atm"	"N2-atm"	"CH4"	"CH4"
+"186"	"CtM"	"CtM3"	"M. smithii /
+C. timonensis"	164	1.4943556009724	"N2"	"atm"	"N2-atm"	"CH4"	"CH4"
+"187"	"CtM"	"CtM2"	"M. smithii /
+C. timonensis"	164	1.16710068539823	"N2"	"atm"	"N2-atm"	"CH4"	"CH4"
+"188"	"CtM"	"CtM1"	"M. smithii /
+C. timonensis"	164	1.6789600292048	"N2"	"atm"	"N2-atm"	"CH4"	"CH4"
+"189"	"C"	"C3"	"C. minuta"	164	0	"N2"	"atm"	"N2-atm"	"CH4"	"CH4"
+"190"	"C"	"C2"	"C. minuta"	164	0	"N2"	"atm"	"N2-atm"	"CH4"	"CH4"
+"191"	"C"	"C1"	"C. minuta"	164	0	"N2"	"atm"	"N2-atm"	"CH4"	"CH4"
+"194"	"CtM"	"CtM2"	"M. smithii /
+C. timonensis"	143	0.0409564091403219	"N2"	"atm"	"N2-atm"	"H2"	"H2"
+"196"	"MH2"	"MH23"	"M. smithii"	143	4.36330762409317	"H2"	"atm"	"H2-atm"	"CH4"	"CH4"
+"197"	"MH2"	"MH22"	"M. smithii"	143	4.16184723470409	"H2"	"atm"	"H2-atm"	"CH4"	"CH4"
+"198"	"MH2"	"MH21"	"M. smithii"	143	4.95596521309952	"H2"	"atm"	"H2-atm"	"CH4"	"CH4"
+"199"	"Cma"	"Cma3"	"C. massiliensis"	143	0	"N2"	"atm"	"N2-atm"	"CH4"	"CH4"
+"200"	"Cma"	"Cma2"	"C. massiliensis"	143	0	"N2"	"atm"	"N2-atm"	"CH4"	"CH4"
+"201"	"Cma"	"Cma1"	"C. massiliensis"	143	0	"N2"	"atm"	"N2-atm"	"CH4"	"CH4"
+"202"	"Ct"	"Ct3"	"C. timonensis"	143	0	"N2"	"atm"	"N2-atm"	"CH4"	"CH4"
+"203"	"Ct"	"Ct2"	"C. timonensis"	143	0	"N2"	"atm"	"N2-atm"	"CH4"	"CH4"
+"204"	"Ct"	"Ct1"	"C. timonensis"	143	0	"N2"	"atm"	"N2-atm"	"CH4"	"CH4"
+"205"	"CmaM"	"CmaM3"	"M. smithii /
+C. massiliensis"	143	3.64226968666922	"N2"	"atm"	"N2-atm"	"CH4"	"CH4"
+"206"	"CmaM"	"CmaM1"	"M. smithii /
+C. massiliensis"	143	3.57335788911206	"N2"	"atm"	"N2-atm"	"CH4"	"CH4"
+"207"	"CtM"	"CtM1"	"M. smithii /
+C. timonensis"	237.5	0.0920969424513471	"N2"	"atm"	"N2-atm"	"H2"	"H2"
+"208"	"CtM"	"CtM3"	"M. smithii /
+C. timonensis"	143	1.05011510879874	"N2"	"atm"	"N2-atm"	"CH4"	"CH4"
+"209"	"Cma"	"Cma2"	"C. massiliensis"	333.5	6.95545658548998	"N2"	"atm"	"N2-atm"	"H2"	"H2"
+"210"	"CtM"	"CtM2"	"M. smithii /
+C. timonensis"	143	0.839235998392228	"N2"	"atm"	"N2-atm"	"CH4"	"CH4"
+"211"	"CtM"	"CtM1"	"M. smithii /
+C. timonensis"	143	1.36524354547158	"N2"	"atm"	"N2-atm"	"CH4"	"CH4"
+"212"	"C"	"C2"	"C. minuta"	194.5	0	"N2"	"atm"	"N2-atm"	"CH4"	"CH4"
+"213"	"C"	"C1"	"C. minuta"	143	0	"N2"	"atm"	"N2-atm"	"CH4"	"CH4"
+"216"	"MH2"	"MH21"	"M. smithii"	164	5.13900734616168	"H2"	"atm"	"H2-atm"	"CH4"	"CH4"
+"219"	"MH2"	"MH23"	"M. smithii"	91.5	3.08156972597833	"H2"	"atm"	"H2-atm"	"CH4"	"CH4"
+"220"	"MH2"	"MH22"	"M. smithii"	91.5	2.84503675454511	"H2"	"atm"	"H2-atm"	"CH4"	"CH4"
+"221"	"MH2"	"MH21"	"M. smithii"	91.5	3.32218497881129	"H2"	"atm"	"H2-atm"	"CH4"	"CH4"
+"222"	"Cma"	"Cma3"	"C. massiliensis"	91.5	0	"N2"	"atm"	"N2-atm"	"CH4"	"CH4"
+"223"	"Cma"	"Cma2"	"C. massiliensis"	91.5	0	"N2"	"atm"	"N2-atm"	"CH4"	"CH4"
+"224"	"Ct"	"Ct3"	"C. timonensis"	91.5	0	"N2"	"atm"	"N2-atm"	"CH4"	"CH4"
+"225"	"Ct"	"Ct2"	"C. timonensis"	91.5	0	"N2"	"atm"	"N2-atm"	"CH4"	"CH4"
+"226"	"Ct"	"Ct1"	"C. timonensis"	91.5	0	"N2"	"atm"	"N2-atm"	"CH4"	"CH4"
+"227"	"CmaM"	"CmaM3"	"M. smithii /
+C. massiliensis"	91.5	2.85688993686763	"N2"	"atm"	"N2-atm"	"CH4"	"CH4"
+"228"	"CmaM"	"CmaM1"	"M. smithii /
+C. massiliensis"	91.5	2.92339769665661	"N2"	"atm"	"N2-atm"	"CH4"	"CH4"
+"229"	"Cma"	"Cma2"	"C. massiliensis"	44.5	4.89342749537471	"N2"	"atm"	"N2-atm"	"H2"	"H2"
+"230"	"CtM"	"CtM3"	"M. smithii /
+C. timonensis"	91.5	0.64914084970626	"N2"	"atm"	"N2-atm"	"CH4"	"CH4"
+"231"	"CtM"	"CtM2"	"M. smithii /
+C. timonensis"	91.5	0.510520757752414	"N2"	"atm"	"N2-atm"	"CH4"	"CH4"
+"232"	"CmaM"	"CmaM1"	"M. smithii /
+C. massiliensis"	164	3.84191250583796	"N2"	"atm"	"N2-atm"	"CH4"	"CH4"
+"233"	"CtM"	"CtM1"	"M. smithii /
+C. timonensis"	91.5	0.545553820896325	"N2"	"atm"	"N2-atm"	"CH4"	"CH4"
+"234"	"C"	"C3"	"C. minuta"	91.5	0	"N2"	"atm"	"N2-atm"	"CH4"	"CH4"
+"235"	"C"	"C2"	"C. minuta"	91.5	0	"N2"	"atm"	"N2-atm"	"CH4"	"CH4"
+"236"	"Cma"	"Cma2"	"C. massiliensis"	164	6.31885977717469	"N2"	"atm"	"N2-atm"	"H2"	"H2"
+"238"	"C"	"C1"	"C. minuta"	91.5	0	"N2"	"atm"	"N2-atm"	"CH4"	"CH4"
+"242"	"CmaM"	"CmaM3"	"M. smithii /
+C. massiliensis"	333.5	0.227307559044278	"N2"	"atm"	"N2-atm"	"H2"	"H2"
+"243"	"MH2"	"MH23"	"M. smithii"	67.5	2.2719126460363	"H2"	"atm"	"H2-atm"	"CH4"	"CH4"
+"244"	"MH2"	"MH22"	"M. smithii"	67.5	2.0973423658828	"H2"	"atm"	"H2-atm"	"CH4"	"CH4"
+"245"	"MH2"	"MH21"	"M. smithii"	67.5	2.44743442924517	"H2"	"atm"	"H2-atm"	"CH4"	"CH4"
+"246"	"Cma"	"Cma3"	"C. massiliensis"	67.5	0	"N2"	"atm"	"N2-atm"	"CH4"	"CH4"
+"247"	"Cma"	"Cma2"	"C. massiliensis"	67.5	0	"N2"	"atm"	"N2-atm"	"CH4"	"CH4"
+"248"	"C"	"C1"	"C. minuta"	164	19.5790752604264	"N2"	"atm"	"N2-atm"	"H2"	"H2"
+"249"	"Cma"	"Cma1"	"C. massiliensis"	67.5	0	"N2"	"atm"	"N2-atm"	"CH4"	"CH4"
+"250"	"Ct"	"Ct3"	"C. timonensis"	67.5	0	"N2"	"atm"	"N2-atm"	"CH4"	"CH4"
+"251"	"Ct"	"Ct2"	"C. timonensis"	67.5	0	"N2"	"atm"	"N2-atm"	"CH4"	"CH4"
+"252"	"Ct"	"Ct1"	"C. timonensis"	67.5	0	"N2"	"atm"	"N2-atm"	"CH4"	"CH4"
+"253"	"CmaM"	"CmaM3"	"M. smithii /
+C. massiliensis"	67.5	2.81564988896697	"N2"	"atm"	"N2-atm"	"CH4"	"CH4"
+"254"	"CmaM"	"CmaM1"	"M. smithii /
+C. massiliensis"	67.5	2.57625948199541	"N2"	"atm"	"N2-atm"	"CH4"	"CH4"
+"255"	"Ct"	"Ct2"	"C. timonensis"	91.5	0.227671181007118	"N2"	"atm"	"N2-atm"	"H2"	"H2"
+"256"	"CtM"	"CtM2"	"M. smithii /
+C. timonensis"	67.5	0.315433465878974	"N2"	"atm"	"N2-atm"	"CH4"	"CH4"
+"257"	"C"	"C2"	"C. minuta"	67.5	0	"N2"	"atm"	"N2-atm"	"CH4"	"CH4"
+"258"	"C"	"C1"	"C. minuta"	67.5	0	"N2"	"atm"	"N2-atm"	"CH4"	"CH4"
+"261"	"MH2"	"MH23"	"M. smithii"	44.5	1.2732926739188	"H2"	"atm"	"H2-atm"	"CH4"	"CH4"
+"262"	"MH2"	"MH22"	"M. smithii"	44.5	1.38153147198196	"H2"	"atm"	"H2-atm"	"CH4"	"CH4"
+"263"	"CtM"	"CtM3"	"M. smithii /
+C. timonensis"	0	0.0153000273396312	"N2"	"atm"	"N2-atm"	"H2"	"H2"
+"264"	"MH2"	"MH21"	"M. smithii"	44.5	1.87720685164157	"H2"	"atm"	"H2-atm"	"CH4"	"CH4"
+"265"	"Cma"	"Cma3"	"C. massiliensis"	44.5	0	"N2"	"atm"	"N2-atm"	"CH4"	"CH4"
+"266"	"Cma"	"Cma2"	"C. massiliensis"	44.5	0	"N2"	"atm"	"N2-atm"	"CH4"	"CH4"
+"267"	"Cma"	"Cma2"	"C. massiliensis"	164	0	"N2"	"atm"	"N2-atm"	"CH4"	"CH4"
+"268"	"Cma"	"Cma1"	"C. massiliensis"	44.5	0	"N2"	"atm"	"N2-atm"	"CH4"	"CH4"
+"269"	"C"	"C1"	"C. minuta"	67.5	11.6687876412391	"N2"	"atm"	"N2-atm"	"H2"	"H2"
+"270"	"Ct"	"Ct3"	"C. timonensis"	44.5	0	"N2"	"atm"	"N2-atm"	"CH4"	"CH4"
+"271"	"Cma"	"Cma1"	"C. massiliensis"	91.5	0	"N2"	"atm"	"N2-atm"	"CH4"	"CH4"
+"272"	"Ct"	"Ct2"	"C. timonensis"	44.5	0	"N2"	"atm"	"N2-atm"	"CH4"	"CH4"
+"273"	"CmaM"	"CmaM3"	"M. smithii /
+C. massiliensis"	67.5	0.0417646514614029	"N2"	"atm"	"N2-atm"	"H2"	"H2"
+"274"	"Ct"	"Ct1"	"C. timonensis"	44.5	0	"N2"	"atm"	"N2-atm"	"CH4"	"CH4"
+"275"	"CmaM"	"CmaM3"	"M. smithii /
+C. massiliensis"	44.5	2.14053409544892	"N2"	"atm"	"N2-atm"	"CH4"	"CH4"
+"276"	"CmaM"	"CmaM1"	"M. smithii /
+C. massiliensis"	44.5	1.36823235890832	"N2"	"atm"	"N2-atm"	"CH4"	"CH4"
+"277"	"CtM"	"CtM3"	"M. smithii /
+C. timonensis"	44.5	0.224761177610742	"N2"	"atm"	"N2-atm"	"CH4"	"CH4"
+"278"	"MH2"	"MH22"	"M. smithii"	164	23.5596818890376	"H2"	"atm"	"H2-atm"	"H2"	"H2"
+"279"	"CtM"	"CtM2"	"M. smithii /
+C. timonensis"	44.5	0.219555392323708	"N2"	"atm"	"N2-atm"	"CH4"	"CH4"
+"280"	"CtM"	"CtM3"	"M. smithii /
+C. timonensis"	143	0.266046783898923	"N2"	"atm"	"N2-atm"	"H2"	"H2"
+"281"	"CtM"	"CtM1"	"M. smithii /
+C. timonensis"	44.5	0.263055610229887	"N2"	"atm"	"N2-atm"	"CH4"	"CH4"
+"282"	"C"	"C3"	"C. minuta"	44.5	0	"N2"	"atm"	"N2-atm"	"CH4"	"CH4"
+"283"	"C"	"C3"	"C. minuta"	91.5	15.6652172930162	"N2"	"atm"	"N2-atm"	"H2"	"H2"
+"284"	"C"	"C2"	"C. minuta"	44.5	0	"N2"	"atm"	"N2-atm"	"CH4"	"CH4"
+"285"	"C"	"C1"	"C. minuta"	44.5	0	"N2"	"atm"	"N2-atm"	"CH4"	"CH4"
+"289"	"MH2"	"MH23"	"M. smithii"	19.5	0.447543590413677	"H2"	"atm"	"H2-atm"	"CH4"	"CH4"
+"290"	"MH2"	"MH22"	"M. smithii"	19.5	0.493339106512452	"H2"	"atm"	"H2-atm"	"CH4"	"CH4"
+"291"	"MH2"	"MH21"	"M. smithii"	19.5	0.593060727182552	"H2"	"atm"	"H2-atm"	"CH4"	"CH4"
+"292"	"C"	"C1"	"C. minuta"	91.5	14.6174590439371	"N2"	"atm"	"N2-atm"	"H2"	"H2"
+"293"	"Cma"	"Cma3"	"C. massiliensis"	19.5	0	"N2"	"atm"	"N2-atm"	"CH4"	"CH4"
+"294"	"MH2"	"MH23"	"M. smithii"	19.5	47.1015867612122	"H2"	"atm"	"H2-atm"	"H2"	"H2"
+"295"	"Cma"	"Cma2"	"C. massiliensis"	19.5	0	"N2"	"atm"	"N2-atm"	"CH4"	"CH4"
+"296"	"Cma"	"Cma1"	"C. massiliensis"	19.5	0	"N2"	"atm"	"N2-atm"	"CH4"	"CH4"
+"297"	"Ct"	"Ct3"	"C. timonensis"	19.5	0	"N2"	"atm"	"N2-atm"	"CH4"	"CH4"
+"298"	"MH2"	"MH21"	"M. smithii"	0	58.7976492516134	"H2"	"atm"	"H2-atm"	"H2"	"H2"
+"299"	"Ct"	"Ct2"	"C. timonensis"	19.5	0	"N2"	"atm"	"N2-atm"	"CH4"	"CH4"
+"300"	"Ct"	"Ct1"	"C. timonensis"	19.5	0	"N2"	"atm"	"N2-atm"	"CH4"	"CH4"
+"301"	"CmaM"	"CmaM3"	"M. smithii /
+C. massiliensis"	19.5	0.194118461488376	"N2"	"atm"	"N2-atm"	"CH4"	"CH4"
+"302"	"CmaM"	"CmaM2"	"M. smithii /
+C. massiliensis"	19.5	0.0882420181448497	"N2"	"atm"	"N2-atm"	"CH4"	"CH4"
+"303"	"C"	"C3"	"C. minuta"	194.5	0	"N2"	"atm"	"N2-atm"	"CH4"	"CH4"
+"304"	"CmaM"	"CmaM1"	"M. smithii /
+C. massiliensis"	19.5	0.107811820556006	"N2"	"atm"	"N2-atm"	"CH4"	"CH4"
+"305"	"CtM"	"CtM3"	"M. smithii /
+C. timonensis"	19.5	0.0909217013859543	"N2"	"atm"	"N2-atm"	"CH4"	"CH4"
+"306"	"CtM"	"CtM2"	"M. smithii /
+C. timonensis"	19.5	0.111530083014126	"N2"	"atm"	"N2-atm"	"CH4"	"CH4"
+"307"	"CtM"	"CtM1"	"M. smithii /
+C. timonensis"	19.5	0.132274073569951	"N2"	"atm"	"N2-atm"	"CH4"	"CH4"
+"308"	"C"	"C3"	"C. minuta"	19.5	0	"N2"	"atm"	"N2-atm"	"CH4"	"CH4"
+"309"	"C"	"C2"	"C. minuta"	19.5	0	"N2"	"atm"	"N2-atm"	"CH4"	"CH4"
+"310"	"C"	"C1"	"C. minuta"	19.5	0	"N2"	"atm"	"N2-atm"	"CH4"	"CH4"
+"314"	"MH2"	"MH21"	"M. smithii"	164	25.9510086443035	"H2"	"atm"	"H2-atm"	"H2"	"H2"
+"315"	"MH2"	"MH23"	"M. smithii"	0	0	"H2"	"atm"	"H2-atm"	"CH4"	"CH4"
+"316"	"MH2"	"MH22"	"M. smithii"	0	0	"H2"	"atm"	"H2-atm"	"CH4"	"CH4"
+"317"	"MH2"	"MH21"	"M. smithii"	0	0	"H2"	"atm"	"H2-atm"	"CH4"	"CH4"
+"318"	"Ct"	"Ct3"	"C. timonensis"	164	0	"N2"	"atm"	"N2-atm"	"CH4"	"CH4"
+"319"	"CtM"	"CtM3"	"M. smithii /
+C. timonensis"	67.5	0.192495390244492	"N2"	"atm"	"N2-atm"	"CH4"	"CH4"
+"320"	"Cma"	"Cma3"	"C. massiliensis"	0	0	"N2"	"atm"	"N2-atm"	"CH4"	"CH4"
+"321"	"Cma"	"Cma3"	"C. massiliensis"	91.5	5.78487832594412	"N2"	"atm"	"N2-atm"	"H2"	"H2"
+"322"	"Cma"	"Cma2"	"C. massiliensis"	0	0	"N2"	"atm"	"N2-atm"	"CH4"	"CH4"
+"323"	"Cma"	"Cma3"	"C. massiliensis"	19.5	0.355530634728448	"N2"	"atm"	"N2-atm"	"H2"	"H2"
+"325"	"Cma"	"Cma1"	"C. massiliensis"	0	0	"N2"	"atm"	"N2-atm"	"CH4"	"CH4"
+"326"	"CtM"	"CtM1"	"M. smithii /
+C. timonensis"	67.5	0.403824849289601	"N2"	"atm"	"N2-atm"	"CH4"	"CH4"
+"327"	"Ct"	"Ct3"	"C. timonensis"	0	0	"N2"	"atm"	"N2-atm"	"CH4"	"CH4"
+"328"	"Ct"	"Ct3"	"C. timonensis"	164	0.502260935962233	"N2"	"atm"	"N2-atm"	"H2"	"H2"
+"329"	"Ct"	"Ct2"	"C. timonensis"	0	0	"N2"	"atm"	"N2-atm"	"CH4"	"CH4"
+"330"	"CmaM"	"CmaM2"	"M. smithii /
+C. massiliensis"	0	0.0153000273396312	"N2"	"atm"	"N2-atm"	"H2"	"H2"
+"331"	"Ct"	"Ct1"	"C. timonensis"	0	0	"N2"	"atm"	"N2-atm"	"CH4"	"CH4"
+"332"	"CmaM"	"CmaM3"	"M. smithii /
+C. massiliensis"	0	0	"N2"	"atm"	"N2-atm"	"CH4"	"CH4"
+"333"	"CmaM"	"CmaM2"	"M. smithii /
+C. massiliensis"	0	0	"N2"	"atm"	"N2-atm"	"CH4"	"CH4"
+"334"	"CmaM"	"CmaM1"	"M. smithii /
+C. massiliensis"	0	0	"N2"	"atm"	"N2-atm"	"CH4"	"CH4"
+"335"	"CtM"	"CtM3"	"M. smithii /
+C. timonensis"	0	0	"N2"	"atm"	"N2-atm"	"CH4"	"CH4"
+"336"	"CtM"	"CtM2"	"M. smithii /
+C. timonensis"	0	0	"N2"	"atm"	"N2-atm"	"CH4"	"CH4"
+"337"	"CtM"	"CtM1"	"M. smithii /
+C. timonensis"	0	0	"N2"	"atm"	"N2-atm"	"CH4"	"CH4"
+"338"	"C"	"C3"	"C. minuta"	0	0	"N2"	"atm"	"N2-atm"	"CH4"	"CH4"
+"339"	"C"	"C2"	"C. minuta"	0	0	"N2"	"atm"	"N2-atm"	"CH4"	"CH4"
+"340"	"C"	"C1"	"C. minuta"	0	0	"N2"	"atm"	"N2-atm"	"CH4"	"CH4"
+"342"	"CtM"	"CtM2"	"M. smithii /
+C. timonensis"	333.5	2.76010122454411	"N2"	"atm"	"N2-atm"	"CH4"	"CH4"
